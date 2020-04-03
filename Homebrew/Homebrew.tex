@@ -1,0 +1,50 @@
+\documentclass[10pt,twoside, twocolumn, openany]{dndbook}
+
+\usepackage[english, italian]{babel}
+\usepackage[utf8]{inputenc}
+\usepackage{lipsum}
+\usepackage{listings}
+\usepackage{flushend}
+\usepackage{dblfloatfix}
+
+\lstset{%
+  basicstyle=\ttfamily,
+  language=[LaTeX]{TeX},
+}
+
+
+\begin{document}
+\raggedend
+
+\input{0-CopertinaInizio/Copertina}
+
+\input{1-StrutturaDelCosmo/Cosmo}
+
+\chapter{Capitolo 2: Razze}
+
+\section*{Presentazione}
+Si noti innanzitutto che la lista di razze qui presentate, a parte per lo Shadar-Kai e poche altre che mi riservo di aggiungere in future revisioni, riguarda prevalentemente pochi NPC unici. Ciò non offre in ogni caso una scusa per rinunciare alla loro coerenza nell'universo di gioco, e verranno pertanto trattate con la dovuta delicatezza.
+
+\input{2-Razze/2.1-Shadar-Kai/Shadar-Kai}
+
+\input{2-Razze/2.2-FeyCorgi/FeyCorgi}
+
+\chapter{Capitolo 3: Classi e Opzioni}
+\input{3-classi/FighterShoei}
+
+\input{3-classi/WarlockCO}
+
+
+\chapter{Capitolo 4: Il Mondo di Gioco}
+\input{../MasterMaterial/RegnoOster/OsterPubblico}
+\input{../MasterMaterial/Chiesa/Chiesa}
+\input{4-Territori/Location_merger}
+
+\chapter{Capitolo 5: NPCs}
+\input{5-NPCs/NPCMinori}
+
+\chapter{Capitolo 6: Oggetti ed Equipaggiamenti}
+\input{6-Oggetti/AdventuringGears}
+
+
+\end{document}

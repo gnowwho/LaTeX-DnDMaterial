@@ -1,0 +1,51 @@
+% Changing book to article will make the footers match on each page,
+% rather than alternate every other.
+%
+% Note that the article class does not have chapters.
+\documentclass[letterpaper,10pt,twoside,twocolumn,openany]{dndbook}
+
+% Use babel or polyglossia to automatically redefine macros for terms
+% Armor Class, Level, etc...
+% Default output is in English; captions are located in lib/dndstring-captions.sty.
+% If no captions exist for a language, English will be used.
+%1. To load a language with babel:
+%	\usepackage[<lang>]{babel}
+%2. To load a language with polyglossia:
+%	\usepackage{polyglossia}
+%	\setdefaultlanguage{<lang>}
+\usepackage[italian]{babel}
+%\usepackage[italian]{babel}
+% For further options (multilanguage documents, hypenations, language environments...)
+% please refer to babel/polyglossia's documentation.
+
+\usepackage[utf8]{inputenc}
+\usepackage{lipsum}
+\usepackage{listings}
+
+\lstset{%
+  basicstyle=\ttfamily,
+  language=[LaTeX]{TeX},
+}
+
+% Start document
+\begin{document}
+
+\section{Proposte}
+\subsection{Eldritch Knight}
+
+Un cadetto di una piccola famiglia nobiliare, educato all'uso della spada, la lancia e l'arco come si confà al suo rango. Una conversazione casuale avuta con un ospite del padre lo fece appassionare alla magia, ma le pressioni famigliari gli impedirono sempre di ottenere una educazione formale in tal senso.
+Grazie all'aiuto del fratello ed una discreta attitudine personale riuscì tuttavia ad apprendere alcuni incantesimi, in particolare da un tomo di magia sacra.
+Una volta lasciato il nucleo famigliare e potuto ampliare i suoi orizzonti, si trovò tuttavia molto meglio disposto nei confronti della magia arcana, che si mise a studiare, sempre autonomamente, cercando di integrarla nella propria scherma, processo tutt'altro che concluso.
+
+Cresciuto con la consapevolezza del suo status come cadetto, cercò sempre di capire cosa la nobiltà significasse per lui, senza mai desiderare potere a discapito del fratello, che rispetta. La vita da avventuriero gli sembrò l'alternativa migliore per conoscere se stesso e difendere la vita della popolazione, verso il quale si sentiva responsabile, da vicino.
+
+Si tratta ancora di un personaggio giovane e pieno di dubbi, in cerca di una propria strada e pronto a mettere in dubbio ogni valore, per crescere.
+
+
+
+
+\subsection{Chierico della tomba}
+
+\subsection{Warmage}
+
+\end{document}

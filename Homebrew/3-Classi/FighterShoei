@@ -1,0 +1,82 @@
+\section{Guerriero: Archetipi Marziali}
+A livello 3 ogni Guerriero sceglie un archetipo verso il quale specializzarsi, nel raffinamento delle proprie capacità. L'archetipo scelto garantisce delle abilità ai livelli 3, 7, 10, 15 e 18.
+
+\subsection{Sōhei}
+I Sōhei sono monaci guerrieri, esperti nell'arte del combattimento e nella storia della guerra.
+Tra una battaglia e l'altra sono soliti meditare su le tecniche proprie e degli avversari, al fine di sviluppare e raffinare al massimo le proprie capacità marziali. Tramite tecniche storiche o proprie ed originali, sono in grado di muoversi abilmente sul campo di battaglia, schivando i colpi dei nemici e colpendo con precisione letale.
+
+\header{Features del Sōhei}
+\begin{dndtable}
+    \textbf{Livello da Guerriero}   &  \textbf{Feature}   \\
+    lv 3                  &  Bujutsu   \\
+    lv 7                  &  Mente Calma   \\
+    lv 10                 &  Meditazione Istantanea   \\
+    lv 15                 &  Spirito Incrollabile  \\
+    lv 18                 &  Saigonoichigeki
+\end{dndtable}
+
+\subsubsection{Bujutsu}
+A livello 3 hai completato la tua formazione nel Bujutsu, ovvero nella storia della guerra e nelle tecniche di combattimento. Se non la possiedi, acquisisci la competenza in Intelligenza(Storia). Inoltre, ogniqualvolta fai un tiro di Intelligenza(Storia) riguardante una battaglia od una guerra passata, raddoppia il tuo bonus di Competenza.
+
+Aggiuntivamente, una volta per round, puoi decidere di impiegare una delle tecniche seguenti. Quando lo fai, puoi scegliere di impiegare la versione avanzata di quella tecnica. Puoi realizzare una tecnica avanzata due volte, recuperi ogni uso di tecnica avanzata ad ogni Riposo Breve o Prolungato.
+
+\bigskip
+
+\begin{figure}[h!]
+  \includegraphics[width=1\linewidth]{3-Classi/RisorseShoei/Shoei_Male.png}
+\end{figure}
+
+\paragraph{Focus}
+
+Quando scegli l'azione di attacco puoi soffermarti per concentrarti al massimo, se lo fai rinunci ad un attacco e ottieni vantaggio sul prossimo attack roll compiuto quel round.
+
+\textbf{\textit{Tecnica Avanzata:}} Non devi rinunciare ad un attacco per ottenere i vantaggi di questa tecnica e il vantaggio è ottenuto su metà degli attacchi compiuti nell'azione di attacco che ha attivato la tecnica, arrotondata per eccesso.
+
+\bigskip
+
+\begin{figure*}[b]
+  \vspace*{-1.5cm}
+  \hspace*{-1.7cm}
+  \includegraphics[width=1.2\linewidth]{3-Classi/RisorseShoei/Shoei1.png}
+\end{figure*}
+
+\paragraph{Shukuchi}
+
+Quando scegli l'azione di attacco puoi muoverti fino a cinque piedi entro tale azione, senza spendere il tuo movimento e senza provocare attacchi di opportunità. Questo movimento può essere spezzato in più parti e realizzato prima o dopo qualunque attacco previsto dall'azione.
+
+\textbf{\textit{Tecnica Avanzata:}} Quando usi lo Shukuchi puoi invece muovere fino a metà della tua velocità di movimento, arrotondata per difetto al multiplo di cinque piedi più vicino, sempre entro la tua azione d'attacco, senza consumare movimento e senza provocare attacchi d'opportunità.
+
+\bigskip
+
+\paragraph{Parry}
+
+Quando viene fatto un'attacco con un'arma contro di te, puoi usare la tua reazione per aumentare la tua CA nei confronti di quell'attacco di un valore pari al tuo modificatore di Saggezza (per un minimo di 1).
+
+\textbf{\textit{Tecnica Avanzata:}} Dopo l'attacco che ha concesso l'attivazione di questa tecnica, puoi compiere un singolo attacco con l'arma che impugni, se possibile, contro l'attaccante.
+
+\bigskip
+
+\subsubsection{Mente Calma}
+
+A partire dal livello 7 la tua concentrazione non vacilla mai. Non puoi essere sorpreso se non sei incapacitato, inoltre, quando fai un tiro di iniziativa puoi decidere di aggiungere il tuo modificatore di saggezza al risultato oltre ai normali modificatori che applicheresti.
+
+\subsubsection{Meditazione Istantanea}
+
+A partire dal livello 10 sei in grado di ricomporre mente e corpo in meditazione nel tempo di un respiro. Quando usi una Tecnica Avanzata del tuo Bujutsu puoi guadagnare 1d10 + il tuo modificatore di saggezza Punti Vita temporanei, che durano fino al tuo prossimo riposo breve.
+
+\subsubsection{Spirito Incrollabile}
+
+Dal livello 15, ogniqualvolta tiri per l'iniziativa, se non hai usi di Tecniche Avanzate di Bujutsu rimanenti, ne guadagni uno.
+
+
+\subsubsection{Saigonoichigeki}
+
+A livello 18 hai raggiunto un'incredibile maestria nel combattimento, e sei in grado di eliminare i nemici più forti con un singolo colpo letale.
+Quando colpisci una creatura con un attacco fatto con l'arma che impugni, puoi tirare 10d10 invece di infliggere danno normalmente. Se il bersaglio è una creatura con meno punti vita del risultato ottenuto + il tuo livello da Guerriero, questa muore sul colpo.
+Puoi usare quest'abilità una sola volta per Riposo Prolungato.
+
+\flushcolsend
+
+
+
+\clearpage

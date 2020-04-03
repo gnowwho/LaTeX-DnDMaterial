@@ -1,0 +1,93 @@
+\section{Warlock: Patroni Extraplanari}
+A livello 1 ogni warlock sceglie un patrono. Questo patrono garantisce delle features ai livelli 1, 6, 10 e 14.
+
+\subsection{La Regina Corvo}
+Il tuo patrono è la Regina Corvo che governa Latherna e protegge il ciclo delle anime. Similmente a come la regina sceglie i propri Shadar-Kai, occasionalmente ella ricorre a patti di questo genere affinchè ogni cosa nel cosmo cada esattamente al proprio posto.
+
+Sensazioni e sussuri in sogno sono rari ma possibili, ed il potere stesso di cui sei investito è la volontà della Regina. Come Suo servitore senti il suo stesso odio per coloro che sfuggono alla morte senza che sia previsto, e per questo tendi a voler distruggere quasi ogni immortale e non-morto dotato ancora di intelligenza.
+
+\header{Features del servitore della Regina Corvo}
+\begin{dndtable}
+    \textbf{Livello da Warlock}   &  \textbf{Feature}   \\
+    lv 1                  &  Corvo Sentinella   \\
+    lv 6                  &  Anima del Corvo, Vento di Lehterna   \\
+    lv 10                 &  Scudo della Regina \\
+    lv 14                 &  Mano della Regina
+\end{dndtable}
+
+\subsubsection{Lista estesa degli incantesimi}
+Come Servo della Regina Corvo puoi scegliere anche tra i seguenti incantesimi quando ne apprendi come Warlock, oltre a quelli normalmente garantiti. Questi incantesimi sono da Warlock, per te.
+
+\header{Incantesimi aggiuntivi Regina Corvo}
+\begin{dndtable}
+  \textbf{Livello incantesimo}  & \textbf{Incantesimi}            \\
+  lv 1                   & \textit{false life, sanctuary}        \\
+  lv 2                   & \textit{silence, spiritual weapon}    \\
+  lv 3                   & \textit{feign death, speak with dead} \\
+  lv 4                   & \textit{ice storm, locate creature}   \\
+  lv 5                   & \textit{commune, cone of cold}
+\end{dndtable}
+
+\subsubsection{Corvo Sentinella}
+Dal livello 1, guadagni il servizio di uno spirito mandato dalla Regina Corvo. Questo spirito ha forma e caratteristiche di gioco di un corvo, e obbedisce ad ogni tuo comando al meglio delle sue capacità. Sei in contatto telepatico con il corvo fintanto che è entro 100 piedi da te. In questo modo puoi comunicargli degli ordini, ma anche vedere e sentire ciò che esso vede e sente.
+
+Quando il corvo si poggia sulla tua spalla guadagni scurovisione entro 30 piedi ed un bonus alla Saggezza (percezione) passiva e ai tiri sulla Saggezza (percezione) pari al tuo carisma.
+Fintanto che il corvo è sulla tua spalla solo tu puoi bersagliarlo con incantesimi, ed esso non può subire danni o altri effetti dannosi. Esso è incapacitato.
+
+In battaglia tu tiri per l'iniziativa del Corvo e controlli le sue azioni. Se esso viene ucciso da una creatura, guadagni vantaggio ad ogni tiro per colpire contro di essa per le successive 24 ore.
+
+Il corvo non necessita del sonno, e può svegliarti con una bonus action fintanto che è in contatto telepatico con te.
+
+Quando il corvo muore o si trova a più di 5 miglia da te, esso scompare. Al termine di un riposo Breve o Lungo, puoi chiamare il corvo, ed esso riapparirà entro 5 piedi da te, non importa se e dove esso sia morto.
+
+\subsubsection{Anima del Corvo}
+Dal livello 6 guadagni la capacità di fondere il tuo corpo con lo spirito del Corvo. Come bonus action, mentre il Corvo è sulla tua spalla, puoi fonderti ad esso. Fintanto che sei Congiunto al corvo la tua taglia è Minuscola (tiny), le tue velocità, la tua forza, la tua costituzione e la tua classe armatura sono sostituite da quelle del corvo (La CA del corvo è 10+DEX). La tua destrezza è la maggiore tra la tua e quella del corvo.
+Inoltre, mentre sei in questa forma puoi utilizzare la tua azione solo per scattare (Dash), disingaggiare (Disengage), schivare (Dodge), Aiutare (Help), Nasconderti (Hide) e cercare (Search), e guadagni i benefici di quando il corvo è poggiato sulla tua spalla.
+
+Puoi Separarti dal tuo corvo usando un'azione.
+
+\subsubsection{Vento di Letherna}
+Dal livello 6, quando lanci un'incantesimo che infligge danno da gelo o necrotico puoi aggiungere al tiro per il danno di uno di questi due tipi il tuo bonus di Carisma. Se un incantesimo infligge entrambi questi tipi di danni, puoi scegline al più uno per l'attivazione di questa feature.
+
+\subsubsection{Scudo della Regina}
+A livello 10 il favore della Regina Corvo ti rende più sfuggente alla morte. Hai vantaggio sui tiri salvezza contro la morte, immunità alla paura e resistenza al danno necrotico.
+
+\subsubsection{Mano della Regina}
+A partire dal livello 14 la Regina ti permette di requisire vite intese per essere concluse. Puoi castare \textit{finger of death}, dopo averlo fatto dovrai completare un Riposo Prolungato prima di poterlo fare di nuovo.
+
+\subsection{Invocazioni Arcane}
+Dal livello 2 il Warlock guadagna la capacità di utilizzare delle invocazioni arcane. Le seguenti invocazioni sono disponibili, in aggiunta a quelle presenti sui manuali di riferimento.
+Alcune di queste hanno prerequisiti. Non puoi apprendere un'invocazione fintanto che non li soddisfi. Puoi apprendere un'invocazione nello stesso momento in cui soddisfi i suoi requisiti.
+
+\subsubsection{Grido Agghiacciante (Ghastly Shriek)}
+\textit{Prerequisito: La Regina Corvo come Patrono, Feature del Patto della Catena}
+
+La Regina Corvo Benedice il tuo Famiglio. Quando il tuo Corvo attacca, puoi spendere una spell slot per permettergli di convogliare l'energia arcana  che ricevi dallo Shadowfell in un terrificante urlo.
+
+Ogni creatura in grado di sentire entro 10 piedi deve effettuare un tiro salvezza sulla Saggezza o essere spaventato (Frightened). Chiunque fallisca tale tiro salvezza riceve inoltre danni psichici (psychic) pari a 1d6 per ogni livello di slot usato più uno, più il tuo modificatore di carisma. Dimezza questo danno se il bersaglio supera il tiro salvezza.
+
+\subsubsection{Mietitore di Anime (Reaper of Souls)}
+\textit{Prerequisito: La Regina Corvo come Patrono, Feature del Patto della Lama}
+
+In combattimento puoi spendere un'azione per comandare allo spirito del corvo di infondersi nella tua arma e veicolare una benedizione della Regina.
+L'arma che impugni nella mano destra diventa magica, allo scopo di determinare la resistenza ai danni e può essere usata come arcane focus per i tuoi incantesimi da Warlock. Essa infligge, su colpo, 1d6+CHA danni necrotici oltre al normale danno dell'arma.
+
+Se un colpo inferto dalla tua arma in questo stato uccide un nemico puoi recuperare HP pari a tutto il danno necrotico inflitto da quel colpo.
+Puoi separare lo spirito del corvo dalla tua arma con una bonus action, se lo fai, esso riapparirà sulla tua spalla.
+
+\subsubsection{Occhio del Sapere (Eye of Knowledge)}
+\textit{Prerequisito: La Regina Corvo come Patrono, Feature del Patto del Tomo, livello 9}
+
+Quando acquisisci questa invocazione puoi appellarti alla conoscenza assoluta del multiverso della Regina Corvo.
+Puoi aggiungere l'incantesimo \textit{Scrying} al tuo Libro delle Ombre e castarlo come fosse un rituale. Quando casti \textit{Scrying} in questo modo il sensore non viene manifestato, invece la fonte delle tue visioni è la Regina Corvo.
+Questo significa che a volte le immagini che vedi sono diverse dalla realtà in alcuni piccoli dettagli: l'esatto taglio del vestiario del bersaglio, ad esempio, o il suo viso, se non l'hai mai visto; seppur ogni cosa corrisponda esattamente alla stessa descrizione (ad esempio il volto che vedrai sarà della stessa tipologia, ma potenzialmente distinto in piccoli dettagli).
+
+\subsubsection{Manto Mortale (Death Shroud)}
+\textit{Prerequisito: La Regina Corvo come Patrono, Livello 6}
+
+Come bonus action puoi avvolgerti nell'atmosfera gelida e decadente di Letherna, creando un'aura che si irradia sfericamente cinque piedi attorno a te, nella quale piccoli frammenti di ghiaccio e penne di corvo vorticano, infliggendo un danno da gelo pari a 1+CHA a chiunque inizi o termini il turno nella nube (una sola volta per turno).
+Le penne ed il ghiaccio si sgretolano non appena escono dall'aura. Ogniqualvolta la nube infligge danno recuperi altrettanta vita.
+Finchè sei avvolto da questo manto hai vantaggio ad ogni tiro sul Carisma (Intimidire), ma svantaggio su ogni altro skill check su Carisma.
+Puoi sciogliere quest'aura come bonus action.
+
+\clearpage

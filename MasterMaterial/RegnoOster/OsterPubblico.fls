@@ -1,0 +1,10 @@
+PWD C:/Users/cus96/Documents/Università/LaTeX/D&D/MasterMaterial/RegnoOster
+INPUT c:/texlive/2018/texmf.cnf
+INPUT c:/texlive/2018/texmf-dist/web2c/texmf.cnf
+INPUT c:/texlive/2018/texmf-var/web2c/pdftex/pdflatex.fmt
+INPUT OsterPubblico.tex
+OUTPUT OsterPubblico.log
+INPUT c:/texlive/2018/texmf-dist/fonts/map/fontname/texfonts.map
+INPUT c:/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm
+OUTPUT OsterPubblico.pdf
+INPUT c:/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map
