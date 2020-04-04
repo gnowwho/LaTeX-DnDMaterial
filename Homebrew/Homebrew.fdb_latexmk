@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1585943221 "Homebrew.tex" "Homebrew.pdf" "Homebrew" 1585943687
+["pdflatex"] 1586004088 "Homebrew.tex" "Homebrew.pdf" "Homebrew" 1586004097
   "../MasterMaterial/Chiesa/Chiesa" 1557071084 5104 4013782fd61c293209d312cf65540cb3 ""
   "../MasterMaterial/RegnoOster/OsterPubblico.tex" 1580321079 19486 b9e456d60fa3934208de38e691f0b0bf ""
   "0-CopertinaInizio/Copertina.tex" 1553096624 252 3b497a2a9fd859e05edc76965644d615 ""
@@ -18,11 +18,11 @@
   "3-Classi/RisorseShoei/Shoei_male.png" 1569622054 402353 dcc9a8fe45ee18f30a9677b658f771b9 ""
   "3-Classi/WarlockCO" 1569419217 8409 7e1b664ae4dc10c4d4c528b4fd4c4276 ""
   "4-Territori/Location_merger" 1585937753 258 d04972ebbe805444a264f5f256737ec6 ""
-  "4-Territori/Tolera" 1585943196 2585 3d04944b955ffd0ddce87965c450f3d1 ""
+  "4-Territori/Tolera" 1586002694 3400 ceec82b68966048f231850f4232f5364 ""
   "5-NPCs/NPCMinori.tex" 1553095870 241 c5442bf7caa77da1987abb9c219c36db ""
-  "6-Oggetti/AdventuringGears.tex" 1553095931 910 341024e8fa4e2b8994c02f557c3e9df9 ""
-  "Homebrew.aux" 1585943233 12323 751cc76e19dc5522c1051ea62136654a ""
-  "Homebrew.tex" 1585943685 1329 f10404673fe5a7af9850e12e244bbb74 ""
+  "6-Oggetti/AdventuringGears.tex" 1586004080 940 025fb04e1463e499dd65b92044a14b9f ""
+  "Homebrew.aux" 1586004096 12323 751cc76e19dc5522c1051ea62136654a ""
+  "Homebrew.tex" 1586004087 1329 f10404673fe5a7af9850e12e244bbb74 ""
   "c:/Users/cus96/texmf/tex/latex/dnd/dnd.sty" 1552835384 5328 f2449ab130b22aff1bc144df688cea03 ""
   "c:/Users/cus96/texmf/tex/latex/dnd/dndbook.cls" 1552835384 686 4705046af834646a17c63abf935cfbec ""
   "c:/Users/cus96/texmf/tex/latex/dnd/img/footerscroll.pdf" 1552835384 2229 919589f4b78982970bfb61061d203879 ""
@@ -260,5 +260,5 @@
   "nul" 0 0 d41d8cd98f00b204e9800998ecf8427e ""
   (generated)
   "Homebrew.aux"
-  "Homebrew.log"
   "Homebrew.pdf"
+  "Homebrew.log"

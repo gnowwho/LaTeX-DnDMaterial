@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/W32TeX) (preloaded format=pdflatex 2019.3.11)  3 APR 2020 21:47
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/W32TeX) (preloaded format=pdflatex 2019.3.11)  4 APR 2020 14:41
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1683,7 +1683,7 @@ Here is how much of TeX's memory you used:
  66i,17n,122p,1736b,1052s stack positions out of 5000i,500n,10000p,200000b,80000s
 {c:/texlive/2018/texmf-dist/fonts/enc/dvips/base/8r.enc}{c:/texlive/2018/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{c:/texlive/2018/texmf-dist/fonts/enc/dvips/opensans/opensans-02.enc}{c:/texlive/2018/texmf-dist/fonts/enc/dvips/opensans/opensans-04.enc}{c:/texlive/2018/texmf-dist/fonts/enc/dvips/opensans/opensans-01.enc}<c:/texlive/2018/texmf-dist/fonts/type1/public/opensans/OpenSans-Bold.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/lm/lmss10.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/lm/lmsso10.pfb><c:/texlive/2018/texmf-dist/fonts/type1/urw/bookman/ubkd8a.pfb><c:/texlive/2018/texmf-dist/fonts/type1/urw/bookman/ubkd8a.pfb><c:/texlive/2018/texmf-dist/fonts
 /type1/urw/bookman/ubkdi8a.pfb><c:/texlive/2018/texmf-dist/fonts/type1/urw/bookman/ubkl8a.pfb><c:/texlive/2018/texmf-dist/fonts/type1/urw/bookman/ubkli8a.pfb>
-Output written on Homebrew.pdf (26 pages, 11189754 bytes).
+Output written on Homebrew.pdf (26 pages, 11190614 bytes).
 PDF statistics:
  171 PDF objects out of 1000 (max. 8388607)
  110 compressed objects within 2 object streams
