@@ -5,15 +5,14 @@ A livello 3 ogni Guerriero sceglie un archetipo verso il quale specializzarsi, n
 I Sōhei sono monaci guerrieri, esperti nell'arte del combattimento e nella storia della guerra.
 Tra una battaglia e l'altra sono soliti meditare su le tecniche proprie e degli avversari, al fine di sviluppare e raffinare al massimo le proprie capacità marziali. Tramite tecniche storiche o proprie ed originali, sono in grado di muoversi abilmente sul campo di battaglia, schivando i colpi dei nemici e colpendo con precisione letale.
 
-\header{Features del Sōhei}
-\begin{dndtable}
+\begin{DndTable}[header=Features del Sōhei]{lX}
     \textbf{Livello da Guerriero}   &  \textbf{Feature}   \\
     lv 3                  &  Bujutsu   \\
     lv 7                  &  Mente Calma   \\
     lv 10                 &  Meditazione Istantanea   \\
     lv 15                 &  Spirito Incrollabile  \\
-    lv 18                 &  Saigonoichigeki
-\end{dndtable}
+    lv 18                 &  Saigonoichigeki \\
+\end{DndTable}
 
 \subsubsection{Bujutsu}
 A livello 3 hai completato la tua formazione nel Bujutsu, ovvero nella storia della guerra e nelle tecniche di combattimento. Se non la possiedi, acquisisci la competenza in Intelligenza(Storia). Inoltre, ogniqualvolta fai un tiro di Intelligenza(Storia) riguardante una battaglia od una guerra passata, raddoppia il tuo bonus di Competenza.
@@ -22,7 +21,7 @@ Aggiuntivamente, una volta per round, puoi decidere di impiegare una delle tecni
 
 \bigskip
 
-\begin{figure}[h!]
+\begin{figure}[ht!]
   \includegraphics[width=1\linewidth]{3-Classi/RisorseShoei/Shoei_Male.png}
 \end{figure}
 
@@ -34,11 +33,12 @@ Quando scegli l'azione di attacco puoi soffermarti per concentrarti al massimo, 
 
 \bigskip
 
-\begin{figure*}[b]
-  \vspace*{-1.5cm}
-  \hspace*{-1.7cm}
-  \includegraphics[width=1.2\linewidth]{3-Classi/RisorseShoei/Shoei1.png}
-\end{figure*}
+%\begin{figure*}[b]
+%  \vspace*{0cm}
+%  \hspace*{-4.2cm}
+%  \includegraphics[width=1.1\paperwidth]{3-Classi/RisorseShoei/Shoei1.png}
+%\end{figure*}
+
 
 \paragraph{Shukuchi}
 
@@ -77,6 +77,8 @@ Puoi usare quest'abilità una sola volta per Riposo Prolungato.
 
 \flushcolsend
 
-
+\begin{tikzpicture}[remember picture, overlay, shift={(current page.south east)}]
+  \node[anchor=south east, xshift=2, yshift=-3]{\includegraphics[width=1.15\paperwidth]{3-Classi/RisorseShoei/Shoei1.png}};
+\end{tikzpicture}
 
 \clearpage
