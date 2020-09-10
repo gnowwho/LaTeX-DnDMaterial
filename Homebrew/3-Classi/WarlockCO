@@ -6,27 +6,26 @@ Il tuo patrono è la Regina Corvo che governa Latherna e protegge il ciclo delle
 
 Sensazioni e sussuri in sogno sono rari ma possibili, ed il potere stesso di cui sei investito è la volontà della Regina. Come Suo servitore senti il suo stesso odio per coloro che sfuggono alla morte senza che sia previsto, e per questo tendi a voler distruggere quasi ogni immortale e non-morto dotato ancora di intelligenza.
 
-\header{Features del servitore della Regina Corvo}
-\begin{dndtable}
+\begin{DndTable}[header=Features del servitore della Regina Corvo]{lX}
     \textbf{Livello da Warlock}   &  \textbf{Feature}   \\
     lv 1                  &  Corvo Sentinella   \\
     lv 6                  &  Anima del Corvo, Vento di Lehterna   \\
     lv 10                 &  Scudo della Regina \\
-    lv 14                 &  Mano della Regina
-\end{dndtable}
+    lv 14                 &  Mano della Regina \\
+\end{DndTable}
 
 \subsubsection{Lista estesa degli incantesimi}
 Come Servo della Regina Corvo puoi scegliere anche tra i seguenti incantesimi quando ne apprendi come Warlock, oltre a quelli normalmente garantiti. Questi incantesimi sono da Warlock, per te.
 
-\header{Incantesimi aggiuntivi Regina Corvo}
-\begin{dndtable}
+
+\begin{DndTable}[header=Incantesimi aggiuntivi Regina Corvo]{lX}
   \textbf{Livello incantesimo}  & \textbf{Incantesimi}            \\
   lv 1                   & \textit{false life, sanctuary}        \\
   lv 2                   & \textit{silence, spiritual weapon}    \\
   lv 3                   & \textit{feign death, speak with dead} \\
   lv 4                   & \textit{ice storm, locate creature}   \\
-  lv 5                   & \textit{commune, cone of cold}
-\end{dndtable}
+  lv 5                   & \textit{commune, cone of cold} \\
+\end{DndTable}
 
 \subsubsection{Corvo Sentinella}
 Dal livello 1, guadagni il servizio di uno spirito mandato dalla Regina Corvo. Questo spirito ha forma e caratteristiche di gioco di un corvo, e obbedisce ad ogni tuo comando al meglio delle sue capacità. Sei in contatto telepatico con il corvo fintanto che è entro 100 piedi da te. In questo modo puoi comunicargli degli ordini, ma anche vedere e sentire ciò che esso vede e sente.

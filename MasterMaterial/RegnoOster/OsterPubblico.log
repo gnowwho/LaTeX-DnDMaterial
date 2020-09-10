@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/W32TeX) (preloaded format=pdflatex 2019.3.11)  29 JAN 2020 18:04
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/W32TeX) (preloaded format=pdflatex 2019.3.11)  10 SEP 2020 16:13
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -5876,14 +5876,14 @@ Overfull \hbox (18.95131pt too wide) in paragraph at lines 36--37
  []
 
 
-./OsterPubblico.tex:38: LaTeX Error: Environment paperbox undefined.
+./OsterPubblico.tex:38: LaTeX Error: Environment DndSidebar undefined.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.38 \begin{paperbox}
-                     [float=!b]{Meta}
+l.38 \begin{DndSidebar}
+                       [float=!b]{Meta}
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
@@ -5895,8 +5895,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.38 \begin{paperbox}[
-                      float=!b]{Meta}
+l.38 \begin{DndSidebar}[
+                        float=!b]{Meta}
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
@@ -6060,14 +6060,14 @@ Missing character: There is no n in font nullfont!
 Missing character: There is no i in font nullfont!
 Missing character: There is no . in font nullfont!
 
-./OsterPubblico.tex:40: LaTeX Error: \begin{document} ended by \end{paperbox}.
+./OsterPubblico.tex:40: LaTeX Error: \begin{document} ended by \end{DndSidebar}.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.40 \end{paperbox}
-                   
+l.40 \end{DndSidebar}
+                     
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
@@ -16995,7 +16995,7 @@ or  <return>  to continue without it.
  
 Here is how much of TeX's memory you used:
  24 strings out of 492616
- 337 string characters out of 6132768
+ 339 string characters out of 6132768
  63540 words of memory out of 5000000
  4032 multiletter control sequences out of 15000+600000
  3948 words of font info for 15 fonts, out of 8000000 for 9000
