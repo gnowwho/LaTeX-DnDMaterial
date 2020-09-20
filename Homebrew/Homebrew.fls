@@ -1,7 +1,7 @@
-PWD C:\Users\cus96\Documents\LaTeX\LaTeX-DnDMaterial\Homebrew
+PWD c:\Users\cus96\Documents\LaTeX\LaTeX-DnDMaterial\Homebrew
 INPUT C:\Users\cus96\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
-INPUT Homebrew.tex
-OUTPUT Homebrew.log
+INPUT c:\Users\cus96\Documents\LaTeX\LaTeX-DnDMaterial\Homebrew\Homebrew.tex
+OUTPUT c:\Users\cus96\Documents\LaTeX\LaTeX-DnDMaterial\Homebrew\Homebrew.log
 INPUT C:\Users\cus96\texmf\tex\latex\dnd\dndbook.cls
 INPUT C:\Users\cus96\texmf\tex\latex\dnd\dndbook.cls
 INPUT C:\Program Files\MiKTeX\tex\latex\l3kernel\expl3.sty
@@ -325,21 +325,21 @@ INPUT C:\Users\cus96\texmf\tex\latex\dnd\lib\languages\russian.sty
 INPUT C:\Users\cus96\texmf\tex\latex\dnd\lib\languages\russian.sty
 INPUT C:\Users\cus96\texmf\tex\latex\dnd\lib\languages\spanish.sty
 INPUT C:\Users\cus96\texmf\tex\latex\dnd\lib\languages\spanish.sty
-INPUT Homebrew.aux
-INPUT Homebrew.aux
-OUTPUT Homebrew.aux
+INPUT c:\Users\cus96\Documents\LaTeX\LaTeX-DnDMaterial\Homebrew\Homebrew.aux
+INPUT c:\Users\cus96\Documents\LaTeX\LaTeX-DnDMaterial\Homebrew\Homebrew.aux
+OUTPUT c:\Users\cus96\Documents\LaTeX\LaTeX-DnDMaterial\Homebrew\Homebrew.aux
 INPUT C:\Program Files\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
 INPUT C:\Program Files\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
 INPUT C:\Program Files\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
 INPUT C:\Program Files\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
-INPUT 0-CopertinaInizio\Copertina.tex
-INPUT 0-CopertinaInizio\Copertina.tex
-INPUT 0-CopertinaInizio\Risorse\backgroundTitle.png
-INPUT .\0-CopertinaInizio\Risorse\backgroundTitle.png
-OUTPUT Homebrew.pdf
-INPUT .\0-CopertinaInizio\Risorse\backgroundTitle.png
-INPUT .\0-CopertinaInizio\Risorse\backgroundTitle.png
-INPUT .\0-CopertinaInizio\Risorse\backgroundTitle.png
+INPUT c:\Users\cus96\Documents\LaTeX\LaTeX-DnDMaterial\Homebrew\0-CopertinaInizio\Copertina.tex
+INPUT c:\Users\cus96\Documents\LaTeX\LaTeX-DnDMaterial\Homebrew\0-CopertinaInizio\Copertina.tex
+INPUT c:\Users\cus96\Documents\LaTeX\LaTeX-DnDMaterial\Homebrew\0-CopertinaInizio\Risorse\backgroundTitle.png
+INPUT c:\Users\cus96\Documents\LaTeX\LaTeX-DnDMaterial\Homebrew\0-CopertinaInizio\Risorse\backgroundTitle.png
+OUTPUT c:\Users\cus96\Documents\LaTeX\LaTeX-DnDMaterial\Homebrew\Homebrew.pdf
+INPUT c:\Users\cus96\Documents\LaTeX\LaTeX-DnDMaterial\Homebrew\0-CopertinaInizio\Risorse\backgroundTitle.png
+INPUT c:\Users\cus96\Documents\LaTeX\LaTeX-DnDMaterial\Homebrew\0-CopertinaInizio\Risorse\backgroundTitle.png
+INPUT c:\Users\cus96\Documents\LaTeX\LaTeX-DnDMaterial\Homebrew\0-CopertinaInizio\Risorse\backgroundTitle.png
 INPUT C:\Users\cus96\texmf\tex\latex\dnd\img\paper.jpg
 INPUT C:\Users\cus96\texmf\tex\latex\dnd\img\paper.jpg
 INPUT C:\Users\cus96\texmf\tex\latex\dnd\img\paper.jpg
@@ -349,8 +349,8 @@ INPUT C:\Users\cus96\texmf\tex\latex\dnd\img\paper.jpg
 INPUT C:\Users\cus96\texmf\tex\latex\dnd\img\paper.jpg
 INPUT C:\Users\cus96\texmf\tex\latex\dnd\img\paper.jpg
 INPUT C:\Users\cus96\texmf\tex\latex\dnd\img\paper.jpg
-INPUT 1-StrutturaDelCosmo\Cosmo.tex
-INPUT 1-StrutturaDelCosmo\Cosmo.tex
+INPUT c:\Users\cus96\Documents\LaTeX\LaTeX-DnDMaterial\Homebrew\1-StrutturaDelCosmo\Cosmo.tex
+INPUT c:\Users\cus96\Documents\LaTeX\LaTeX-DnDMaterial\Homebrew\1-StrutturaDelCosmo\Cosmo.tex
 INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\bookman\pbkl8t.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\bookman\pbklc8t.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\bookman\pbkl8t.tfm
@@ -406,18 +406,18 @@ INPUT C:\Users\cus96\texmf\tex\latex\dnd\img\paper.jpg
 INPUT C:\Users\cus96\texmf\tex\latex\dnd\img\paper.jpg
 INPUT C:\Users\cus96\texmf\tex\latex\dnd\img\footerscroll.pdf
 INPUT C:\Users\cus96\texmf\tex\latex\dnd\img\footerscroll.pdf
-INPUT 2-Razze\2.1-Shadar-Kai\Shadar-Kai
-INPUT 2-Razze\2.1-Shadar-Kai\Shadar-Kai
-INPUT 2-Razze\2.1-Shadar-Kai\Risorse\Shadowfellbg.png
-INPUT .\2-Razze\2.1-Shadar-Kai\Risorse\Shadowfellbg.png
-INPUT .\2-Razze\2.1-Shadar-Kai\Risorse\Shadowfellbg.png
-INPUT .\2-Razze\2.1-Shadar-Kai\Risorse\Shadowfellbg.png
-INPUT .\2-Razze\2.1-Shadar-Kai\Risorse\Shadowfellbg.png
-INPUT 2-Razze\2.1-Shadar-Kai\Risorse\Shadar-kai1bg.png
-INPUT .\2-Razze\2.1-Shadar-Kai\Risorse\Shadar-kai1bg.png
-INPUT .\2-Razze\2.1-Shadar-Kai\Risorse\Shadar-kai1bg.png
-INPUT .\2-Razze\2.1-Shadar-Kai\Risorse\Shadar-kai1bg.png
-INPUT .\2-Razze\2.1-Shadar-Kai\Risorse\Shadar-kai1bg.png
+INPUT c:\Users\cus96\Documents\LaTeX\LaTeX-DnDMaterial\Homebrew\2-Razze\2.1-Shadar-Kai\Shadar-Kai
+INPUT c:\Users\cus96\Documents\LaTeX\LaTeX-DnDMaterial\Homebrew\2-Razze\2.1-Shadar-Kai\Shadar-Kai
+INPUT c:\Users\cus96\Documents\LaTeX\LaTeX-DnDMaterial\Homebrew\2-Razze\2.1-Shadar-Kai\Risorse\Shadowfellbg.png
+INPUT c:\Users\cus96\Documents\LaTeX\LaTeX-DnDMaterial\Homebrew\2-Razze\2.1-Shadar-Kai\Risorse\Shadowfellbg.png
+INPUT c:\Users\cus96\Documents\LaTeX\LaTeX-DnDMaterial\Homebrew\2-Razze\2.1-Shadar-Kai\Risorse\Shadowfellbg.png
+INPUT c:\Users\cus96\Documents\LaTeX\LaTeX-DnDMaterial\Homebrew\2-Razze\2.1-Shadar-Kai\Risorse\Shadowfellbg.png
+INPUT c:\Users\cus96\Documents\LaTeX\LaTeX-DnDMaterial\Homebrew\2-Razze\2.1-Shadar-Kai\Risorse\Shadowfellbg.png
+INPUT c:\Users\cus96\Documents\LaTeX\LaTeX-DnDMaterial\Homebrew\2-Razze\2.1-Shadar-Kai\Risorse\Shadar-kai1bg.png
+INPUT c:\Users\cus96\Documents\LaTeX\LaTeX-DnDMaterial\Homebrew\2-Razze\2.1-Shadar-Kai\Risorse\Shadar-kai1bg.png
+INPUT c:\Users\cus96\Documents\LaTeX\LaTeX-DnDMaterial\Homebrew\2-Razze\2.1-Shadar-Kai\Risorse\Shadar-kai1bg.png
+INPUT c:\Users\cus96\Documents\LaTeX\LaTeX-DnDMaterial\Homebrew\2-Razze\2.1-Shadar-Kai\Risorse\Shadar-kai1bg.png
+INPUT c:\Users\cus96\Documents\LaTeX\LaTeX-DnDMaterial\Homebrew\2-Razze\2.1-Shadar-Kai\Risorse\Shadar-kai1bg.png
 INPUT C:\Users\cus96\texmf\tex\latex\dnd\img\paper.jpg
 INPUT C:\Users\cus96\texmf\tex\latex\dnd\img\paper.jpg
 INPUT C:\Users\cus96\texmf\tex\latex\dnd\img\paper.jpg
@@ -435,11 +435,11 @@ INPUT C:\Users\cus96\AppData\Roaming\MiKTeX\tex\latex\gillius\t1gilliusadfnotwo-
 INPUT C:\Users\cus96\AppData\Roaming\MiKTeX\tex\latex\gillius\t1gilliusadfnotwo-lf.fd
 INPUT C:\Users\cus96\AppData\Roaming\MiKTeX\fonts\tfm\arkandis\gillius\GilliusADFNo2-Regular-lf-t1.tfm
 INPUT C:\Users\cus96\AppData\Roaming\MiKTeX\fonts\tfm\arkandis\gillius\GilliusADFNo2-Regular-lf-t1.tfm
-INPUT 2-Razze\2.1-Shadar-Kai\Risorse\crowskull2.png
-INPUT .\2-Razze\2.1-Shadar-Kai\Risorse\crowskull2.png
-INPUT .\2-Razze\2.1-Shadar-Kai\Risorse\crowskull2.png
-INPUT .\2-Razze\2.1-Shadar-Kai\Risorse\crowskull2.png
-INPUT .\2-Razze\2.1-Shadar-Kai\Risorse\crowskull2.png
+INPUT c:\Users\cus96\Documents\LaTeX\LaTeX-DnDMaterial\Homebrew\2-Razze\2.1-Shadar-Kai\Risorse\crowskull2.png
+INPUT c:\Users\cus96\Documents\LaTeX\LaTeX-DnDMaterial\Homebrew\2-Razze\2.1-Shadar-Kai\Risorse\crowskull2.png
+INPUT c:\Users\cus96\Documents\LaTeX\LaTeX-DnDMaterial\Homebrew\2-Razze\2.1-Shadar-Kai\Risorse\crowskull2.png
+INPUT c:\Users\cus96\Documents\LaTeX\LaTeX-DnDMaterial\Homebrew\2-Razze\2.1-Shadar-Kai\Risorse\crowskull2.png
+INPUT c:\Users\cus96\Documents\LaTeX\LaTeX-DnDMaterial\Homebrew\2-Razze\2.1-Shadar-Kai\Risorse\crowskull2.png
 INPUT C:\Users\cus96\texmf\tex\latex\dnd\img\paper.jpg
 INPUT C:\Users\cus96\texmf\tex\latex\dnd\img\paper.jpg
 INPUT C:\Users\cus96\texmf\tex\latex\dnd\img\paper.jpg
@@ -458,11 +458,11 @@ INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\bookman\pbkli8t.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\bookman\pbkdi8t.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\bookman\pbkl8t.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\bookman\pbklc8t.tfm
-INPUT 2-Razze\2.1-Shadar-Kai\Risorse\skullrav.png
-INPUT .\2-Razze\2.1-Shadar-Kai\Risorse\skullrav.png
-INPUT .\2-Razze\2.1-Shadar-Kai\Risorse\skullrav.png
-INPUT .\2-Razze\2.1-Shadar-Kai\Risorse\skullrav.png
-INPUT .\2-Razze\2.1-Shadar-Kai\Risorse\skullrav.png
+INPUT c:\Users\cus96\Documents\LaTeX\LaTeX-DnDMaterial\Homebrew\2-Razze\2.1-Shadar-Kai\Risorse\skullrav.png
+INPUT c:\Users\cus96\Documents\LaTeX\LaTeX-DnDMaterial\Homebrew\2-Razze\2.1-Shadar-Kai\Risorse\skullrav.png
+INPUT c:\Users\cus96\Documents\LaTeX\LaTeX-DnDMaterial\Homebrew\2-Razze\2.1-Shadar-Kai\Risorse\skullrav.png
+INPUT c:\Users\cus96\Documents\LaTeX\LaTeX-DnDMaterial\Homebrew\2-Razze\2.1-Shadar-Kai\Risorse\skullrav.png
+INPUT c:\Users\cus96\Documents\LaTeX\LaTeX-DnDMaterial\Homebrew\2-Razze\2.1-Shadar-Kai\Risorse\skullrav.png
 INPUT C:\Users\cus96\texmf\tex\latex\dnd\img\paper.jpg
 INPUT C:\Users\cus96\texmf\tex\latex\dnd\img\paper.jpg
 INPUT C:\Users\cus96\texmf\tex\latex\dnd\img\paper.jpg
@@ -476,18 +476,18 @@ INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\bookman\pbkdi8r.tfm
 INPUT C:\Program Files\MiKTeX\fonts\vf\adobe\bookman\pbklc8t.vf
 INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\bookman\pbkl8r.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\bookman\pbkl8r.tfm
-INPUT 2-Razze\2.2-FeyCorgi\FeyCorgi.tex
-INPUT 2-Razze\2.2-FeyCorgi\FeyCorgi.tex
-INPUT 2-Razze\2.2-FeyCorgi\Risorse\townbg.png
-INPUT .\2-Razze\2.2-FeyCorgi\Risorse\townbg.png
-INPUT .\2-Razze\2.2-FeyCorgi\Risorse\townbg.png
-INPUT .\2-Razze\2.2-FeyCorgi\Risorse\townbg.png
-INPUT .\2-Razze\2.2-FeyCorgi\Risorse\townbg.png
-INPUT 2-Razze\2.2-FeyCorgi\Risorse\fey_corgi2.png
-INPUT .\2-Razze\2.2-FeyCorgi\Risorse\fey_corgi2.png
-INPUT .\2-Razze\2.2-FeyCorgi\Risorse\fey_corgi2.png
-INPUT .\2-Razze\2.2-FeyCorgi\Risorse\fey_corgi2.png
-INPUT .\2-Razze\2.2-FeyCorgi\Risorse\fey_corgi2.png
+INPUT c:\Users\cus96\Documents\LaTeX\LaTeX-DnDMaterial\Homebrew\2-Razze\2.2-FeyCorgi\FeyCorgi.tex
+INPUT c:\Users\cus96\Documents\LaTeX\LaTeX-DnDMaterial\Homebrew\2-Razze\2.2-FeyCorgi\FeyCorgi.tex
+INPUT c:\Users\cus96\Documents\LaTeX\LaTeX-DnDMaterial\Homebrew\2-Razze\2.2-FeyCorgi\Risorse\townbg.png
+INPUT c:\Users\cus96\Documents\LaTeX\LaTeX-DnDMaterial\Homebrew\2-Razze\2.2-FeyCorgi\Risorse\townbg.png
+INPUT c:\Users\cus96\Documents\LaTeX\LaTeX-DnDMaterial\Homebrew\2-Razze\2.2-FeyCorgi\Risorse\townbg.png
+INPUT c:\Users\cus96\Documents\LaTeX\LaTeX-DnDMaterial\Homebrew\2-Razze\2.2-FeyCorgi\Risorse\townbg.png
+INPUT c:\Users\cus96\Documents\LaTeX\LaTeX-DnDMaterial\Homebrew\2-Razze\2.2-FeyCorgi\Risorse\townbg.png
+INPUT c:\Users\cus96\Documents\LaTeX\LaTeX-DnDMaterial\Homebrew\2-Razze\2.2-FeyCorgi\Risorse\fey_corgi2.png
+INPUT c:\Users\cus96\Documents\LaTeX\LaTeX-DnDMaterial\Homebrew\2-Razze\2.2-FeyCorgi\Risorse\fey_corgi2.png
+INPUT c:\Users\cus96\Documents\LaTeX\LaTeX-DnDMaterial\Homebrew\2-Razze\2.2-FeyCorgi\Risorse\fey_corgi2.png
+INPUT c:\Users\cus96\Documents\LaTeX\LaTeX-DnDMaterial\Homebrew\2-Razze\2.2-FeyCorgi\Risorse\fey_corgi2.png
+INPUT c:\Users\cus96\Documents\LaTeX\LaTeX-DnDMaterial\Homebrew\2-Razze\2.2-FeyCorgi\Risorse\fey_corgi2.png
 INPUT C:\Users\cus96\texmf\tex\latex\dnd\img\paper.jpg
 INPUT C:\Users\cus96\texmf\tex\latex\dnd\img\paper.jpg
 INPUT C:\Users\cus96\texmf\tex\latex\dnd\img\paper.jpg
@@ -496,11 +496,11 @@ INPUT C:\Users\cus96\texmf\tex\latex\dnd\img\paper.jpg
 INPUT C:\Users\cus96\texmf\tex\latex\dnd\img\paper.jpg
 INPUT C:\Users\cus96\texmf\tex\latex\dnd\img\footerscroll.pdf
 INPUT C:\Users\cus96\texmf\tex\latex\dnd\img\footerscroll.pdf
-INPUT 2-Razze\2.2-FeyCorgi\Risorse\Fey_Corgi3.png
-INPUT .\2-Razze\2.2-FeyCorgi\Risorse\Fey_Corgi3.png
-INPUT .\2-Razze\2.2-FeyCorgi\Risorse\Fey_Corgi3.png
-INPUT .\2-Razze\2.2-FeyCorgi\Risorse\Fey_Corgi3.png
-INPUT .\2-Razze\2.2-FeyCorgi\Risorse\Fey_Corgi3.png
+INPUT c:\Users\cus96\Documents\LaTeX\LaTeX-DnDMaterial\Homebrew\2-Razze\2.2-FeyCorgi\Risorse\Fey_Corgi3.png
+INPUT c:\Users\cus96\Documents\LaTeX\LaTeX-DnDMaterial\Homebrew\2-Razze\2.2-FeyCorgi\Risorse\Fey_Corgi3.png
+INPUT c:\Users\cus96\Documents\LaTeX\LaTeX-DnDMaterial\Homebrew\2-Razze\2.2-FeyCorgi\Risorse\Fey_Corgi3.png
+INPUT c:\Users\cus96\Documents\LaTeX\LaTeX-DnDMaterial\Homebrew\2-Razze\2.2-FeyCorgi\Risorse\Fey_Corgi3.png
+INPUT c:\Users\cus96\Documents\LaTeX\LaTeX-DnDMaterial\Homebrew\2-Razze\2.2-FeyCorgi\Risorse\Fey_Corgi3.png
 INPUT C:\Users\cus96\texmf\tex\latex\dnd\img\paper.jpg
 INPUT C:\Users\cus96\texmf\tex\latex\dnd\img\paper.jpg
 INPUT C:\Users\cus96\texmf\tex\latex\dnd\img\paper.jpg
@@ -509,8 +509,8 @@ INPUT C:\Users\cus96\texmf\tex\latex\dnd\img\paper.jpg
 INPUT C:\Users\cus96\texmf\tex\latex\dnd\img\paper.jpg
 INPUT C:\Users\cus96\texmf\tex\latex\dnd\img\footerscroll.pdf
 INPUT C:\Users\cus96\texmf\tex\latex\dnd\img\footerscroll.pdf
-INPUT 3-classi\FighterShoei
-INPUT 3-classi\FighterShoei
+INPUT c:\Users\cus96\Documents\LaTeX\LaTeX-DnDMaterial\Homebrew\3-classi\FighterShoei
+INPUT c:\Users\cus96\Documents\LaTeX\LaTeX-DnDMaterial\Homebrew\3-classi\FighterShoei
 INPUT C:\Users\cus96\AppData\Roaming\MiKTeX\fonts\tfm\public\kpfonts\jkpssbsc8t.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmr9.tfm
 INPUT C:\Users\cus96\AppData\Roaming\MiKTeX\tex\latex\microtype\mt-cmr.cfg
@@ -526,11 +526,11 @@ INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\bookman\pbkl8c.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\bookman\pbkl8c.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\bookman\pbkl8c.tfm
 INPUT C:\Users\cus96\AppData\Roaming\MiKTeX\fonts\tfm\arkandis\gillius\GilliusADFNo2-Bold-lf-t1.tfm
-INPUT 3-Classi\RisorseShoei\Shoei_Male.png
-INPUT .\3-Classi\RisorseShoei\Shoei_Male.png
-INPUT .\3-Classi\RisorseShoei\Shoei_Male.png
-INPUT .\3-Classi\RisorseShoei\Shoei_Male.png
-INPUT .\3-Classi\RisorseShoei\Shoei_Male.png
+INPUT c:\Users\cus96\Documents\LaTeX\LaTeX-DnDMaterial\Homebrew\3-Classi\RisorseShoei\Shoei_Male.png
+INPUT c:\Users\cus96\Documents\LaTeX\LaTeX-DnDMaterial\Homebrew\3-Classi\RisorseShoei\Shoei_Male.png
+INPUT c:\Users\cus96\Documents\LaTeX\LaTeX-DnDMaterial\Homebrew\3-Classi\RisorseShoei\Shoei_Male.png
+INPUT c:\Users\cus96\Documents\LaTeX\LaTeX-DnDMaterial\Homebrew\3-Classi\RisorseShoei\Shoei_Male.png
+INPUT c:\Users\cus96\Documents\LaTeX\LaTeX-DnDMaterial\Homebrew\3-Classi\RisorseShoei\Shoei_Male.png
 INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\bookman\pbkd8t.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\bookman\pbkdo8t.tfm
 INPUT C:\Users\cus96\texmf\tex\latex\dnd\img\paper.jpg
@@ -549,11 +549,11 @@ INPUT C:\Users\cus96\AppData\Roaming\MiKTeX\fonts\tfm\arkandis\gillius\GilliusAD
 INPUT C:\Users\cus96\AppData\Roaming\MiKTeX\fonts\tfm\arkandis\gillius\GilliusADFNo2-Bold-lf-t1--lcdfj.tfm
 INPUT C:\Program Files\MiKTeX\fonts\vf\adobe\bookman\pbkdo8t.vf
 INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\bookman\pbkdo8r.tfm
-INPUT 3-Classi\RisorseShoei\Shoei1.png
-INPUT .\3-Classi\RisorseShoei\Shoei1.png
-INPUT .\3-Classi\RisorseShoei\Shoei1.png
-INPUT .\3-Classi\RisorseShoei\Shoei1.png
-INPUT .\3-Classi\RisorseShoei\Shoei1.png
+INPUT c:\Users\cus96\Documents\LaTeX\LaTeX-DnDMaterial\Homebrew\3-Classi\RisorseShoei\Shoei1.png
+INPUT c:\Users\cus96\Documents\LaTeX\LaTeX-DnDMaterial\Homebrew\3-Classi\RisorseShoei\Shoei1.png
+INPUT c:\Users\cus96\Documents\LaTeX\LaTeX-DnDMaterial\Homebrew\3-Classi\RisorseShoei\Shoei1.png
+INPUT c:\Users\cus96\Documents\LaTeX\LaTeX-DnDMaterial\Homebrew\3-Classi\RisorseShoei\Shoei1.png
+INPUT c:\Users\cus96\Documents\LaTeX\LaTeX-DnDMaterial\Homebrew\3-Classi\RisorseShoei\Shoei1.png
 INPUT C:\Users\cus96\texmf\tex\latex\dnd\img\paper.jpg
 INPUT C:\Users\cus96\texmf\tex\latex\dnd\img\paper.jpg
 INPUT C:\Users\cus96\texmf\tex\latex\dnd\img\paper.jpg
@@ -562,8 +562,8 @@ INPUT C:\Users\cus96\texmf\tex\latex\dnd\img\paper.jpg
 INPUT C:\Users\cus96\texmf\tex\latex\dnd\img\paper.jpg
 INPUT C:\Users\cus96\texmf\tex\latex\dnd\img\footerscroll.pdf
 INPUT C:\Users\cus96\texmf\tex\latex\dnd\img\footerscroll.pdf
-INPUT 3-classi\WarlockCO
-INPUT 3-classi\WarlockCO
+INPUT c:\Users\cus96\Documents\LaTeX\LaTeX-DnDMaterial\Homebrew\3-classi\WarlockCO
+INPUT c:\Users\cus96\Documents\LaTeX\LaTeX-DnDMaterial\Homebrew\3-classi\WarlockCO
 INPUT C:\Users\cus96\AppData\Roaming\MiKTeX\fonts\tfm\arkandis\gillius\GilliusADFNo2-Italic-lf-t1.tfm
 INPUT C:\Users\cus96\texmf\tex\latex\dnd\img\paper.jpg
 INPUT C:\Users\cus96\texmf\tex\latex\dnd\img\paper.jpg
@@ -626,8 +626,8 @@ INPUT C:\Users\cus96\texmf\tex\latex\dnd\img\footerscroll.pdf
 INPUT C:\Users\cus96\texmf\tex\latex\dnd\img\footerscroll.pdf
 INPUT ..\MasterMaterial\Chiesa\Chiesa
 INPUT ..\MasterMaterial\Chiesa\Chiesa
-INPUT 4-Territori\Location_merger
-INPUT 4-Territori\Location_merger
+INPUT c:\Users\cus96\Documents\LaTeX\LaTeX-DnDMaterial\Homebrew\4-Territori\Location_merger
+INPUT c:\Users\cus96\Documents\LaTeX\LaTeX-DnDMaterial\Homebrew\4-Territori\Location_merger
 INPUT C:\Users\cus96\texmf\tex\latex\dnd\img\paper.jpg
 INPUT C:\Users\cus96\texmf\tex\latex\dnd\img\paper.jpg
 INPUT C:\Users\cus96\texmf\tex\latex\dnd\img\paper.jpg
@@ -636,8 +636,8 @@ INPUT C:\Users\cus96\texmf\tex\latex\dnd\img\paper.jpg
 INPUT C:\Users\cus96\texmf\tex\latex\dnd\img\paper.jpg
 INPUT C:\Users\cus96\texmf\tex\latex\dnd\img\footerscroll.pdf
 INPUT C:\Users\cus96\texmf\tex\latex\dnd\img\footerscroll.pdf
-INPUT 4-Territori\Tolera
-INPUT 4-Territori\Tolera
+INPUT c:\Users\cus96\Documents\LaTeX\LaTeX-DnDMaterial\Homebrew\4-Territori\Tolera
+INPUT c:\Users\cus96\Documents\LaTeX\LaTeX-DnDMaterial\Homebrew\4-Territori\Tolera
 INPUT C:\Users\cus96\texmf\tex\latex\dnd\img\paper.jpg
 INPUT C:\Users\cus96\texmf\tex\latex\dnd\img\paper.jpg
 INPUT C:\Users\cus96\texmf\tex\latex\dnd\img\paper.jpg
@@ -646,8 +646,8 @@ INPUT C:\Users\cus96\texmf\tex\latex\dnd\img\paper.jpg
 INPUT C:\Users\cus96\texmf\tex\latex\dnd\img\paper.jpg
 INPUT C:\Users\cus96\texmf\tex\latex\dnd\img\footerscroll.pdf
 INPUT C:\Users\cus96\texmf\tex\latex\dnd\img\footerscroll.pdf
-INPUT 5-NPCs\NPCMinori.tex
-INPUT 5-NPCs\NPCMinori.tex
+INPUT c:\Users\cus96\Documents\LaTeX\LaTeX-DnDMaterial\Homebrew\5-NPCs\NPCMinori.tex
+INPUT c:\Users\cus96\Documents\LaTeX\LaTeX-DnDMaterial\Homebrew\5-NPCs\NPCMinori.tex
 INPUT C:\Users\cus96\texmf\tex\latex\dnd\img\paper.jpg
 INPUT C:\Users\cus96\texmf\tex\latex\dnd\img\paper.jpg
 INPUT C:\Users\cus96\texmf\tex\latex\dnd\img\paper.jpg
@@ -656,8 +656,8 @@ INPUT C:\Users\cus96\texmf\tex\latex\dnd\img\paper.jpg
 INPUT C:\Users\cus96\texmf\tex\latex\dnd\img\paper.jpg
 INPUT C:\Users\cus96\texmf\tex\latex\dnd\img\footerscroll.pdf
 INPUT C:\Users\cus96\texmf\tex\latex\dnd\img\footerscroll.pdf
-INPUT 6-Oggetti\AdventuringGears.tex
-INPUT 6-Oggetti\AdventuringGears.tex
+INPUT c:\Users\cus96\Documents\LaTeX\LaTeX-DnDMaterial\Homebrew\6-Oggetti\AdventuringGears.tex
+INPUT c:\Users\cus96\Documents\LaTeX\LaTeX-DnDMaterial\Homebrew\6-Oggetti\AdventuringGears.tex
 INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\bookman\pbklc8t.tfm
 INPUT C:\Users\cus96\texmf\tex\latex\dnd\img\paper.jpg
 INPUT C:\Users\cus96\texmf\tex\latex\dnd\img\paper.jpg
@@ -669,7 +669,7 @@ INPUT C:\Users\cus96\texmf\tex\latex\dnd\img\footerscroll.pdf
 INPUT C:\Users\cus96\texmf\tex\latex\dnd\img\footerscroll.pdf
 INPUT C:\Program Files\MiKTeX\fonts\vf\adobe\bookman\pbklc8t.vf
 INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\bookman\pbkl8r.tfm
-INPUT Homebrew.aux
+INPUT c:\Users\cus96\Documents\LaTeX\LaTeX-DnDMaterial\Homebrew\Homebrew.aux
 INPUT C:\Program Files\MiKTeX\fonts\enc\dvips\base\8r.enc
 INPUT C:\Users\cus96\AppData\Roaming\MiKTeX\fonts\enc\dvips\gillius\gls_4bsedw.enc
 INPUT C:\Users\cus96\AppData\Roaming\MiKTeX\fonts\type1\arkandis\gillius\GilliusADFNo2-Bold.pfb

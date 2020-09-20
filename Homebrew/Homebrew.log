@@ -1,21 +1,17 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.7) (preloaded format=pdflatex 2020.9.20)  20 SEP 2020 11:07
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.7) (preloaded format=pdflatex 2020.9.20)  20 SEP 2020 20:53
 entering extended mode
-**./Homebrew.tex
-(Homebrew.tex
+**c:/Users/cus96/Documents/LaTeX/LaTeX-DnDMaterial/Homebrew/Homebrew.tex
+(c:/Users/cus96/Documents/LaTeX/LaTeX-DnDMaterial/Homebrew/Homebrew.tex
 LaTeX2e <2020-02-02> patch level 5
-L3 programming layer <2020-09-03>
-(C:/Users/cus96/texmf\tex/latex\dnd\dndbook.cls
-("C:\Program Files\MiKTeX\tex/latex/l3kernel\expl3.sty"
+L3 programming layer <2020-09-03> (C:/Users/cus96/texmf\tex/latex\dnd\dndbook.cls ("C:\Program Files\MiKTeX\tex/latex/l3kernel\expl3.sty"
 Package: expl3 2020-09-03 L3 programming layer (loader) 
-
-("C:\Program Files\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def"
+ ("C:\Program Files\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def"
 File: l3backend-pdftex.def 2020-09-01 L3 backend support: PDF output (pdfTeX)
 \l__kernel_color_stack_int=\count168
 \l__pdf_internal_box=\box45
 ))
 Document Class: dndbook 2020/04/21 v0.8.0  Template for DnD 5e material 
-(C:/Users/cus96/texmf\tex/latex\dnd\dndoptions.clo
-("C:\Program Files\MiKTeX\tex/latex/l3packages/l3keys2e\l3keys2e.sty"
+(C:/Users/cus96/texmf\tex/latex\dnd\dndoptions.clo ("C:\Program Files\MiKTeX\tex/latex/l3packages/l3keys2e\l3keys2e.sty"
 Package: l3keys2e 2020-05-15 LaTeX2e option processing using LaTeX3 keys
 )
 
@@ -30,8 +26,7 @@ Package dnd Info: Unknown option "twocolumn" passed to book class.
 
 Package dnd Info: Unknown option "openany" passed to book class.
 
-)
-("C:\Program Files\MiKTeX\tex/latex/base\book.cls"
+) ("C:\Program Files\MiKTeX\tex/latex/base\book.cls"
 Document Class: book 2019/12/20 v1.4l Standard LaTeX document class
 ("C:\Program Files\MiKTeX\tex/latex/base\bk10.clo"
 File: bk10.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
@@ -48,9 +43,7 @@ File: bk10.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
 \abovecaptionskip=\skip47
 \belowcaptionskip=\skip48
 \bibindent=\dimen134
-)
-(C:/Users/cus96/texmf\tex/latex\dnd\dndcore.def
-("C:\Program Files\MiKTeX\tex/latex/tools\array.sty"
+) (C:/Users/cus96/texmf\tex/latex\dnd\dndcore.def ("C:\Program Files\MiKTeX\tex/latex/tools\array.sty"
 Package: array 2019/08/31 v2.4l Tabular extension package (FMi)
 \col@sep=\dimen135
 \ar@mcellbox=\box46
@@ -59,25 +52,20 @@ Package: array 2019/08/31 v2.4l Tabular extension package (FMi)
 \extratabsurround=\skip49
 \backup@length=\skip50
 \ar@cellbox=\box47
-)
-(C:\Users\cus96\AppData\Roaming\MiKTeX\tex/latex/colortbl\colortbl.sty
+) (C:\Users\cus96\AppData\Roaming\MiKTeX\tex/latex/colortbl\colortbl.sty
 Package: colortbl 2020/01/04 v1.0e Color table columns (DPC)
-
-("C:\Program Files\MiKTeX\tex/latex/graphics\color.sty"
+ ("C:\Program Files\MiKTeX\tex/latex/graphics\color.sty"
 Package: color 2019/11/23 v1.2a Standard LaTeX Color (DPC)
-
-("C:\Program Files\MiKTeX\tex/latex/graphics-cfg\color.cfg"
+ ("C:\Program Files\MiKTeX\tex/latex/graphics-cfg\color.cfg"
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package color Info: Driver file: pdftex.def on input line 147.
-
-("C:\Program Files\MiKTeX\tex/latex/graphics-def\pdftex.def"
+ ("C:\Program Files\MiKTeX\tex/latex/graphics-def\pdftex.def"
 File: pdftex.def 2020/08/26 v1.2 Graphics/color driver for pdftex
 ))
 \everycr=\toks16
 \minrowclearance=\skip51
-)
-(C:\Users\cus96\AppData\Roaming\MiKTeX\tex/latex/enumitem\enumitem.sty
+) (C:\Users\cus96\AppData\Roaming\MiKTeX\tex/latex/enumitem\enumitem.sty
 Package: enumitem 2019/06/20 v3.9 Customized lists
 \enitkv@toks@=\toks17
 \labelindent=\skip52
@@ -86,24 +74,19 @@ Package: enumitem 2019/06/20 v3.9 Customized lists
 \enit@inbox=\box48
 \enit@count@id=\count178
 \enitdp@description=\count179
-)
-("C:\Program Files\MiKTeX\tex/latex/etoolbox\etoolbox.sty"
+) ("C:\Program Files\MiKTeX\tex/latex/etoolbox\etoolbox.sty"
 Package: etoolbox 2020/08/24 v2.5j e-TeX tools for LaTeX (JAW)
 \etb@tempcnta=\count180
-)
-("C:\Program Files\MiKTeX\tex/latex/base\textcomp.sty"
+) ("C:\Program Files\MiKTeX\tex/latex/base\textcomp.sty"
 Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
-)
-(C:\Users\cus96\AppData\Roaming\MiKTeX\tex/latex/was\gensymb.sty
+) (C:\Users\cus96\AppData\Roaming\MiKTeX\tex/latex/was\gensymb.sty
 Package: gensymb 2003/07/02 v1.0 (WaS)
-)
-(C:\Users\cus96\AppData\Roaming\MiKTeX\tex/latex/hang\hang.sty
+) (C:\Users\cus96\AppData\Roaming\MiKTeX\tex/latex/hang\hang.sty
 Package: hang 2017/02/18 v2.1 Hanging paragraphs and list items
 \hangingindent=\skip53
 \hangingleftmargin=\skip54
 \labeledleftmargin=\skip55
-)
-(C:\Users\cus96\AppData\Roaming\MiKTeX\tex/latex/numprint\numprint.sty
+) (C:\Users\cus96\AppData\Roaming\MiKTeX\tex/latex/numprint\numprint.sty
 Package: numprint 2012/08/20 v1.39 Print numbers (HH)
 \c@nprt@mantissa@digitsbefore=\count181
 \c@nprt@mantissa@digitsafter=\count182
@@ -122,9 +105,7 @@ Package: numprint 2012/08/20 v1.39 Print numbers (HH)
 \c@nprt@digitsfirstblock=\count188
 \c@nprt@blockcnt=\count189
 \c@nprt@cntprint=\count190
-
-No configuration file `numprint.cfg' found.)
-("C:\Program Files\MiKTeX\tex/latex/tools\tabularx.sty"
+ No configuration file `numprint.cfg' found.) ("C:\Program Files\MiKTeX\tex/latex/tools\tabularx.sty"
 Package: tabularx 2020/01/15 v2.11c `tabularx' package (DPC)
 \TX@col@width=\dimen138
 \TX@old@table=\dimen139
@@ -133,61 +114,42 @@ Package: tabularx 2020/01/15 v2.11c `tabularx' package (DPC)
 \TX@delta=\dimen142
 \TX@cols=\count191
 \TX@ftn=\toks22
-)
-("C:\Program Files\MiKTeX\tex/latex/tcolorbox\tcolorbox.sty"
+) ("C:\Program Files\MiKTeX\tex/latex/tcolorbox\tcolorbox.sty"
 Package: tcolorbox 2020/07/31 version 4.31 text color boxes
-
-("C:\Program Files\MiKTeX\tex/latex/pgf/basiclayer\pgf.sty"
-("C:\Program Files\MiKTeX\tex/latex/pgf/utilities\pgfrcs.sty"
-("C:\Program Files\MiKTeX\tex/generic/pgf/utilities\pgfutil-common.tex"
+ ("C:\Program Files\MiKTeX\tex/latex/pgf/basiclayer\pgf.sty" ("C:\Program Files\MiKTeX\tex/latex/pgf/utilities\pgfrcs.sty" ("C:\Program Files\MiKTeX\tex/generic/pgf/utilities\pgfutil-common.tex"
 \pgfutil@everybye=\toks23
 \pgfutil@tempdima=\dimen143
 \pgfutil@tempdimb=\dimen144
-
-("C:\Program Files\MiKTeX\tex/generic/pgf/utilities\pgfutil-common-lists.tex"))
-("C:\Program Files\MiKTeX\tex/generic/pgf/utilities\pgfutil-latex.def"
+ ("C:\Program Files\MiKTeX\tex/generic/pgf/utilities\pgfutil-common-lists.tex")) ("C:\Program Files\MiKTeX\tex/generic/pgf/utilities\pgfutil-latex.def"
 \pgfutil@abb=\box49
-
-("C:\Program Files\MiKTeX\tex/latex/ms\everyshi.sty"
+ ("C:\Program Files\MiKTeX\tex/latex/ms\everyshi.sty"
 Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
-))
-("C:\Program Files\MiKTeX\tex/generic/pgf/utilities\pgfrcs.code.tex"
-("C:\Program Files\MiKTeX\tex/generic/pgf\pgf.revision.tex")
+)) ("C:\Program Files\MiKTeX\tex/generic/pgf/utilities\pgfrcs.code.tex" ("C:\Program Files\MiKTeX\tex/generic/pgf\pgf.revision.tex")
 Package: pgfrcs 2020/01/08 v3.1.5b (3.1.5b)
 ))
 Package: pgf 2020/01/08 v3.1.5b (3.1.5b)
-
-("C:\Program Files\MiKTeX\tex/latex/pgf/basiclayer\pgfcore.sty"
-("C:\Program Files\MiKTeX\tex/latex/graphics\graphicx.sty"
+ ("C:\Program Files\MiKTeX\tex/latex/pgf/basiclayer\pgfcore.sty" ("C:\Program Files\MiKTeX\tex/latex/graphics\graphicx.sty"
 Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
-
-("C:\Program Files\MiKTeX\tex/latex/graphics\keyval.sty"
+ ("C:\Program Files\MiKTeX\tex/latex/graphics\keyval.sty"
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks24
-)
-("C:\Program Files\MiKTeX\tex/latex/graphics\graphics.sty"
+) ("C:\Program Files\MiKTeX\tex/latex/graphics\graphics.sty"
 Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
-
-("C:\Program Files\MiKTeX\tex/latex/graphics\trig.sty"
+ ("C:\Program Files\MiKTeX\tex/latex/graphics\trig.sty"
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
-)
-("C:\Program Files\MiKTeX\tex/latex/graphics-cfg\graphics.cfg"
+) ("C:\Program Files\MiKTeX\tex/latex/graphics-cfg\graphics.cfg"
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 105.
 )
 \Gin@req@height=\dimen145
 \Gin@req@width=\dimen146
-)
-("C:\Program Files\MiKTeX\tex/latex/pgf/systemlayer\pgfsys.sty"
-("C:\Program Files\MiKTeX\tex/generic/pgf/systemlayer\pgfsys.code.tex"
+) ("C:\Program Files\MiKTeX\tex/latex/pgf/systemlayer\pgfsys.sty" ("C:\Program Files\MiKTeX\tex/generic/pgf/systemlayer\pgfsys.code.tex"
 Package: pgfsys 2020/01/08 v3.1.5b (3.1.5b)
-
-("C:\Program Files\MiKTeX\tex/generic/pgf/utilities\pgfkeys.code.tex"
+ ("C:\Program Files\MiKTeX\tex/generic/pgf/utilities\pgfkeys.code.tex"
 \pgfkeys@pathtoks=\toks25
 \pgfkeys@temptoks=\toks26
-
-("C:\Program Files\MiKTeX\tex/generic/pgf/utilities\pgfkeysfiltered.code.tex"
+ ("C:\Program Files\MiKTeX\tex/generic/pgf/utilities\pgfkeysfiltered.code.tex"
 \pgfkeys@tmptoks=\toks27
 ))
 \pgf@x=\dimen147
@@ -210,28 +172,23 @@ Package: pgfsys 2020/01/08 v3.1.5b (3.1.5b)
 \t@pgf@tokb=\toks29
 \t@pgf@tokc=\toks30
 \pgf@sys@id@count=\count196
-("C:\Program Files\MiKTeX\tex/generic/pgf/systemlayer\pgf.cfg"
+ ("C:\Program Files\MiKTeX\tex/generic/pgf/systemlayer\pgf.cfg"
 File: pgf.cfg 2020/01/08 v3.1.5b (3.1.5b)
 )
 Driver file for pgf: pgfsys-pdftex.def
-
-("C:\Program Files\MiKTeX\tex/generic/pgf/systemlayer\pgfsys-pdftex.def"
+ ("C:\Program Files\MiKTeX\tex/generic/pgf/systemlayer\pgfsys-pdftex.def"
 File: pgfsys-pdftex.def 2020/01/08 v3.1.5b (3.1.5b)
-
-("C:\Program Files\MiKTeX\tex/generic/pgf/systemlayer\pgfsys-common-pdf.def"
+ ("C:\Program Files\MiKTeX\tex/generic/pgf/systemlayer\pgfsys-common-pdf.def"
 File: pgfsys-common-pdf.def 2020/01/08 v3.1.5b (3.1.5b)
-))) ("C:\Program Files\MiKTeX\tex/generic/pgf/systemlayer\pgfsyssoftpath.code.t
-ex"
+))) ("C:\Program Files\MiKTeX\tex/generic/pgf/systemlayer\pgfsyssoftpath.code.tex"
 File: pgfsyssoftpath.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 \pgfsyssoftpath@smallbuffer@items=\count197
 \pgfsyssoftpath@bigbuffer@items=\count198
-) ("C:\Program Files\MiKTeX\tex/generic/pgf/systemlayer\pgfsysprotocol.code.tex
-"
+) ("C:\Program Files\MiKTeX\tex/generic/pgf/systemlayer\pgfsysprotocol.code.tex"
 File: pgfsysprotocol.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 )) ("C:\Program Files\MiKTeX\tex/latex/xcolor\xcolor.sty"
 Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
-
-("C:\Program Files\MiKTeX\tex/latex/graphics-cfg\color.cfg"
+ ("C:\Program Files\MiKTeX\tex/latex/graphics-cfg\color.cfg"
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package xcolor Info: Driver file: pdftex.def on input line 225.
@@ -246,41 +203,18 @@ Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
 Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
-)
-("C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcore.code.tex"
+) ("C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcore.code.tex"
 Package: pgfcore 2020/01/08 v3.1.5b (3.1.5b)
-
-("C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmath.code.tex"
-("C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathcalc.code.tex"
-("C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathutil.code.tex")
-("C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathparser.code.tex"
+ ("C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmath.code.tex" ("C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathcalc.code.tex" ("C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathutil.code.tex") ("C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathparser.code.tex"
 \pgfmath@dimen=\dimen157
 \pgfmath@count=\count266
 \pgfmath@box=\box50
 \pgfmath@toks=\toks31
 \pgfmath@stack@operand=\toks32
 \pgfmath@stack@operation=\toks33
-)
-("C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.code.tex"
-("C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.basic.code.tex"
-)
-("C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.trigonometric.c
-ode.tex")
-("C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.random.code.tex
-")
-("C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.comparison.code
-.tex")
-("C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.base.code.tex")
-("C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.round.code.tex"
-) ("C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.misc.code.tex
-")
-("C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.integerarithmet
-ics.code.tex")))
-("C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfloat.code.tex"
+) ("C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.code.tex" ("C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.basic.code.tex") ("C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.trigonometric.code.tex") ("C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.random.code.tex") ("C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.comparison.code.tex") ("C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.base.code.tex") ("C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.round.code.tex") ("C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.misc.code.tex") ("C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.integerarithmetics.code.tex"))) ("C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfloat.code.tex"
 \c@pgfmathroundto@lastzeros=\count267
-))
-("C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfint.code.tex")
-("C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepoints.code.tex"
+)) ("C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfint.code.tex") ("C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepoints.code.tex"
 File: pgfcorepoints.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 \pgf@picminx=\dimen158
 \pgf@picmaxx=\dimen159
@@ -296,14 +230,11 @@ File: pgfcorepoints.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 \pgf@yy=\dimen169
 \pgf@zx=\dimen170
 \pgf@zy=\dimen171
-)
-("C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepathconstruct.code.
-tex"
+) ("C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepathconstruct.code.tex"
 File: pgfcorepathconstruct.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 \pgf@path@lastx=\dimen172
 \pgf@path@lasty=\dimen173
-)
-("C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepathusage.code.tex"
+) ("C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepathusage.code.tex"
 File: pgfcorepathusage.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 \pgf@shorten@end@additional=\dimen174
 \pgf@shorten@start@additional=\dimen175
@@ -313,81 +244,60 @@ File: pgfcorescopes.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 \pgf@hbox=\box52
 \pgf@layerbox@main=\box53
 \pgf@picture@serial@count=\count268
-)
-("C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcoregraphicstate.code.t
-ex"
+) ("C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcoregraphicstate.code.tex"
 File: pgfcoregraphicstate.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 \pgflinewidth=\dimen176
-)
-("C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcoretransformations.cod
-e.tex"
+) ("C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcoretransformations.code.tex"
 File: pgfcoretransformations.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 \pgf@pt@x=\dimen177
 \pgf@pt@y=\dimen178
 \pgf@pt@temp=\dimen179
-)
-("C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorequick.code.tex"
+) ("C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorequick.code.tex"
 File: pgfcorequick.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-)
-("C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreobjects.code.tex"
+) ("C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreobjects.code.tex"
 File: pgfcoreobjects.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-)
-("C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepathprocessing.code
-.tex"
+) ("C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepathprocessing.code.tex"
 File: pgfcorepathprocessing.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-)
-("C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorearrows.code.tex"
+) ("C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorearrows.code.tex"
 File: pgfcorearrows.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 \pgfarrowsep=\dimen180
-)
-("C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreshade.code.tex"
+) ("C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreshade.code.tex"
 File: pgfcoreshade.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 \pgf@max=\dimen181
 \pgf@sys@shading@range@num=\count269
 \pgf@shadingcount=\count270
-)
-("C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreimage.code.tex"
+) ("C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreimage.code.tex"
 File: pgfcoreimage.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-
-("C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreexternal.code.tex"
+ ("C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreexternal.code.tex"
 File: pgfcoreexternal.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 \pgfexternal@startupbox=\box54
 )) ("C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorelayers.code.tex"
 File: pgfcorelayers.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-)
-("C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcoretransparency.code.t
-ex"
+) ("C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcoretransparency.code.tex"
 File: pgfcoretransparency.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-)
-("C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepatterns.code.tex"
+) ("C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepatterns.code.tex"
 File: pgfcorepatterns.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 ) ("C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorerdf.code.tex"
 File: pgfcorerdf.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-)))
-("C:\Program Files\MiKTeX\tex/generic/pgf/modules\pgfmoduleshapes.code.tex"
+))) ("C:\Program Files\MiKTeX\tex/generic/pgf/modules\pgfmoduleshapes.code.tex"
 File: pgfmoduleshapes.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 \pgfnodeparttextbox=\box55
-)
-("C:\Program Files\MiKTeX\tex/generic/pgf/modules\pgfmoduleplot.code.tex"
+) ("C:\Program Files\MiKTeX\tex/generic/pgf/modules\pgfmoduleplot.code.tex"
 File: pgfmoduleplot.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-)
-("C:\Program Files\MiKTeX\tex/latex/pgf/compatibility\pgfcomp-version-0-65.sty"
+) ("C:\Program Files\MiKTeX\tex/latex/pgf/compatibility\pgfcomp-version-0-65.sty"
 Package: pgfcomp-version-0-65 2020/01/08 v3.1.5b (3.1.5b)
 \pgf@nodesepstart=\dimen182
 \pgf@nodesepend=\dimen183
-) ("C:\Program Files\MiKTeX\tex/latex/pgf/compatibility\pgfcomp-version-1-18.st
-y"
+) ("C:\Program Files\MiKTeX\tex/latex/pgf/compatibility\pgfcomp-version-1-18.sty"
 Package: pgfcomp-version-1-18 2020/01/08 v3.1.5b (3.1.5b)
 )) ("C:\Program Files\MiKTeX\tex/latex/tools\verbatim.sty"
 Package: verbatim 2019/11/10 v1.5r LaTeX2e package for verbatim enhancements
 \every@verbatim=\toks34
 \verbatim@line=\toks35
 \verbatim@in@stream=\read3
-)
-("C:\Program Files\MiKTeX\tex/latex/environ\environ.sty"
+) ("C:\Program Files\MiKTeX\tex/latex/environ\environ.sty"
 Package: environ 2014/05/04 v0.3 A new way to define environments
-
-("C:\Program Files\MiKTeX\tex/latex/trimspaces\trimspaces.sty"
+ ("C:\Program Files\MiKTeX\tex/latex/trimspaces\trimspaces.sty"
 Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
 )
 \@envbody=\toks36
@@ -405,34 +315,23 @@ Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
 \tcb@temp=\box63
 \tcb@out=\write4
 \tcb@record@out=\write5
-
-("C:\Program Files\MiKTeX\tex/latex/tcolorbox\tcbbreakable.code.tex"
+ ("C:\Program Files\MiKTeX\tex/latex/tcolorbox\tcbbreakable.code.tex"
 Library (tcolorbox): 'tcbbreakable.code.tex' version '4.31'
 \tcb@testbox=\box64
 \tcb@totalupperbox=\box65
 \tcb@totallowerbox=\box66
 ) ("C:\Program Files\MiKTeX\tex/latex/tcolorbox\tcbskins.code.tex"
 Library (tcolorbox): 'tcbskins.code.tex' version '4.31'
-("C:\Program Files\MiKTeX\tex/latex/pgf/frontendlayer\tikz.sty"
-("C:\Program Files\MiKTeX\tex/latex/pgf/utilities\pgffor.sty"
-("C:\Program Files\MiKTeX\tex/latex/pgf/utilities\pgfkeys.sty"
-("C:\Program Files\MiKTeX\tex/generic/pgf/utilities\pgfkeys.code.tex"))
-("C:\Program Files\MiKTeX\tex/latex/pgf/math\pgfmath.sty"
-("C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmath.code.tex"))
-("C:\Program Files\MiKTeX\tex/generic/pgf/utilities\pgffor.code.tex"
+("C:\Program Files\MiKTeX\tex/latex/pgf/frontendlayer\tikz.sty" ("C:\Program Files\MiKTeX\tex/latex/pgf/utilities\pgffor.sty" ("C:\Program Files\MiKTeX\tex/latex/pgf/utilities\pgfkeys.sty" ("C:\Program Files\MiKTeX\tex/generic/pgf/utilities\pgfkeys.code.tex")) ("C:\Program Files\MiKTeX\tex/latex/pgf/math\pgfmath.sty" ("C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmath.code.tex")) ("C:\Program Files\MiKTeX\tex/generic/pgf/utilities\pgffor.code.tex"
 Package: pgffor 2020/01/08 v3.1.5b (3.1.5b)
-
-("C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmath.code.tex")
+ ("C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmath.code.tex")
 \pgffor@iter=\dimen184
 \pgffor@skip=\dimen185
 \pgffor@stack=\toks37
 \pgffor@toks=\toks38
-))
-("C:\Program Files\MiKTeX\tex/generic/pgf/frontendlayer/tikz\tikz.code.tex"
+)) ("C:\Program Files\MiKTeX\tex/generic/pgf/frontendlayer/tikz\tikz.code.tex"
 Package: tikz 2020/01/08 v3.1.5b (3.1.5b)
-
-("C:\Program Files\MiKTeX\tex/generic/pgf/libraries\pgflibraryplothandlers.code
-.tex"
+ ("C:\Program Files\MiKTeX\tex/generic/pgf/libraries\pgflibraryplothandlers.code.tex"
 File: pgflibraryplothandlers.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 \pgf@plot@mark@count=\count274
 \pgfplotmarksize=\dimen186
@@ -453,41 +352,33 @@ File: pgflibraryplothandlers.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 \tikznumberofchildren=\count276
 \tikznumberofcurrentchild=\count277
 \tikz@fig@count=\count278
-
-("C:\Program Files\MiKTeX\tex/generic/pgf/modules\pgfmodulematrix.code.tex"
+ ("C:\Program Files\MiKTeX\tex/generic/pgf/modules\pgfmodulematrix.code.tex"
 File: pgfmodulematrix.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 \pgfmatrixcurrentrow=\count279
 \pgfmatrixcurrentcolumn=\count280
 \pgf@matrix@numberofcolumns=\count281
 )
 \tikz@expandcount=\count282
-
-("C:\Program Files\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibr
-arytopaths.code.tex"
+ ("C:\Program Files\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarytopaths.code.tex"
 File: tikzlibrarytopaths.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 )))
 \tcb@waterbox=\box71
-
-("C:\Program Files\MiKTeX\tex/latex/tcolorbox\tcbskinsjigsaw.code.tex"
+ ("C:\Program Files\MiKTeX\tex/latex/tcolorbox\tcbskinsjigsaw.code.tex"
 Library (tcolorbox): 'tcbskinsjigsaw.code.tex' version '4.31'
 )) ("C:\Program Files\MiKTeX\tex/latex/tcolorbox\tcbxparse.code.tex"
 Library (tcolorbox): 'tcbxparse.code.tex' version '4.31'
 ("C:\Program Files\MiKTeX\tex/latex/l3packages/xparse\xparse.sty"
 Package: xparse 2020-05-15 L3 Experimental document command parser
-
-("C:\Program Files\MiKTeX\tex/latex/l3packages/xparse\xparse-generic.tex"
+ ("C:\Program Files\MiKTeX\tex/latex/l3packages/xparse\xparse-generic.tex"
 \l__xparse_current_arg_int=\count283
 \g__xparse_grabber_int=\count284
 \l__xparse_m_args_int=\count285
 \l__xparse_v_nesting_int=\count286
-))))
-(C:\Users\cus96\AppData\Roaming\MiKTeX\tex/latex/geometry\geometry.sty
+)))) (C:\Users\cus96\AppData\Roaming\MiKTeX\tex/latex/geometry\geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
-
-("C:\Program Files\MiKTeX\tex/generic/iftex\ifvtex.sty"
+ ("C:\Program Files\MiKTeX\tex/generic/iftex\ifvtex.sty"
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
-
-("C:\Program Files\MiKTeX\tex/generic/iftex\iftex.sty"
+ ("C:\Program Files\MiKTeX\tex/generic/iftex\iftex.sty"
 Package: iftex 2020/03/06 v1.0d TeX engine tests
 ))
 \Gm@cnth=\count287
@@ -502,9 +393,7 @@ Package: iftex 2020/03/06 v1.0d TeX engine tests
 \Gm@layouthoffset=\dimen257
 \Gm@layoutvoffset=\dimen258
 \Gm@dimlist=\toks39
-
-(C:\Users\cus96\AppData\Roaming\MiKTeX\tex/latex/geometry\geometry.cfg))
-(C:\Users\cus96\AppData\Roaming\MiKTeX\tex/latex/microtype\microtype.sty
+ (C:\Users\cus96\AppData\Roaming\MiKTeX\tex/latex/geometry\geometry.cfg)) (C:\Users\cus96\AppData\Roaming\MiKTeX\tex/latex/microtype\microtype.sty
 Package: microtype 2019/11/18 v2.7d Micro-typographical refinements (RS)
 \MT@toks=\toks40
 \MT@count=\count290
@@ -512,10 +401,8 @@ LaTeX Info: Redefining \textls on input line 790.
 \MT@outer@kern=\dimen259
 LaTeX Info: Redefining \textmicrotypecontext on input line 1354.
 \MT@listname@count=\count291
-
-(C:\Users\cus96\AppData\Roaming\MiKTeX\tex/latex/microtype\microtype-pdftex.def
+ (C:\Users\cus96\AppData\Roaming\MiKTeX\tex/latex/microtype\microtype-pdftex.def
 File: microtype-pdftex.def 2019/11/18 v2.7d Definitions specific to pdftex (RS)
-
 LaTeX Info: Redefining \lsstyle on input line 914.
 LaTeX Info: Redefining \lslig on input line 914.
 \MT@outer@space=\skip60
@@ -523,11 +410,9 @@ LaTeX Info: Redefining \lslig on input line 914.
 Package microtype Info: Loading configuration file microtype.cfg.
  (C:\Users\cus96\AppData\Roaming\MiKTeX\tex/latex/microtype\microtype.cfg
 File: microtype.cfg 2019/11/18 v2.7d microtype main configuration file (RS)
-))
-("C:\Program Files\MiKTeX\tex/latex/ragged2e\ragged2e.sty"
+)) ("C:\Program Files\MiKTeX\tex/latex/ragged2e\ragged2e.sty"
 Package: ragged2e 2019/07/28 v2.2 ragged2e Package (MS)
-
-("C:\Program Files\MiKTeX\tex/latex/ms\everysel.sty"
+ ("C:\Program Files\MiKTeX\tex/latex/ms\everysel.sty"
 Package: everysel 2011/10/28 v1.2 EverySelectfont Package (MS)
 )
 \CenteringLeftskip=\skip61
@@ -544,8 +429,7 @@ Package: everysel 2011/10/28 v1.2 EverySelectfont Package (MS)
 \RaggedLeftParindent=\skip72
 \RaggedRightParindent=\skip73
 \JustifyingParindent=\skip74
-)
-(C:\Users\cus96\AppData\Roaming\MiKTeX\tex/latex/tocloft\tocloft.sty
+) (C:\Users\cus96\AppData\Roaming\MiKTeX\tex/latex/tocloft\tocloft.sty
 Package: tocloft 2017/08/31 v2.3i parameterised ToC, etc., typesetting
 Package tocloft Info: The document has chapter divisions on input line 51.
 \cftparskip=\skip75
@@ -584,8 +468,7 @@ Package tocloft Info: The document has chapter divisions on input line 51.
 \cftbeforetabskip=\skip106
 \cfttabindent=\skip107
 \cfttabnumwidth=\skip108
-)
-(C:\Users\cus96\AppData\Roaming\MiKTeX\tex/latex/titlesec\titlesec.sty
+) (C:\Users\cus96\AppData\Roaming\MiKTeX\tex/latex/titlesec\titlesec.sty
 Package: titlesec 2019/10/16 v2.13 Sectioning titles
 \ttl@box=\box72
 \beforetitleunit=\skip109
@@ -596,17 +479,14 @@ Package: titlesec 2019/10/16 v2.13 Sectioning titles
 \titlewidth=\dimen262
 \titlewidthlast=\dimen263
 \titlewidthfirst=\dimen264
-)
-("C:\Program Files\MiKTeX\tex/latex/ms\multitoc.sty"
+) ("C:\Program Files\MiKTeX\tex/latex/ms\multitoc.sty"
 Package: multitoc 1999/06/08 v2.01 MultiToc Package (MS)
-
-("C:\Program Files\MiKTeX\tex/latex/tools\multicol.sty"
+ ("C:\Program Files\MiKTeX\tex/latex/tools\multicol.sty"
 Package: multicol 2019/12/09 v1.8y multicolumn formatting (FMi)
 \c@tracingmulticols=\count294
 
 
-Package multicol Warning: May not work with the twocolumn option on input line 
-141.
+Package multicol Warning: May not work with the twocolumn option on input line 141.
 
 \mult@box=\box73
 \multicol@leftmargin=\dimen265
@@ -676,20 +556,13 @@ Package multicol Warning: May not work with the twocolumn option on input line
 \mc@col@check@num=\count303
 ) ("C:\Program Files\MiKTeX\tex/latex/base\ifthen.sty"
 Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
-))
-(C:/Users/cus96/texmf\tex/latex\dnd\lib/compat.sty)
-(C:/Users/cus96/texmf\tex/latex\dnd\lib/dndutility.sty
+)) (C:/Users/cus96/texmf\tex/latex\dnd\lib/compat.sty) (C:/Users/cus96/texmf\tex/latex\dnd\lib/dndutility.sty
 \l__dnd_space_box=\box119
 \l__dnd_space_dim=\dimen274
-)
-(C:/Users/cus96/texmf\tex/latex\dnd\lib/dndcolors.sty)
-(C:/Users/cus96/texmf\tex/latex\dnd\lib/dndfonts.sty
-(C:\Users\cus96\AppData\Roaming\MiKTeX\tex/latex/lettrine\lettrine.sty
+) (C:/Users/cus96/texmf\tex/latex\dnd\lib/dndcolors.sty) (C:/Users/cus96/texmf\tex/latex\dnd\lib/dndfonts.sty (C:\Users\cus96\AppData\Roaming\MiKTeX\tex/latex/lettrine\lettrine.sty
 File: lettrine.sty 2020-03-14 v2.23 (Daniel Flipo)
-
-(C:\Users\cus96\AppData\Roaming\MiKTeX\tex/generic/minifp\minifp.sty
-Package: minifp 2013/12/30 v0.96. Macros for real number operations and a stack
--based programing language.
+ (C:\Users\cus96\AppData\Roaming\MiKTeX\tex/generic/minifp\minifp.sty
+Package: minifp 2013/12/30 v0.96. Macros for real number operations and a stack-based programing language.
 \MFP@loopctr=\count304
 )
 \c@DefaultLines=\count305
@@ -720,14 +593,11 @@ Package: minifp 2013/12/30 v0.96. Macros for real number operations and a stack
 \Llist@everypar=\toks42
 
 Loading lettrine.cfg
-(C:\Users\cus96\AppData\Roaming\MiKTeX\tex/latex/lettrine\lettrine.cfg))
-(C:\Users\cus96\AppData\Roaming\MiKTeX\tex/latex/cfr-initials\Royal.sty
+(C:\Users\cus96\AppData\Roaming\MiKTeX\tex/latex/lettrine\lettrine.cfg)) (C:\Users\cus96\AppData\Roaming\MiKTeX\tex/latex/cfr-initials\Royal.sty
 Package: Royal 2007/11/24 v1.01 Royal CFR
-
-(C:\Users\cus96\AppData\Roaming\MiKTeX\tex/latex/initials\RoyalIn.fd
+ (C:\Users\cus96\AppData\Roaming\MiKTeX\tex/latex/initials\RoyalIn.fd
 File: RoyalIn.fd 2003/04/02 Font definition file for U/RoyalIn
-))
-(C:\Users\cus96\AppData\Roaming\MiKTeX\tex/latex/contour\contour.sty
+)) (C:\Users\cus96\AppData\Roaming\MiKTeX\tex/latex/contour\contour.sty
 Package: contour 2004/11/18 v2.14 Print contoured text (HH, MH)
 \con@length=\skip113
 
@@ -738,43 +608,31 @@ File: contour.cfg 2004/11/18 v2.14 Print contoured text (HH, MH)
 contour: Using driver file `pdftex.cnt'.
 (C:\Users\cus96\AppData\Roaming\MiKTeX\tex/latex/contour\pdftex.cnt
 File: pdftex.cnt 2004/11/18 v2.14 Print contoured text (HH, MH)
-))
-(C:\Users\cus96\AppData\Roaming\MiKTeX\tex/latex/psnfss\bookman.sty
+)) (C:\Users\cus96\AppData\Roaming\MiKTeX\tex/latex/psnfss\bookman.sty
 Package: bookman 2020/03/25 PSNFSS-v9.3 (SPQR) 
-)
-(C:\Users\cus96\AppData\Roaming\MiKTeX\tex/latex/gillius\gillius2.sty
-Package: gillius2 2013/11/03 (Bob Tennent) Supports Gillius No.2 fonts for all 
-LaTeX engines.
-
-("C:\Program Files\MiKTeX\tex/generic/iftex\ifxetex.sty"
+) (C:\Users\cus96\AppData\Roaming\MiKTeX\tex/latex/gillius\gillius2.sty
+Package: gillius2 2013/11/03 (Bob Tennent) Supports Gillius No.2 fonts for all LaTeX engines.
+ ("C:\Program Files\MiKTeX\tex/generic/iftex\ifxetex.sty"
 Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
-)
-("C:\Program Files\MiKTeX\tex/generic/iftex\ifluatex.sty"
+) ("C:\Program Files\MiKTeX\tex/generic/iftex\ifluatex.sty"
 Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
-)
-("C:\Program Files\MiKTeX\tex/latex/xkeyval\xkeyval.sty"
+) ("C:\Program Files\MiKTeX\tex/latex/xkeyval\xkeyval.sty"
 Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
-
-("C:\Program Files\MiKTeX\tex/generic/xkeyval\xkeyval.tex"
-("C:\Program Files\MiKTeX\tex/generic/xkeyval\xkvutils.tex"
+ ("C:\Program Files\MiKTeX\tex/generic/xkeyval\xkeyval.tex" ("C:\Program Files\MiKTeX\tex/generic/xkeyval\xkvutils.tex"
 \XKV@toks=\toks43
 \XKV@tempa@toks=\toks44
 )
 \XKV@depth=\count309
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
-))
-("C:\Program Files\MiKTeX\tex/latex/base\fontenc.sty"
+)) ("C:\Program Files\MiKTeX\tex/latex/base\fontenc.sty"
 Package: fontenc 2020/02/11 v2.0o Standard LaTeX package
-LaTeX Font Info:    Trying to load font information for OT1+pbk on input line 1
-12.
-
-(C:\Users\cus96\AppData\Roaming\MiKTeX\tex/latex/psnfss\ot1pbk.fd
+LaTeX Font Info:    Trying to load font information for OT1+pbk on input line 112.
+ (C:\Users\cus96\AppData\Roaming\MiKTeX\tex/latex/psnfss\ot1pbk.fd
 File: ot1pbk.fd 2001/06/04 font definitions for OT1/pbk.
 )
 LaTeX Font Info:    Font shape `OT1/pbk/m/n' in size <10> not available
 (Font)              Font shape `OT1/pbk/l/n' tried instead on input line 112.
-)
-(C:\Users\cus96\AppData\Roaming\MiKTeX\tex/latex/fontaxes\fontaxes.sty
+) (C:\Users\cus96\AppData\Roaming\MiKTeX\tex/latex/fontaxes\fontaxes.sty
 Package: fontaxes 2020/07/21 v1.0e Font selection axes
 LaTeX Info: Redefining \upshape on input line 29.
 LaTeX Info: Redefining \itshape on input line 31.
@@ -786,27 +644,18 @@ LaTeX Info: Redefining \ulcshape on input line 41.
 LaTeX Info: Redefining \textsw on input line 47.
 LaTeX Info: Redefining \textssc on input line 48.
 LaTeX Info: Redefining \textulc on input line 49.
-))
-(C:\Users\cus96\AppData\Roaming\MiKTeX\tex/latex/kpfonts\kpfonts.sty
+)) (C:\Users\cus96\AppData\Roaming\MiKTeX\tex/latex/kpfonts\kpfonts.sty
 Package: kpfonts  2010/08/20 v3.31
-)
-("C:\Program Files\MiKTeX\tex/latex/base\fontenc.sty"
+) ("C:\Program Files\MiKTeX\tex/latex/base\fontenc.sty"
 Package: fontenc 2020/02/11 v2.0o Standard LaTeX package
-LaTeX Font Info:    Trying to load font information for T1+pbk on input line 11
-2.
-
-(C:\Users\cus96\AppData\Roaming\MiKTeX\tex/latex/psnfss\t1pbk.fd
+LaTeX Font Info:    Trying to load font information for T1+pbk on input line 112.
+ (C:\Users\cus96\AppData\Roaming\MiKTeX\tex/latex/psnfss\t1pbk.fd
 File: t1pbk.fd 2001/06/04 font definitions for T1/pbk.
 )
 LaTeX Font Info:    Font shape `T1/pbk/m/n' in size <10> not available
 (Font)              Font shape `T1/pbk/l/n' tried instead on input line 112.
-))
-(C:/Users/cus96/texmf\tex/latex\dnd\lib/dndstrings.sty)
-(C:/Users/cus96/texmf\tex/latex\dnd\lib/dndcomment.sty)
-(C:/Users/cus96/texmf\tex/latex\dnd\lib/dndheader.sty
-(C:\Users\cus96\AppData\Roaming\MiKTeX\tex/latex/fancyhdr\fancyhdr.sty
-Package: fancyhdr 2019/01/31 v3.10 Extensive control of page headers and footer
-s
+)) (C:/Users/cus96/texmf\tex/latex\dnd\lib/dndstrings.sty) (C:/Users/cus96/texmf\tex/latex\dnd\lib/dndcomment.sty) (C:/Users/cus96/texmf\tex/latex\dnd\lib/dndheader.sty (C:\Users\cus96\AppData\Roaming\MiKTeX\tex/latex/fancyhdr\fancyhdr.sty
+Package: fancyhdr 2019/01/31 v3.10 Extensive control of page headers and footers
 \f@nch@headwidth=\skip114
 \f@nch@O@elh=\skip115
 \f@nch@O@erh=\skip116
@@ -816,36 +665,26 @@ s
 \f@nch@O@erf=\skip120
 \f@nch@O@olf=\skip121
 \f@nch@O@orf=\skip122
-))
-(C:/Users/cus96/texmf\tex/latex\dnd\lib/dndmonster.sty
+)) (C:/Users/cus96/texmf\tex/latex\dnd\lib/dndmonster.sty
 \enitdp@__dnd_monster_attributes=\count310
 \enitdp@DndMonsterSpells=\count311
 \enitdp@DndMonsterLegendaryActions=\count312
-)
-(C:/Users/cus96/texmf\tex/latex\dnd\lib/dndreadaloud.sty)
-(C:/Users/cus96/texmf\tex/latex\dnd\lib/dndsections.sty
+) (C:/Users/cus96/texmf\tex/latex\dnd\lib/dndreadaloud.sty) (C:/Users/cus96/texmf\tex/latex\dnd\lib/dndsections.sty
 \c@DndAreaCounter=\count313
 \c@DndSubAreaCounter=\count314
-)
-(C:/Users/cus96/texmf\tex/latex\dnd\lib/dndsidebar.sty)
-(C:/Users/cus96/texmf\tex/latex\dnd\lib/dndtable.sty
+) (C:/Users/cus96/texmf\tex/latex\dnd\lib/dndsidebar.sty) (C:/Users/cus96/texmf\tex/latex\dnd\lib/dndtable.sty
 \l__dnd_table_width_dim=\dimen294
-)))
-(C:/Users/cus96/texmf\tex/latex\dnd\lib/dndtoc.sty
-(C:\Users\cus96\AppData\Roaming\MiKTeX\tex/latex/titlesec\titletoc.sty
+))) (C:/Users/cus96/texmf\tex/latex\dnd\lib/dndtoc.sty (C:\Users\cus96\AppData\Roaming\MiKTeX\tex/latex/titlesec\titletoc.sty
 Package: titletoc 2019/10/16 v2.13 TOC entries
 \ttl@leftsep=\dimen295
-))
-("C:\Program Files\MiKTeX\tex/generic/babel\babel.sty"
+)) ("C:\Program Files\MiKTeX\tex/generic/babel\babel.sty"
 Package: babel 2020/09/01 3.48 The Babel package
-
-("C:\Program Files\MiKTeX\tex/generic/babel\babel.def"
+ ("C:\Program Files\MiKTeX\tex/generic/babel\babel.def"
 File: babel.def 2020/09/01 3.48 Babel common definitions
 \babel@savecnt=\count315
 \U@D=\dimen296
 \l@babelnohyphens=\language79
-
-("C:\Program Files\MiKTeX\tex/generic/babel\txtbabel.def")
+ ("C:\Program Files\MiKTeX\tex/generic/babel\txtbabel.def")
 \bbl@readstream=\read4
 )
 \bbl@dirlevel=\count316
@@ -854,10 +693,8 @@ File: babel.def 2020/09/01 3.48 Babel common definitions
 * Local config file bblopts.cfg used
 *
 ("C:\Program Files\MiKTeX\tex/latex/arabi\bblopts.cfg"
-File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
- babel
-)
-("C:\Program Files\MiKTeX\tex/latex/babel-english\english.ldf"
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of babel
+) ("C:\Program Files\MiKTeX\tex/latex/babel-english\english.ldf"
 Language: english 2017/06/06 v3.3r English support from the babel system
 Package babel Info: \l@canadian = using hyphenrules for english
 (babel)             (\language0) on input line 102.
@@ -865,25 +702,20 @@ Package babel Info: \l@australian = using hyphenrules for ukenglish
 (babel)             (\language73) on input line 105.
 Package babel Info: \l@newzealand = using hyphenrules for ukenglish
 (babel)             (\language73) on input line 108.
-)
-(C:\Users\cus96\AppData\Roaming\MiKTeX\tex/latex/babel-italian\italian.ldf
+) (C:\Users\cus96\AppData\Roaming\MiKTeX\tex/latex/babel-italian\italian.ldf
 Language: italian 2020/05/21 v.1.4.04 Italian support for the babel system
 \it@lettering=\count317
 \it@doublequoteactive=\count318
 \it@ISOcompliance=\count319
-))
-("C:\Program Files\MiKTeX\tex/latex/base\inputenc.sty"
+)) ("C:\Program Files\MiKTeX\tex/latex/base\inputenc.sty"
 Package: inputenc 2018/08/11 v1.3c Input encoding file
 \inpenc@prehook=\toks45
 \inpenc@posthook=\toks46
-)
-(C:\Users\cus96\AppData\Roaming\MiKTeX\tex/latex/lipsum\lipsum.sty
+) (C:\Users\cus96\AppData\Roaming\MiKTeX\tex/latex/lipsum\lipsum.sty
 Package: lipsum 2019/01/02 v2.2 150 paragraphs of Lorem Ipsum dummy text
-
-(C:\Users\cus96\AppData\Roaming\MiKTeX\tex/latex/lipsum\lipsum.ltd.tex
+ (C:\Users\cus96\AppData\Roaming\MiKTeX\tex/latex/lipsum\lipsum.ltd.tex
 File: lipsum.ltd.tex 2019/01/02 v2.2 The Lorem ipsum dummy text
-))
-("C:\Program Files\MiKTeX\tex/latex/listings\listings.sty"
+)) ("C:\Program Files\MiKTeX\tex/latex/listings\listings.sty"
 \lst@mode=\count320
 \lst@gtempboxa=\box122
 \lst@token=\toks47
@@ -896,19 +728,16 @@ File: lipsum.ltd.tex 2019/01/02 v2.2 The Lorem ipsum dummy text
 \lst@newlines=\count324
 \lst@lineno=\count325
 \lst@maxwidth=\dimen300
-
-("C:\Program Files\MiKTeX\tex/latex/listings\lstmisc.sty"
+ ("C:\Program Files\MiKTeX\tex/latex/listings\lstmisc.sty"
 File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
 \c@lstnumber=\count326
 \lst@skipnumbers=\count327
 \lst@framebox=\box123
-)
-("C:\Program Files\MiKTeX\tex/latex/listings\listings.cfg"
+) ("C:\Program Files\MiKTeX\tex/latex/listings\listings.cfg"
 File: listings.cfg 2020/03/24 1.8d listings configuration
 ))
 Package: listings 2020/03/24 1.8d (Carsten Heinz)
-
-(C:\Users\cus96\AppData\Roaming\MiKTeX\tex/latex/sttools\flushend.sty
+ (C:\Users\cus96\AppData\Roaming\MiKTeX\tex/latex/sttools\flushend.sty
 Package: flushend 2017/03/27 v3.3 Balancing columns in twocolumn mode
 \flushend@@lastskip@a=\skip123
 \flushend@@lastskip@b=\skip124
@@ -926,11 +755,9 @@ Package: flushend 2017/03/27 v3.3 Balancing columns in twocolumn mode
 \hold@viper=\box129
 \atColsBreak=\toks48
 \atColsEnd=\toks49
-)
-(C:\Users\cus96\AppData\Roaming\MiKTeX\tex/latex/dblfloatfix\dblfloatfix.sty
+) (C:\Users\cus96\AppData\Roaming\MiKTeX\tex/latex/dblfloatfix\dblfloatfix.sty
 Package: dblfloatfix 2012/12/31 v1.0a (JAW)
-
-("C:\Program Files\MiKTeX\tex/latex/base\fixltx2e.sty"
+ ("C:\Program Files\MiKTeX\tex/latex/base\fixltx2e.sty"
 Package: fixltx2e 2016/12/29 v2.1a fixes to LaTeX (obsolete)
 Applying: [2015/01/01] Old fixltx2e package on input line 46.
 
@@ -943,50 +770,32 @@ Already applied: [0000/00/00] Old fixltx2e package on input line 53.
 )
 \@dblbotnum=\count329
 \c@dblbotnumber=\count330
-)
-(C:\Users\cus96\AppData\Roaming\MiKTeX\tex/latex/tikzpagenodes\tikzpagenodes.st
-y
-Package: tikzpagenodes 2012/09/16 v1.1 Special PGF/TikZ nodes for areas of the 
-page
+) (C:\Users\cus96\AppData\Roaming\MiKTeX\tex/latex/tikzpagenodes\tikzpagenodes.sty
+Package: tikzpagenodes 2012/09/16 v1.1 Special PGF/TikZ nodes for areas of the page
  (C:\Users\cus96\AppData\Roaming\MiKTeX\tex/latex/ifoddpage\ifoddpage.sty
 Package: ifoddpage 2016/04/23 v1.1 Conditionals for odd/even page detection
 \c@checkoddpage=\count331
-))
-("C:\Program Files\MiKTeX\tex/latex/listings\lstlang1.sty"
+)) ("C:\Program Files\MiKTeX\tex/latex/listings\lstlang1.sty"
 File: lstlang1.sty 2020/03/24 1.8d listings language file
-)
-("C:\Program Files\MiKTeX\tex/latex/listings\lstlang2.sty"
+) ("C:\Program Files\MiKTeX\tex/latex/listings\lstlang2.sty"
 File: lstlang2.sty 2020/03/24 1.8d listings language file
-)
-("C:\Program Files\MiKTeX\tex/latex/listings\lstlang3.sty"
+) ("C:\Program Files\MiKTeX\tex/latex/listings\lstlang3.sty"
 File: lstlang3.sty 2020/03/24 1.8d listings language file
-)
-("C:\Program Files\MiKTeX\tex/latex/listings\lstlang1.sty"
+) ("C:\Program Files\MiKTeX\tex/latex/listings\lstlang1.sty"
 File: lstlang1.sty 2020/03/24 1.8d listings language file
-)
-("C:\Program Files\MiKTeX\tex/latex/listings\lstlang2.sty"
+) ("C:\Program Files\MiKTeX\tex/latex/listings\lstlang2.sty"
 File: lstlang2.sty 2020/03/24 1.8d listings language file
-)
-("C:\Program Files\MiKTeX\tex/latex/listings\lstlang3.sty"
+) ("C:\Program Files\MiKTeX\tex/latex/listings\lstlang3.sty"
 File: lstlang3.sty 2020/03/24 1.8d listings language file
-)
-("C:\Program Files\MiKTeX\tex/latex/listings\lstlang1.sty"
+) ("C:\Program Files\MiKTeX\tex/latex/listings\lstlang1.sty"
 File: lstlang1.sty 2020/03/24 1.8d listings language file
-)
-("C:\Program Files\MiKTeX\tex/latex/listings\lstlang2.sty"
+) ("C:\Program Files\MiKTeX\tex/latex/listings\lstlang2.sty"
 File: lstlang2.sty 2020/03/24 1.8d listings language file
-)
-("C:\Program Files\MiKTeX\tex/latex/listings\lstlang3.sty"
+) ("C:\Program Files\MiKTeX\tex/latex/listings\lstlang3.sty"
 File: lstlang3.sty 2020/03/24 1.8d listings language file
-)
-("C:\Program Files\MiKTeX\tex/latex/listings\lstmisc.sty"
+) ("C:\Program Files\MiKTeX\tex/latex/listings\lstmisc.sty"
 File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
-)
-(C:/Users/cus96/texmf\tex/latex\dnd\lib/languages/italian.sty)
-(C:/Users/cus96/texmf\tex/latex\dnd\lib/languages/japanese.sty)
-(C:/Users/cus96/texmf\tex/latex\dnd\lib/languages/ngerman.sty)
-(C:/Users/cus96/texmf\tex/latex\dnd\lib/languages/russian.sty)
-(C:/Users/cus96/texmf\tex/latex\dnd\lib/languages/spanish.sty) (Homebrew.aux)
+) (C:/Users/cus96/texmf\tex/latex\dnd\lib/languages/italian.sty) (C:/Users/cus96/texmf\tex/latex\dnd\lib/languages/japanese.sty) (C:/Users/cus96/texmf\tex/latex\dnd\lib/languages/ngerman.sty) (C:/Users/cus96/texmf\tex/latex\dnd\lib/languages/russian.sty) (C:/Users/cus96/texmf\tex/latex\dnd\lib/languages/spanish.sty) (c:/Users\cus96\Documents\LaTeX\LaTeX-DnDMaterial\Homebrew\Homebrew.aux)
 \openout1 = `Homebrew.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 19.
@@ -1003,8 +812,7 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 19.
 LaTeX Font Info:    ... okay on input line 19.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 19.
 LaTeX Font Info:    ... okay on input line 19.
-
-("C:\Program Files\MiKTeX\tex/context/base/mkii\supp-pdf.mkii"
+ ("C:\Program Files\MiKTeX\tex/context/base/mkii\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count332
 \scratchdimen=\dimen305
@@ -1019,8 +827,7 @@ LaTeX Font Info:    ... okay on input line 19.
 \everyMPtoPDFconversion=\toks51
 ) ("C:\Program Files\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty"
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
-Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
-85.
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
 )
 \symgns@font=\mathgroup4
 LaTeX Font Info:    Overwriting symbol font `gns@font' in version `bold'
@@ -1028,13 +835,11 @@ LaTeX Font Info:    Overwriting symbol font `gns@font' in version `bold'
 Package gensymb Info: Math companion symbols declared on input line 19.
 LaTeX Info: Redefining \degree on input line 19.
 LaTeX Info: Redefining \celsius on input line 19.
-Package gensymb Info: Using text companion symbols for \degree, \celsius and \p
-erthousand on input line 19.
+Package gensymb Info: Using text companion symbols for \degree, \celsius and \perthousand on input line 19.
 LaTeX Info: Redefining \ohm on input line 19.
 Package gensymb Info: Using \textohm for \ohm on input line 19.
 Package gensymb Info: Using \textmu for \micro on input line 19.
-
-ABD: EveryShipout initializing macros
+ ABD: EveryShipout initializing macros
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
@@ -1091,13 +896,11 @@ LaTeX Info: Redefining \selectfont on input line 19.
 LaTeX Info: Redefining \it@ocap on input line 19.
 LaTeX Info: Redefining \it@ccap on input line 19.
 \c@lstlisting=\count340
- (0-CopertinaInizio/Copertina.tex
-<0-CopertinaInizio/Risorse/backgroundTitle.png, id=4, 707.64375pt x 943.27406pt
->
+ (c:/Users\cus96\Documents\LaTeX\LaTeX-DnDMaterial\Homebrew\0-CopertinaInizio/Copertina.tex
+<0-CopertinaInizio/Risorse/backgroundTitle.png, id=4, 707.64375pt x 943.27406pt>
 File: 0-CopertinaInizio/Risorse/backgroundTitle.png Graphic file (type png)
 <use 0-CopertinaInizio/Risorse/backgroundTitle.png>
-Package pdftex.def Info: 0-CopertinaInizio/Risorse/backgroundTitle.png  used on
- input line 5.
+Package pdftex.def Info: 0-CopertinaInizio/Risorse/backgroundTitle.png  used on input line 5.
 (pdftex.def)             Requested size: 614.30618pt x 794.97878pt.
 <img/paper.jpg, id=5, 614.295pt x 794.97pt>
 File: img/paper.jpg Graphic file (type jpg)
@@ -1112,12 +915,10 @@ File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
 Package pdftex.def Info: img/paper.jpg  used on input line 7.
 (pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+ [1
 
-[1
 
-
- <C:/Users/cus96/texmf/tex/latex/dnd/img/paper.jpg> <./0-CopertinaInizio/Risors
-e/backgroundTitle.png>]) (1-StrutturaDelCosmo/Cosmo.tex
+ <C:/Users/cus96/texmf/tex/latex/dnd/img/paper.jpg> <c:/Users/cus96/Documents/LaTeX/LaTeX-DnDMaterial/Homebrew/0-CopertinaInizio/Risorse/backgroundTitle.png>]) (c:/Users\cus96\Documents\LaTeX\LaTeX-DnDMaterial\Homebrew\1-StrutturaDelCosmo/Cosmo.tex
 Capitolo 1.
 LaTeX Font Info:    Font shape `T1/pbk/m/n' in size <24.88> not available
 (Font)              Font shape `T1/pbk/l/n' tried instead on input line 1.
@@ -1220,12 +1021,11 @@ Package pdftex.def Info: img/footerscroll.pdf  used on input line 31.
 
 
 
-] (2-Razze/2.1-Shadar-Kai/Shadar-Kai
+] (c:/Users\cus96\Documents\LaTeX\LaTeX-DnDMaterial\Homebrew\2-Razze/2.1-Shadar-Kai/Shadar-Kai
 <2-Razze/2.1-Shadar-Kai/Risorse/Shadowfellbg.png, id=26, 770.88pt x 433.62pt>
 File: 2-Razze/2.1-Shadar-Kai/Risorse/Shadowfellbg.png Graphic file (type png)
 <use 2-Razze/2.1-Shadar-Kai/Risorse/Shadowfellbg.png>
-Package pdftex.def Info: 2-Razze/2.1-Shadar-Kai/Risorse/Shadowfellbg.png  used 
-on input line 8.
+Package pdftex.def Info: 2-Razze/2.1-Shadar-Kai/Risorse/Shadowfellbg.png  used on input line 8.
 (pdftex.def)             Requested size: 614.295pt x 345.54008pt.
 
 Overfull \hbox (267.04555pt too wide) in paragraph at lines 8--9
@@ -1233,11 +1033,9 @@ Overfull \hbox (267.04555pt too wide) in paragraph at lines 8--9
  []
 
 <2-Razze/2.1-Shadar-Kai/Risorse/Shadar-kai1bg.png, id=28, 1204.5pt x 1003.75pt>
-
 File: 2-Razze/2.1-Shadar-Kai/Risorse/Shadar-kai1bg.png Graphic file (type png)
 <use 2-Razze/2.1-Shadar-Kai/Risorse/Shadar-kai1bg.png>
-Package pdftex.def Info: 2-Razze/2.1-Shadar-Kai/Risorse/Shadar-kai1bg.png  used
- on input line 15.
+Package pdftex.def Info: 2-Razze/2.1-Shadar-Kai/Risorse/Shadar-kai1bg.png  used on input line 15.
 (pdftex.def)             Requested size: 426.79134pt x 355.6675pt.
 
 Overfull \hbox (111.47902pt too wide) in paragraph at lines 14--16
@@ -1262,12 +1060,9 @@ Package pdftex.def Info: img/footerscroll.pdf  used on input line 35.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
 [6
 
- <./2-Razze/2.1-Shadar-Kai/Risorse/Shadowfellbg.png> <./2-Razze/2.1-Shadar-Kai/
-Risorse/Shadar-kai1bg.png>]
-LaTeX Font Info:    Trying to load font information for T1+jkpss on input line 
-36.
-
-(C:\Users\cus96\AppData\Roaming\MiKTeX\tex/latex/kpfonts\t1jkpss.fd
+ <c:/Users/cus96/Documents/LaTeX/LaTeX-DnDMaterial/Homebrew/2-Razze/2.1-Shadar-Kai/Risorse/Shadowfellbg.png> <c:/Users/cus96/Documents/LaTeX/LaTeX-DnDMaterial/Homebrew/2-Razze/2.1-Shadar-Kai/Risorse/Shadar-kai1bg.png>]
+LaTeX Font Info:    Trying to load font information for T1+jkpss on input line 36.
+ (C:\Users\cus96\AppData\Roaming\MiKTeX\tex/latex/kpfonts\t1jkpss.fd
 File: t1jkpss.fd 2007/07/16 Fontinst v1.928 font definitions for T1/jkpss.
 )
 Package microtype Info: Loading generic protrusion settings for font family
@@ -1277,13 +1072,9 @@ Package microtype Info: Loading generic protrusion settings for font family
 Package microtype Info: Character `029' is missing
 (microtype)             in font `T1/jkpss/b/sc/10'.
 (microtype)             Ignoring protrusion settings for this character.
-LaTeX Font Info:    Trying to load font information for T1+GilliusADFNoTwo-LF o
-n input line 36.
-
-(C:\Users\cus96\AppData\Roaming\MiKTeX\tex/latex/gillius\t1gilliusadfnotwo-lf.f
-d
-File: T1GilliusADFNoTwo-LF.fd 2013/11/03 (autoinst) Font definitions for T1/Gil
-liusADFNoTwo-LF.
+LaTeX Font Info:    Trying to load font information for T1+GilliusADFNoTwo-LF on input line 36.
+ (C:\Users\cus96\AppData\Roaming\MiKTeX\tex/latex/gillius\t1gilliusadfnotwo-lf.fd
+File: T1GilliusADFNoTwo-LF.fd 2013/11/03 (autoinst) Font definitions for T1/GilliusADFNoTwo-LF.
 )
 LaTeX Font Info:    Font shape `T1/GilliusADFNoTwo-LF/m/n' will be
 (Font)              scaled to size 10.0pt on input line 36.
@@ -1296,8 +1087,7 @@ LaTeX Font Info:    Font shape `T1/GilliusADFNoTwo-LF/m/n' will be
 <2-Razze/2.1-Shadar-Kai/Risorse/crowskull2.png, id=34, 431.81325pt x 481.8pt>
 File: 2-Razze/2.1-Shadar-Kai/Risorse/crowskull2.png Graphic file (type png)
 <use 2-Razze/2.1-Shadar-Kai/Risorse/crowskull2.png>
-Package pdftex.def Info: 2-Razze/2.1-Shadar-Kai/Risorse/crowskull2.png  used on
- input line 58.
+Package pdftex.def Info: 2-Razze/2.1-Shadar-Kai/Risorse/crowskull2.png  used on input line 58.
 (pdftex.def)             Requested size: 241.02039pt x 268.92395pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
@@ -1315,7 +1105,7 @@ File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
 Package pdftex.def Info: img/footerscroll.pdf  used on input line 70.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
- [7 <./2-Razze/2.1-Shadar-Kai/Risorse/crowskull2.png>]
+ [7 <c:/Users/cus96/Documents/LaTeX/LaTeX-DnDMaterial/Homebrew/2-Razze/2.1-Shadar-Kai/Risorse/crowskull2.png>]
 LaTeX Font Info:    Font shape `T1/pbk/m/it' in size <10> not available
 (Font)              Font shape `T1/pbk/l/it' tried instead on input line 76.
 LaTeX Font Info:    Font shape `T1/pbk/b/it' in size <10> not available
@@ -1327,8 +1117,7 @@ LaTeX Font Info:    Font shape `T1/pbk/m/sc' in size <12> not available
 <2-Razze/2.1-Shadar-Kai/Risorse/skullrav.png, id=42, 328.22626pt x 433.62pt>
 File: 2-Razze/2.1-Shadar-Kai/Risorse/skullrav.png Graphic file (type png)
 <use 2-Razze/2.1-Shadar-Kai/Risorse/skullrav.png>
-Package pdftex.def Info: 2-Razze/2.1-Shadar-Kai/Risorse/skullrav.png  used on i
-nput line 112.
+Package pdftex.def Info: 2-Razze/2.1-Shadar-Kai/Risorse/skullrav.png  used on input line 112.
 (pdftex.def)             Requested size: 192.81703pt x 254.73524pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
@@ -1346,13 +1135,11 @@ File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
 Package pdftex.def Info: img/footerscroll.pdf  used on input line 129.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
- [8 <./2-Razze/2.1-Shadar-Kai/Risorse/skullrav.png>]) (2-Razze/2.2-FeyCorgi/Fey
-Corgi.tex
+ [8 <c:/Users/cus96/Documents/LaTeX/LaTeX-DnDMaterial/Homebrew/2-Razze/2.1-Shadar-Kai/Risorse/skullrav.png>]) (c:/Users\cus96\Documents\LaTeX\LaTeX-DnDMaterial\Homebrew\2-Razze/2.2-FeyCorgi/FeyCorgi.tex
 <2-Razze/2.2-FeyCorgi/Risorse/townbg.png, id=48, 264.30171pt x 172.62206pt>
 File: 2-Razze/2.2-FeyCorgi/Risorse/townbg.png Graphic file (type png)
 <use 2-Razze/2.2-FeyCorgi/Risorse/townbg.png>
-Package pdftex.def Info: 2-Razze/2.2-FeyCorgi/Risorse/townbg.png  used on input
- line 6.
+Package pdftex.def Info: 2-Razze/2.2-FeyCorgi/Risorse/townbg.png  used on input line 6.
 (pdftex.def)             Requested size: 675.72824pt x 441.41833pt.
 
 Overfull \hbox (264.86961pt too wide) in paragraph at lines 6--7
@@ -1362,8 +1149,7 @@ Overfull \hbox (264.86961pt too wide) in paragraph at lines 6--7
 <2-Razze/2.2-FeyCorgi/Risorse/fey_corgi2.png, id=49, 102.98476pt x 109.8504pt>
 File: 2-Razze/2.2-FeyCorgi/Risorse/fey_corgi2.png Graphic file (type png)
 <use 2-Razze/2.2-FeyCorgi/Risorse/fey_corgi2.png>
-Package pdftex.def Info: 2-Razze/2.2-FeyCorgi/Risorse/fey_corgi2.png  used on i
-nput line 13.
+Package pdftex.def Info: 2-Razze/2.2-FeyCorgi/Risorse/fey_corgi2.png  used on input line 13.
 (pdftex.def)             Requested size: 284.52756pt x 303.54105pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
@@ -1383,13 +1169,11 @@ Package pdftex.def Info: img/footerscroll.pdf  used on input line 46.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
 [9
 
- <./2-Razze/2.2-FeyCorgi/Risorse/townbg.png> <./2-Razze/2.2-FeyCorgi/Risorse/fe
-y_corgi2.png>]
+ <c:/Users/cus96/Documents/LaTeX/LaTeX-DnDMaterial/Homebrew/2-Razze/2.2-FeyCorgi/Risorse/townbg.png> <c:/Users/cus96/Documents/LaTeX/LaTeX-DnDMaterial/Homebrew/2-Razze/2.2-FeyCorgi/Risorse/fey_corgi2.png>]
 <2-Razze/2.2-FeyCorgi/Risorse/Fey_Corgi3.png, id=55, 501.875pt x 748.7975pt>
 File: 2-Razze/2.2-FeyCorgi/Risorse/Fey_Corgi3.png Graphic file (type png)
 <use 2-Razze/2.2-FeyCorgi/Risorse/Fey_Corgi3.png>
-Package pdftex.def Info: 2-Razze/2.2-FeyCorgi/Risorse/Fey_Corgi3.png  used on i
-nput line 88.
+Package pdftex.def Info: 2-Razze/2.2-FeyCorgi/Risorse/Fey_Corgi3.png  used on input line 88.
 (pdftex.def)             Requested size: 190.69916pt x 284.52756pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
@@ -1407,7 +1191,7 @@ File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
 Package pdftex.def Info: img/footerscroll.pdf  used on input line 91.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
- [10 <./2-Razze/2.2-FeyCorgi/Risorse/Fey_Corgi3.png>])
+ [10 <c:/Users/cus96/Documents/LaTeX/LaTeX-DnDMaterial/Homebrew/2-Razze/2.2-FeyCorgi/Risorse/Fey_Corgi3.png>])
 Capitolo 3.
 contour: Using 32 copies for `Capitolo\ 3:' on input line 37.
 contour: Using 32 copies for `Capitolo' on input line 37.
@@ -1415,18 +1199,15 @@ contour: Using 32 copies for `3:' on input line 37.
 contour: Using 32 copies for `Classi' on input line 37.
 contour: Using 32 copies for `e' on input line 37.
 contour: Using 32 copies for `Opzioni' on input line 37.
-(3-classi/FighterShoei
+(c:/Users\cus96\Documents\LaTeX\LaTeX-DnDMaterial\Homebrew\3-classi/FighterShoei
 Package microtype Info: Character `029' is missing
 (microtype)             in font `T1/jkpss/b/sc/12'.
 (microtype)             Ignoring protrusion settings for this character.
-
-(C:\Users\cus96\AppData\Roaming\MiKTeX\tex/latex/microtype\mt-cmr.cfg)
-(C:\Users\cus96\AppData\Roaming\MiKTeX\tex/latex/psnfss\ts1pbk.fd)
+ (C:\Users\cus96\AppData\Roaming\MiKTeX\tex/latex/microtype\mt-cmr.cfg) (C:\Users\cus96\AppData\Roaming\MiKTeX\tex/latex/psnfss\ts1pbk.fd)
 <3-Classi/RisorseShoei/Shoei_Male.png, id=60, 512.91624pt x 770.88pt>
 File: 3-Classi/RisorseShoei/Shoei_Male.png Graphic file (type png)
 <use 3-Classi/RisorseShoei/Shoei_Male.png>
-Package pdftex.def Info: 3-Classi/RisorseShoei/Shoei_Male.png  used on input li
-ne 25.
+Package pdftex.def Info: 3-Classi/RisorseShoei/Shoei_Male.png  used on input line 25.
 (pdftex.def)             Requested size: 241.02039pt x 362.24307pt.
 LaTeX Font Info:    Font shape `T1/pbk/b/n' in size <10> not available
 (Font)              Font shape `T1/pbk/db/n' tried instead on input line 28.
@@ -1451,12 +1232,11 @@ Package pdftex.def Info: img/footerscroll.pdf  used on input line 55.
  [11
 
 
- <./3-Classi/RisorseShoei/Shoei_Male.png>]
+ <c:/Users/cus96/Documents/LaTeX/LaTeX-DnDMaterial/Homebrew/3-Classi/RisorseShoei/Shoei_Male.png>]
 <3-Classi/RisorseShoei/Shoei1.png, id=67, 876.0pt x 492.75pt>
 File: 3-Classi/RisorseShoei/Shoei1.png Graphic file (type png)
 <use 3-Classi/RisorseShoei/Shoei1.png>
-Package pdftex.def Info: 3-Classi/RisorseShoei/Shoei1.png  used on input line 8
-1.
+Package pdftex.def Info: 3-Classi/RisorseShoei/Shoei1.png  used on input line 81.
 (pdftex.def)             Requested size: 706.43549pt x 397.396pt.
 - LAST -
 Extra skip:14.46991pt
@@ -1479,8 +1259,7 @@ File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
 Package pdftex.def Info: img/footerscroll.pdf  used on input line 84.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
- [12 <./3-Classi/RisorseShoei/Shoei1.png>])
-(3-classi/WarlockCO
+ [12 <c:/Users/cus96/Documents/LaTeX/LaTeX-DnDMaterial/Homebrew/3-Classi/RisorseShoei/Shoei1.png>]) (c:/Users\cus96\Documents\LaTeX\LaTeX-DnDMaterial\Homebrew\3-classi/WarlockCO
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
 Package pdftex.def Info: img/paper.jpg  used on input line 60.
@@ -1602,8 +1381,7 @@ File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
 Package pdftex.def Info: img/footerscroll.pdf  used on input line 116.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
- [18])
-(../MasterMaterial/Chiesa/Chiesa) (4-Territori/Location_merger
+ [18]) (../MasterMaterial/Chiesa/Chiesa) (c:/Users\cus96\Documents\LaTeX\LaTeX-DnDMaterial\Homebrew\4-Territori/Location_merger
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
 Package pdftex.def Info: img/paper.jpg  used on input line 1.
@@ -1622,8 +1400,7 @@ Package pdftex.def Info: img/footerscroll.pdf  used on input line 1.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
  [19
 
-]
-(4-Territori/Tolera))
+] (c:/Users\cus96\Documents\LaTeX\LaTeX-DnDMaterial\Homebrew\4-Territori/Tolera))
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
 Package pdftex.def Info: img/paper.jpg  used on input line 48.
@@ -1648,7 +1425,7 @@ contour: Using 32 copies for `Capitolo\ 5:' on input line 48.
 contour: Using 32 copies for `Capitolo' on input line 48.
 contour: Using 32 copies for `5:' on input line 48.
 contour: Using 32 copies for `NPCs' on input line 48.
-(5-NPCs/NPCMinori.tex)
+(c:/Users\cus96\Documents\LaTeX\LaTeX-DnDMaterial\Homebrew\5-NPCs/NPCMinori.tex)
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
 Package pdftex.def Info: img/paper.jpg  used on input line 51.
@@ -1676,7 +1453,7 @@ contour: Using 32 copies for `6:' on input line 51.
 contour: Using 32 copies for `Oggetti' on input line 51.
 contour: Using 32 copies for `ed' on input line 51.
 contour: Using 32 copies for `Equipaggiamenti' on input line 51.
-(6-Oggetti/AdventuringGears.tex
+(c:/Users\cus96\Documents\LaTeX\LaTeX-DnDMaterial\Homebrew\6-Oggetti/AdventuringGears.tex
 LaTeX Font Info:    Font shape `T1/pbk/m/sc' in size <10> not available
 (Font)              Font shape `T1/pbk/l/sc' tried instead on input line 9.
 )
@@ -1699,29 +1476,17 @@ Package pdftex.def Info: img/footerscroll.pdf  used on input line 55.
  [22
 
 
-] (Homebrew.aux) ) 
+] (c:/Users\cus96\Documents\LaTeX\LaTeX-DnDMaterial\Homebrew\Homebrew.aux) ) 
 Here is how much of TeX's memory you used:
- 24935 strings out of 481199
- 502685 string characters out of 2915349
+ 24936 strings out of 481199
+ 503613 string characters out of 2915349
  1128718 words of memory out of 3000000
  39806 multiletter control sequences out of 15000+200000
  596682 words of font info for 135 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 71i,18n,122p,1738b,1121s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Program Files/MiKTeX/fonts/enc/dvips/base/8r.enc}{C:/User
-s/cus96/AppData/Roaming/MiKTeX/fonts/enc/dvips/gillius/gls_4bsedw.enc}<C:/Users
-/cus96/AppData/Roaming/MiKTeX/fonts/type1/arkandis/gillius/GilliusADFNo2-Bold.p
-fb><C:/Users/cus96/AppData/Roaming/MiKTeX/fonts/type1/arkandis/gillius/GilliusA
-DFNo2-Italic.pfb><C:/Users/cus96/AppData/Roaming/MiKTeX/fonts/type1/arkandis/gi
-llius/GilliusADFNo2-Regular.pfb><C:/Program Files/MiKTeX/fonts/type1/public/ams
-fonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr
-10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Use
-rs/cus96/AppData/Roaming/MiKTeX/fonts/type1/public/kpfonts/jkpssbsc8a.pfb><C:/P
-rogram Files/MiKTeX/fonts/type1/urw/bookman/ubkd8a.pfb><C:/Program Files/MiKTeX
-/fonts/type1/urw/bookman/ubkd8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/bo
-okman/ubkdi8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/bookman/ubkl8a.pfb><
-C:/Program Files/MiKTeX/fonts/type1/urw/bookman/ubkli8a.pfb>
-Output written on Homebrew.pdf (22 pages, 11550157 bytes).
+ 71i,18n,122p,1794b,1121s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Program Files/MiKTeX/fonts/enc/dvips/base/8r.enc}{C:/Users/cus96/AppData/Roaming/MiKTeX/fonts/enc/dvips/gillius/gls_4bsedw.enc}<C:/Users/cus96/AppData/Roaming/MiKTeX/fonts/type1/arkandis/gillius/GilliusADFNo2-Bold.pfb><C:/Users/cus96/AppData/Roaming/MiKTeX/fonts/type1/arkandis/gillius/GilliusADFNo2-Italic.pfb><C:/Users/cus96/AppData/Roaming/MiKTeX/fonts/type1/arkandis/gillius/GilliusADFNo2-Regular.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/cus96/AppData/Roaming/MiKTeX/fonts/type1/public/kpfonts/jkpssbsc8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/bookman/ubkd8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/bookman/ubkd8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/bookman/ubkdi8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/bookman/ubkl8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/bookman/ubkli8a.pfb>
+Output written on c:/Users\cus96\Documents\LaTeX\LaTeX-DnDMaterial\Homebrew\Homebrew.pdf (22 pages, 11550157 bytes).
 PDF statistics:
  150 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
