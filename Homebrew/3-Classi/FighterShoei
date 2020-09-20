@@ -78,7 +78,7 @@ Puoi usare quest'abilità una sola volta per Riposo Prolungato.
 \flushcolsend
 
 \begin{tikzpicture}[remember picture, overlay, shift={(current page.south east)}]
-  \node[anchor=south east, xshift=2, yshift=-3]{\includegraphics[width=1.15\paperwidth]{3-Classi/RisorseShoei/Shoei1.png}};
+  \node[anchor=south east, xshift=3, yshift=-3]{\includegraphics[width=1.15\paperwidth]{3-Classi/RisorseShoei/Shoei1.png}};
 \end{tikzpicture}
 
 \clearpage
