@@ -2,16 +2,16 @@
 Gli Shadar-Kai non costituiscono una vera e propria razza, quanto più un termine cappello per tutti quegli individui toccati dalla Regina Corvo, che ne portano il marchio. Per questo motivo nomi, società e caratteristiche sono fortemente variabili da individuo a individuo.
 Gli Shadar-Kai compaiono con un'incidenza di circa uno ogni diecimila individui, e la quasi totalità sono umani o elfi.
 
+\begin{center}
 \begin{figure}
    \vspace*{-3.5cm}
-   \hspace*{-1.9cm}
-   \includegraphics[width=1.1\pdfpagewidth]{2-Razze/2.1-Shadar-Kai/Risorse/Shadowfellbg.png};
+   \makebox[\textwidth][c]{\includegraphics[width=\pdfpagewidth]{2-Razze/2.1-Shadar-Kai/Risorse/Shadowfellbg.png}};
 \end{figure}
-
+\end{center}
 
 \begin{figure}[t!]
    \vspace*{-2cm}
-   \hspace*{-3.5cm}
+   \hspace*{-2.8cm}
    \includegraphics[width=15cm]{2-Razze/2.1-Shadar-Kai/Risorse/Shadar-kai1bg.png};
 \end{figure}
 
@@ -33,13 +33,14 @@ Sconosciuto però è il fine della Regina: che stia manovrando i suoi prediletti
 \subsection{La Regina Corvo}
 Si conosce molto poco sull'origine della Regina Corvo, nonostante esistano molti miti a riguardo. Secondo alcuni era una regina elfica che in tempi antichi venne fusa alla struttura dello Shadowfell e alla trama del multiverso in seguito ad un esperimento magico sfuggito al controllo. Secondo altri fu un fantoccio creato per distrarre un antico dio dai suoi obbiettivi, e che acquistò poteri paragonabili a quelli di una divinità come effetto collaterale della sua creazione.
 
-\begin{paperbox}[float=!b]{Meta sulla Regina}
+\begin{DndSidebar}[float=!b]{Meta sulla Regina}
   Per quanto chi fosse la regina prima di divenire ciò che è ora sia secondario alcuni dettagli delle sue intenzioni sono fissati: si trattava di una potente maga elfica vissuta ai tempi dello squarcio, che tentò di costruire un rituale che le permettesse di invertire gli effetti del cataclisma provocato degli Edain, in quanto temeva in un degenerare della frattura che avrebbe potuto distruggere tutto il multiverso.
-
+  \\
   Fu per questo motivo che gli Edæin le diedero la caccia e cercarono di impedirle di chiudere l'apertura attraverso la quale volevano riportare il loro popolo. Costretta a nascondersi nello shadowfell venne infine trovata e interrotta durante il rituale di tre giorni necessario a compiere l'incantesimo che, almeno secondo lei, avrebbe salvato il multiverso.
-
+\\
   In seguito a questa interruzione ella si ritrovò fusa alla struttura dello shadowfell e, in qualche modo, più a fondo nella trama della realtà. Nessuno sa cosa ella veda o quali conoscenze abbia grazie alla sua nuova forma, ma è un dato di fatto che ora si dedichi alla supervisione del naturale ruolo della morte. Che stia anche disponendo delle pedine per un piano più ampio è del tutto plausibile, ma completamente imperscrutabile.
-\end{paperbox}
+\end{DndSidebar}
+
 
 Gli scolari hanno individuato temporalmente l'origine della regina corvo in concomitanza o poco successivamente allo squarcio che scosse il multiverso, ma l'incertezza delle fonti rende tutto questo poco più che una congettura.
 
@@ -52,6 +53,11 @@ Per sua natura la Regina Corvo non si spinge mai ad azioni dirette, ma tende piu
 Ciononostante esiste qualcosa che la Regina Corvo desidera conoscere, ma la cui visione le è preclusa: i cuori dei mortali. Per questo motivo gli Shadar-Kai più fedeli spendono le loro esistenze a raccogliere e conservare emozioni e oggetti importanti per qualcuno, da presentare alla loro Regina.
 
 
+\begin{figure}[t!]
+  %\hspace*{}
+  \includegraphics[width=\columnwidth]{2-Razze/2.1-Shadar-Kai/Risorse/crowskull2.png}
+\end{figure}
+
 \subsection{Letherna}
 
  La Regina Corvo governa una parte dello Shadowfell conosciuta come Letherna, una regione di passaggio, e a volte stagnazione, per le anime dei morti. Questa regione appare come una fitta e tetra foresta, avvolta nella nebbia, in cui è possibile incontrare anime che stanno lentamente perdendo ogni traccia del loro io, prima di ricongiungersi alla struttura del cosmo, viaggiando verso i Piani Esterni. Qui la Regina li osserva, cercando di carpire quei frammenti di emozioni che da loro si dissolvono nell'etere.
@@ -62,10 +68,7 @@ Ciononostante esiste qualcosa che la Regina Corvo desidera conoscere, ma la cui 
 \subsection{Nomi Shadar-Kai}
 I nomi degli Shadar-Kai sono generalmente ereditati dalla cultura del popolo di cui fanno parte, anche se il marchio della regina corvo, visibile sin dalla nascita fa sì che il tasso di abbandoni sia relativamente alto. Per coloro che sono cresciuti con genitori di altre razze o da soli, è normale che il nome derivi dalla cultura di questi ultimi o che sia scelto dall'individuo stesso.
 
-\begin{figure}[b!]
-  %\hspace*{}
-  \includegraphics[width=\columnwidth]{2-Razze/2.1-Shadar-Kai/Risorse/crowskull2.png}
-\end{figure}
+
 
 \subsection{Tratti Raziali degli Shadar-Kai}
 Gli Shadar-Kai hanno numerose abilità dipendenti dalla loro razza biologica e dal loro contatto con la regina.
@@ -101,8 +104,13 @@ Gli Shadar-Kai umani ereditano una certa flessibilità dalla loro razza biologic
 
 \textit{\textbf{Aumento Abilità.}} Distribuisci liberamente un totale di 2 punti tra le tue abilità.
 
-\textit{\textbf{Pieno di Risorse.}} Come gli umani sei abile nell'adattarti. Sei proficente in una Skill a tua scelta.
+\textit{\textbf{Pieno di Risorse.}} Come gli umani sei abile nell'adattarti. Sei Competente in una Skill ed un linguaggio a tua scelta.
 
+\begin{figure}[b!]
+  %\vspace*{5cm}
+  %\hspace*{-2.8cm}
+  \includegraphics[width=0.8\columnwidth]{2-Razze/2.1-Shadar-Kai/Risorse/skullrav.png}
+\end{figure}
 
 \subsubsection{Shadar-Kai Elfi}
 Il tuo sangue elfico ti dona alcune caratteristiche tipiche di quella razza.
@@ -115,11 +123,7 @@ Il tuo sangue elfico ti dona alcune caratteristiche tipiche di quella razza.
 
 \textit{\textbf{Trance.}} Gli elfi non necessitano il sonno, ma sono in grado di ottenere gli stessi benefici del riposo con la meditazione, in una pratica nota come Trance. Tuttavia il tocco della Regina macchia la tua mente, impedendoti un totale controllo su ciò che visualizzi e disturbando la tua meditazione. La presenza di ombre durante la trance ti rende necessarie 6h per ottenere i benefici di un Long Rest.
 
-\begin{figure}[b!]
-  \vspace*{5cm}
-  \hspace*{-2.8cm}
-  \includegraphics[width=14cm]{2-Razze/2.1-Shadar-Kai/Risorse/skullrav.png}
-\end{figure}
+
 
 
 \clearpage

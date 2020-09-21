@@ -1,13 +1,13 @@
 # Fdb version 3
-["pdflatex"] 1580317481 "OsterPubblico.tex" "OsterPubblico.pdf" "OsterPubblico" 1580317484
-  "OsterPubblico.aux" 1553968126 9 a94a2480d3289e625eea47cd1b285758 ""
-  "OsterPubblico.tex" 1580317479 19486 b9e456d60fa3934208de38e691f0b0bf ""
-  "c:/texlive/2018/texmf-dist/fonts/map/fontname/texfonts.map" 1552316121 3332 103109f5612ad95229751940c61aada0 ""
-  "c:/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm" 1552315025 1328 c834bbb027764024c09d3d2bf908b5f0 ""
-  "c:/texlive/2018/texmf-dist/web2c/texmf.cnf" 1552316931 35176 ce7fee66be1fb01dfc6b702a7dbfa0ea ""
-  "c:/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1552320166 3265573 655ac40406f2c37c0d9078d533adef20 ""
-  "c:/texlive/2018/texmf-var/web2c/pdftex/pdflatex.fmt" 1552320276 4223237 f764a707ca706cf356b2c1dcc58d7064 ""
-  "c:/texlive/2018/texmf.cnf" 1552320127 673 4ae7b2f49cee444c5343a45b5d0f169c ""
+["pdflatex"] 1599747215 "OsterPubblico.tex" "OsterPubblico.pdf" "OsterPubblico" 1599747218
+  "OsterPubblico.aux" 1553971726 9 a94a2480d3289e625eea47cd1b285758 ""
+  "OsterPubblico.tex" 1599747214 19490 daf0079c0062d9da76b9e311fafb2f4c ""
+  "c:/texlive/2018/texmf-dist/fonts/map/fontname/texfonts.map" 1552319721 3332 103109f5612ad95229751940c61aada0 ""
+  "c:/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm" 1552318625 1328 c834bbb027764024c09d3d2bf908b5f0 ""
+  "c:/texlive/2018/texmf-dist/web2c/texmf.cnf" 1552320531 35176 ce7fee66be1fb01dfc6b702a7dbfa0ea ""
+  "c:/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1552323766 3265573 655ac40406f2c37c0d9078d533adef20 ""
+  "c:/texlive/2018/texmf-var/web2c/pdftex/pdflatex.fmt" 1552323876 4223237 f764a707ca706cf356b2c1dcc58d7064 ""
+  "c:/texlive/2018/texmf.cnf" 1552323727 673 4ae7b2f49cee444c5343a45b5d0f169c ""
   (generated)
   "OsterPubblico.pdf"
   "OsterPubblico.log"
