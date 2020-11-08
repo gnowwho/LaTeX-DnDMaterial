@@ -16,11 +16,27 @@
 \begin{document}
 
 \section{Backbone: bozza}
-Si era a Lonna nel monastero
+Si era a Lonna nel monastero.
+Il capo delle guardie deve dare 70Gp a testa al party. Il figlio dei locandieri è andato ad aiutare nella soppressione degli orchi.
 
-\begin{paperbox}{'na roba}
-ROBBAH
-\end{paperbox}
+Tzuur è stato ucciso: si trattava di un paladino degli Orchi che li aveva unificati e giudati verso sud. Ora si parla già di smontare i campi e lasciare agli avventurieri mercenari e i gruppi di guardia locale il resto delle soppressioni.
+La popolazione locale, compreso il Barone di Lonna, Errol Tysel (che lo verrà a sapere solo tra un giorno o due) sono contrari al ritiro della guarnigione, ma il Marchese Grunbaum propende per il ritiro nella convinzione che gli orchi si ritireranno alla minima resistenza senza un leader.
+In ciò non si sbaglia, ma è comunque vero che il danno prodotto dalle scorribande incontrollate durante la ritirata degli orchi è difficile da ignorare.
+
+Il party dove sta? boh. Potrebbe venir raggiunto da un amico di famiglia dei proprietari del Guforso che li informano del fatto che Charlie sta partecipando alla campagna di soppressione e chiede loro di andare a prenderlo, per informarlo della morte dei genitori e riportarlo a casa.
+Che ha questo tizio da offrire? Dinero? Una Canzone Ska? Magari un anello molto prezioso che rivela il pericolo che ha ottenuto per passamano, o perchè era un avventuriero finchè non si è preso una freccia nel ginocchio.
+
+
+
+\begin{DndSidebar}{Charlie}
+Figlio di Teresa e Owen, i locandieri del Guforso, è un giovane onesto e impulsivo che ha deciso di partecipare come volontario nella soppressione degli orchi ad est. 
+\end{DndSidebar}
+
+\begin{DndSidebar}{Robert}
+    Il "tipo dell'amministrazione" si chiama Robert. Si tratta di un ometto di mezza età, praticamente calvo, acido e pragmatico. Non ha particolari obiettivi nella vita nè nel bene nè nel male, ma tiene alla propria tranquillità, che è disposto a difendere, con ogni mezzo, entro i limiti della legge.
+\end{DndSidebar}
+
+
 
 \clearpage
 
@@ -44,61 +60,62 @@ Il santuario attrae diversi pellegrini ma ospita circa una decina di monaci, ded
 
 A differenza del regno di Oster in questa zona il culto del dio della creazione non è l'unico e la sua chiesa è meno istituzionalizzata, occasionalmente istanziandosi in ordini non riconosciuti dalla chiesa di Andorbrig.
 
-\begin{monsterbox}{Ellie Bubblemud}
+\begin{DndMonster}{Ellie Bubblemud}
   \begin{hangingpar}
     \textit{Medium fey, legal evil}
   \end{hangingpar}
-  \dndline%
-  \basics[%
+ % \DndMonsterLine%
+  \DndMonsterBasics[%
   armorclass = 17,
-  hitpoints  = \dice{11d8 + 33},
+  hitpoints  = \DndDice{11d8 + 33},
   speed      = {30 ft.},
   ]
-  \dndline%
-  \stats[
-    STR = \stat{18},
-    DEX = \stat{12},
-    CON = \stat{16},
-    INT = \stat{13},
-    WIS = \stat{14},
-    CHA = \stat{14},
+ % \DndMonsterLine%
+  \DndMonsterAbilityScores[
+      str = 18, 
+      dex = 12,
+      con = 16,
+      int = 13,
+      wis = 14,
+      cha = 14,
   ]
-  \dndline%
-  \details[
+  %\DndMonsterLine%
+  \DndMonsterDetails[
     skills = {Arcana +3, Deception +4, Perception +4, Stealth +3},
     senses = {darkvision 60 ft., passive Perception 14},
     languages = {Common, Draconic, Sylvan},
     challenge = {3},
   ]
-  \dndline%
+  %\DndMonsterLine%
 
   % Traits
-  \begin{monsteraction}[Amphibious]
+  \begin{DndMonsterAction}{Amphibious}
     the hag can breath air and water
-  \end{monsteraction}
+  \end{DndMonsterAction}
 
-  \begin{monsteraction}[Innate Spellcasting]
+  \begin{DndMonsterAction}{Innate Spellcasting}
     the hag's innate spellcasting ability is Charisma (spell save DC 12). She can innately cast the following spells, requiring no material components:
+    \begin{DndMonsterSpells}
+        \DndMonsterSpellLevel{dancing lights, minor illusion, vicious mockery}
+    \end{DndMonsterSpells}
+  \end{DndMonsterAction}
 
-    At will: \textit{dancing lights, minor illusion, vicious mockery}
-  \end{monsteraction}
-
-  \begin{monsteraction}[Mimicry]
+  \begin{DndMonsterAction}{Mimicry}
     The hag can mimic animal sounds and humanoid voices. A creature that hears the sounds can tell they are imitations with a successful DC14 Wisdom(insight) check.
-  \end{monsteraction}
+  \end{DndMonsterAction}
 
-  \monstersection{Actions}
+  \DndMonsterSection{Actions}
 
-  \monstermelee[
+  \DndMonsterMelee[
     name=Claws,
     mod=+6,
     reach=5,
     targets=one target,
-    dmg=\dice{2d8+4},
-    dmgtype=slashing,
+    dmg=\DndDice{2d8+4},
+    dmg-type = Slashing,
   ]
 
-  \begin{monsteraction}[Illusory appearence]
+  \begin{DndMonsterAction}{Illusory appearence}
     The hag covers herself and anything she is
 wearing or carrying with a magical illusion that makes her look
 like another creature of her general size and humanoid shape.
@@ -110,146 +127,20 @@ skin, but someone touching her would feel her rough flesh.
 Otherwise, a creature must take an action to visually inspect
 the illusion and succeed on a DC 20 Intelligence (Investigation)
 check to discern that the hag is disguised.
-  \end{monsteraction}
+  \end{DndMonsterAction}
 
-  \begin{monsteraction}[Invisible passage]
+  \begin{DndMonsterAction}{Invisible passage}
     The hag magically turns invisible until she
     attacks or casts a spell, or until her concentration ends (as
     if concentrating on a spell). While invisible, she leaves no
     physical evidence of her passage, so she can be tracked only by
     magic. Any equipment she wears or carries is invisible with her.  
-  \end{monsteraction}
+  \end{DndMonsterAction}
 
-\end{monsterbox}
 
-\begin{comment}
-\begin{monsterbox}{Monaco sfigghy}
-  \begin{hangingpar}
-    \textit{Medium humanoid, neutral}
-  \end{hangingpar}
-  \dndline%
-  \basics[%
-  armorclass = 12 (natural),
-  hitpoints  = \dice{3d8 + 3},
-  speed      = {30 ft.},
-  ]
-  \dndline%
-  \stats[
-    STR = \stat{16}, % This stat command will autocomplete the modifier for you
-    DEX = \stat{8},
-    CON = \stat{16},
-    INT = \stat{7},
-    WIS = \stat{11},
-    CHA = \stat{8},
-  ]
-  \dndline%
-  \details[% If you want to use commas in these sections, enclose the description in braces.
-    savingthrows = {Con +5},
-    %skills = {Acrobatics +0, Animal Handling +0, Arcana +0, Athletics +0, Deception +0, History +0, Insight +0, Intimidation +0, Investigation +0, Medicine +0, Nature +0, Perception +0, Performance +0, Persuasion +0, Religion +0, Sleight of Hand +0, Stealth +0, Survival +0},
-    %damagevulnerabilities = {},
-    %damageresistances = {},
-    %damageimmunities = {},
-    %conditionimmunities = {},
-    %senses = {darkvision 60 ft., passive Perception 10},
-    languages = {Common, Deep speech},
-    challenge = {1/2},
-  ]
-  \dndline%
+\end{DndMonster}
 
-  % Traits
-  \monstersection{Actions}
-  \begin{monsteraction}[Screech from the Deep]
-    Once a day the sfigghy monk can emit a terrible screech uttering uncomprehensible words from the Deep.
-    Whoever hears this sound must make a DC14 Wisdom saving trow or be shaken by this sound and get disadvantage on the next saving throw, attack roll or skill roll.
-  \end{monsteraction}
 
-  %\monstermelee calls \monsterattack with the melee option
-  \monstermelee[
-    name=Claws,
-    mod=+5,
-    reach=5,
-    targets=one target,
-    dmg=\dice{1d4+5},
-    dmgtype=slashing,
-  ]
- 
-\end{monsterbox}
-
-\begin{monsterbox}{Monacapo}
-  \begin{hangingpar}
-    \textit{Medium aberration, neutral evil}
-  \end{hangingpar}
-  \dndline%
-  \basics[%
-  armorclass = 11 (natural) (13 with \emph{mage armor}),
-  hitpoints  = \dice{3d8 + 9},
-  speed      = {30 ft.},
-  ]
-  \dndline%
-  \stats[
-    STR = \stat{14}, % This stat command will autocomplete the modifier for you
-    DEX = \stat{11},
-    CON = \stat{16},
-    INT = \stat{10},
-    WIS = \stat{15},
-    CHA = \stat{14},
-  ]
-  \dndline%
-  \details[% If you want to use commas in these sections, enclose the description in braces.
-    %savingthrows = {Str +0, Dex +0, Con +0, Int +0, Wis +0, Cha +0},
-    %skills = {Acrobatics +0, Animal Handling +0, Arcana +0, Athletics +0, Deception +0, History +0, Insight +0, Intimidation +0, Investigation +0, Medicine +0, Nature +0, Perception +0, Performance +0, Persuasion +0, Religion +0, Sleight of Hand +0, Stealth +0, Survival +0},
-    %damagevulnerabilities = {},
-    %damageresistances = {},
-    %damageimmunities = {},
-    %conditionimmunities = {},
-    senses = {darkvision 60 ft., passive Perception 12},
-    languages = {Common, Deep Speech},
-    challenge = {2},
-  ]
-  \dndline%
-
-  \begin{monsteraction}[Telepathy]
-    The Monacapo can speak telepathically with each creature that knows at least a language in a 30ft radious
-  \end{monsteraction}
-
-  \begin{monsteraction}[Devil's sight]
-    The Monacapo can see in darkness, both magical and not magical, with a radious of 120ft.
-   \end{monsteraction}
-
-  % Traits
-  \monstersection{Actions}
-  \begin{monsteraction}[Pact weapon]
-    The Monacapo can summon a magical Longsword as an action, that takes the apearence of the holy relic.
-  \end{monsteraction}
-
-  \begin{monsteraction}[Edgy Armor]
-    The Monacapo can cast Mage Armor at will without consuming a spell slot and without the need for material components.
-  \end{monsteraction}
-
-  \begin{monsteraction}[Spellcasting]
-    The Monacapo knows the following spells and cantrips and has 2 slots of second level to cast them:
-    
-    \textit{cantrips}: Eldritch Blast, Frostbite
-    
-    \textit{level 1}: Armor of Agathis, Dissonant Whispers, Tasha's Hideous Laughter
-
-    Its spellcasting ability for it is Charisma (+4 to hit, DC=12)
-  \end{monsteraction}
-
-  %\monstermelee calls \monsterattack with the melee option
-  \monstermelee[
-    name=Summoned Longsword,
-    mod=+4,
-    reach=5,
-    targets=one target,
-    dmg=\dice{1d8+2},
-    dmgtype=slashing,
-    ordmg=\dice{1d10+2},
-    ordmgwhen=if used with two hands
-  ]
-
-\end{monsterbox}
-\end{comment}
 
 
 \end{document}
