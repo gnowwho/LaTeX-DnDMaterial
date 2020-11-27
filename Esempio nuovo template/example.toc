@@ -1,28 +1,28 @@
 \babel@toc {english}{}
 \babel@toc {english}{}
-\contentsline {part}{\numberline {1}Layout}{1}% 
-\contentsline {chapter}{\numberline {1}Sections}{2}% 
-\contentsline {section}{Section}{2}% 
-\contentsline {subsection}{Subsection}{2}% 
-\contentsline {subsubsection}{Subsubsection}{2}% 
-\contentsline {paragraph}{Paragraph}{2}% 
-\contentsline {subparagraph}{Subparagraph}{2}% 
-\contentsline {section}{Special Sections}{2}% 
-\contentsline {subsection}{Typesetting Savant}{2}% 
-\contentsline {subsubsection}{Foo's Quill}{2}% 
-\contentsline {subsubsection}{Beautiful Typesetting}{2}% 
-\contentsline {section}{Map Regions}{2}% 
-\contentsline {subsection}{1. Village of Hommlet}{2}% 
-\contentsline {subsubsection}{1a. Inn of the Welcome Wench}{2}% 
-\contentsline {subsubsection}{1b. Blacksmith's Forge}{2}% 
-\contentsline {subsection}{2. Foo's Castle}{2}% 
-\contentsline {subsubsection}{2a. Moat}{2}% 
-\contentsline {subsubsection}{2b. Entrance}{2}% 
-\contentsline {chapter}{\numberline {2}Text Boxes}{3}% 
-\contentsline {section}{As an Aside}{3}% 
-\contentsline {section}{Tables}{3}% 
-\contentsline {chapter}{\numberline {3}Monsters and NPCs}{4}% 
-\contentsline {part}{\numberline {2}Customization}{5}% 
-\contentsline {chapter}{\numberline {4}Colors}{6}% 
-\contentsline {section}{Themed Colors}{6}% 
+\contentsline {part}{\numberline {1}Layout}{1}{}%
+\contentsline {chapter}{\numberline {1}Sections}{2}{}%
+\contentsline {section}{Section}{2}{}%
+\contentsline {subsection}{Subsection}{2}{}%
+\contentsline {subsubsection}{Subsubsection}{2}{}%
+\contentsline {paragraph}{Paragraph}{2}{}%
+\contentsline {subparagraph}{Subparagraph}{2}{}%
+\contentsline {section}{Special Sections}{2}{}%
+\contentsline {subsection}{Typesetting Savant}{2}{}%
+\contentsline {subsubsection}{Foo's Quill}{2}{}%
+\contentsline {subsubsection}{Beautiful Typesetting}{2}{}%
+\contentsline {section}{Map Regions}{2}{}%
+\contentsline {subsection}{1. Village of Hommlet}{2}{}%
+\contentsline {subsubsection}{1a. Inn of the Welcome Wench}{2}{}%
+\contentsline {subsubsection}{1b. Blacksmith's Forge}{2}{}%
+\contentsline {subsection}{2. Foo's Castle}{2}{}%
+\contentsline {subsubsection}{2a. Moat}{2}{}%
+\contentsline {subsubsection}{2b. Entrance}{2}{}%
+\contentsline {chapter}{\numberline {2}Text Boxes}{3}{}%
+\contentsline {section}{As an Aside}{3}{}%
+\contentsline {section}{Tables}{3}{}%
+\contentsline {chapter}{\numberline {3}Monsters and NPCs}{4}{}%
+\contentsline {part}{\numberline {2}Customization}{5}{}%
+\contentsline {chapter}{\numberline {4}Colors}{6}{}%
+\contentsline {section}{Themed Colors}{6}{}%
 \contentsfinish 

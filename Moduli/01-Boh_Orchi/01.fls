@@ -1323,7 +1323,6 @@ INPUT C:\Program Files\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
 INPUT C:\Program Files\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
 INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\bookman\pbkl8t.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\bookman\pbklc8t.tfm
-INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\bookman\pbkd8t.tfm
 INPUT C:\Users\cus96\AppData\Roaming\MiKTeX\tex\latex\kpfonts\t1jkpss.fd
 INPUT C:\Users\cus96\AppData\Roaming\MiKTeX\tex\latex\kpfonts\t1jkpss.fd
 INPUT C:\Users\cus96\AppData\Roaming\MiKTeX\tex\latex\kpfonts\t1jkpss.fd
@@ -1337,6 +1336,9 @@ INPUT C:\Users\cus96\AppData\Roaming\MiKTeX\tex\latex\gillius\t1gilliusadfnotwo-
 INPUT C:\Users\cus96\AppData\Roaming\MiKTeX\tex\latex\gillius\t1gilliusadfnotwo-lf.fd
 INPUT C:\Users\cus96\AppData\Roaming\MiKTeX\fonts\tfm\arkandis\gillius\GilliusADFNo2-Regular-lf-t1.tfm
 INPUT C:\Users\cus96\AppData\Roaming\MiKTeX\fonts\tfm\arkandis\gillius\GilliusADFNo2-Regular-lf-t1.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\bookman\pbkl8t.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\bookman\pbklc8t.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\bookman\pbkd8t.tfm
 INPUT C:\ProgramData\TEXMF\tex\latex\dnd\img\paper.jpg
 INPUT C:\ProgramData\TEXMF\tex\latex\dnd\img\paper.jpg
 INPUT C:\ProgramData\TEXMF\tex\latex\dnd\img\paper.jpg
@@ -1360,18 +1362,33 @@ INPUT C:\Program Files\MiKTeX\fonts\vf\adobe\bookman\pbklc8t.vf
 INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\bookman\pbkl8r.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\bookman\pbkl8r.tfm
 INPUT C:\Users\cus96\AppData\Local\MiKTeX\pdftex\config\pdftex.map
+INPUT C:\Program Files\MiKTeX\fonts\vf\adobe\bookman\pbklc8t.vf
+INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\bookman\pbkl8r.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\bookman\pbkl8r.tfm
 INPUT C:\Program Files\MiKTeX\fonts\vf\adobe\bookman\pbkl8t.vf
 INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\bookman\pbkl8r.tfm
 INPUT C:\Program Files\MiKTeX\fonts\vf\adobe\bookman\pbkd8t.vf
 INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\bookman\pbkd8r.tfm
-INPUT C:\Users\cus96\AppData\Roaming\MiKTeX\fonts\vf\public\kpfonts\jkpssbsc8t.vf
-INPUT C:\Users\cus96\AppData\Roaming\MiKTeX\fonts\tfm\public\kpfonts\jkpssbsc8r.tfm
-INPUT C:\Users\cus96\AppData\Roaming\MiKTeX\fonts\tfm\public\kpfonts\jkpssbsce.tfm
 INPUT C:\Users\cus96\AppData\Roaming\MiKTeX\fonts\vf\arkandis\gillius\GilliusADFNo2-Regular-lf-t1.vf
 INPUT C:\Users\cus96\AppData\Roaming\MiKTeX\fonts\tfm\arkandis\gillius\GilliusADFNo2-Regular-lf-t1--base.tfm
 INPUT C:\Users\cus96\AppData\Roaming\MiKTeX\fonts\tfm\arkandis\gillius\GilliusADFNo2-Regular-lf-t1--lcdfj.tfm
+INPUT C:\Users\cus96\AppData\Roaming\MiKTeX\fonts\vf\public\kpfonts\jkpssbsc8t.vf
+INPUT C:\Users\cus96\AppData\Roaming\MiKTeX\fonts\tfm\public\kpfonts\jkpssbsc8r.tfm
+INPUT C:\Users\cus96\AppData\Roaming\MiKTeX\fonts\tfm\public\kpfonts\jkpssbsce.tfm
 INPUT C:\Program Files\MiKTeX\fonts\vf\adobe\bookman\pbkl8t.vf
 INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\bookman\pbkl8r.tfm
+INPUT C:\ProgramData\TEXMF\tex\latex\dnd\img\paper.jpg
+INPUT C:\ProgramData\TEXMF\tex\latex\dnd\img\paper.jpg
+INPUT C:\ProgramData\TEXMF\tex\latex\dnd\img\paper.jpg
+INPUT C:\ProgramData\TEXMF\tex\latex\dnd\img\paper.jpg
+INPUT C:\ProgramData\TEXMF\tex\latex\dnd\img\paper.jpg
+INPUT C:\ProgramData\TEXMF\tex\latex\dnd\img\paper.jpg
+INPUT C:\ProgramData\TEXMF\tex\latex\dnd\img\paper.jpg
+INPUT C:\ProgramData\TEXMF\tex\latex\dnd\img\paper.jpg
+INPUT C:\ProgramData\TEXMF\tex\latex\dnd\img\paper.jpg
+INPUT C:\ProgramData\TEXMF\tex\latex\dnd\img\footerscroll.pdf
+INPUT C:\ProgramData\TEXMF\tex\latex\dnd\img\footerscroll.pdf
+INPUT C:\ProgramData\TEXMF\tex\latex\dnd\img\footerscroll.pdf
 INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\bookman\pbkl8t.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\bookman\pbklc8t.tfm
 INPUT C:\Users\cus96\AppData\Roaming\MiKTeX\fonts\tfm\arkandis\gillius\GilliusADFNo2-Bold-lf-t1.tfm

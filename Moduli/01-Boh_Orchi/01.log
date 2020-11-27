@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.11) (preloaded format=pdflatex 2020.11.7)  11 NOV 2020 15:33
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.11) (preloaded format=pdflatex 2020.11.7)  17 NOV 2020 23:11
 entering extended mode
 **c:/Github/LaTeX-DnDMaterial/Moduli/01-Boh_Orchi/01.tex
 (c:/Github/LaTeX-DnDMaterial/Moduli/01-Boh_Orchi/01.tex
@@ -959,9 +959,7 @@ LaTeX Font Info:    Font shape `T1/pbk/m/n' in size <20.74> not available
 (Font)              Font shape `T1/pbk/l/n' tried instead on input line 19.
 LaTeX Font Info:    Font shape `T1/pbk/m/sc' in size <20.74> not available
 (Font)              Font shape `T1/pbk/l/sc' tried instead on input line 19.
-LaTeX Font Info:    Font shape `T1/pbk/b/n' in size <10> not available
-(Font)              Font shape `T1/pbk/db/n' tried instead on input line 20.
-LaTeX Font Info:    Trying to load font information for T1+jkpss on input line 33.
+LaTeX Font Info:    Trying to load font information for T1+jkpss on input line 21.
  (C:\Users\cus96\AppData\Roaming\MiKTeX\tex/latex/kpfonts\t1jkpss.fd
 File: t1jkpss.fd 2007/07/16 Fontinst v1.928 font definitions for T1/jkpss.
 )
@@ -972,108 +970,135 @@ Package microtype Info: Loading generic protrusion settings for font family
 Package microtype Info: Character `029' is missing
 (microtype)             in font `T1/jkpss/b/sc/10'.
 (microtype)             Ignoring protrusion settings for this character.
-LaTeX Font Info:    Trying to load font information for T1+GilliusADFNoTwo-LF on input line 33.
+LaTeX Font Info:    Trying to load font information for T1+GilliusADFNoTwo-LF on input line 21.
  (C:\Users\cus96\AppData\Roaming\MiKTeX\tex/latex/gillius\t1gilliusadfnotwo-lf.fd
 File: T1GilliusADFNoTwo-LF.fd 2013/11/03 (autoinst) Font definitions for T1/GilliusADFNoTwo-LF.
 )
 LaTeX Font Info:    Font shape `T1/GilliusADFNoTwo-LF/m/n' will be
-(Font)              scaled to size 10.0pt on input line 33.
+(Font)              scaled to size 10.0pt on input line 21.
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `GilliusADFNoTwo-LF' (encoding: T1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 LaTeX Font Info:    Font shape `T1/GilliusADFNoTwo-LF/m/n' will be
-(Font)              scaled to size 9.0pt on input line 33.
+(Font)              scaled to size 9.0pt on input line 21.
+LaTeX Font Info:    Font shape `T1/pbk/m/n' in size <12> not available
+(Font)              Font shape `T1/pbk/l/n' tried instead on input line 25.
+LaTeX Font Info:    Font shape `T1/pbk/m/sc' in size <12> not available
+(Font)              Font shape `T1/pbk/l/sc' tried instead on input line 25.
+LaTeX Font Info:    Font shape `T1/pbk/b/n' in size <10> not available
+(Font)              Font shape `T1/pbk/db/n' tried instead on input line 26.
+Missing character: There is no ; in font nullfont!
 <img/paper.jpg, id=4, 614.295pt x 794.97pt>
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 53.
+Package pdftex.def Info: img/paper.jpg  used on input line 65.
 (pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 53.
+Package pdftex.def Info: img/paper.jpg  used on input line 65.
 (pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 53.
+Package pdftex.def Info: img/paper.jpg  used on input line 65.
 (pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
 LaTeX Font Info:    Font shape `T1/pbk/m/n' in size <7> not available
-(Font)              Font shape `T1/pbk/l/n' tried instead on input line 53.
+(Font)              Font shape `T1/pbk/l/n' tried instead on input line 65.
 <img/footerscroll.pdf, id=5, 596.2275pt x 42.15584pt>
 File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
-Package pdftex.def Info: img/footerscroll.pdf  used on input line 53.
+Package pdftex.def Info: img/footerscroll.pdf  used on input line 65.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
  [1
 
 {C:/Users/cus96/AppData/Local/MiKTeX/pdftex/config/pdftex.map} <C:/ProgramData/TEXMF/tex/latex/dnd/img/paper.jpg> <C:/ProgramData/TEXMF/tex/latex/dnd/img/footerscroll.pdf>]
+Missing character: There is no ; in font nullfont!
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 90.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 90.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 90.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/footerscroll.pdf Graphic file (type pdf)
+<use img/footerscroll.pdf>
+Package pdftex.def Info: img/footerscroll.pdf  used on input line 90.
+(pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
+ [2
+
+]
 LaTeX Font Info:    Font shape `T1/pbk/m/n' in size <14.4> not available
-(Font)              Font shape `T1/pbk/l/n' tried instead on input line 57.
+(Font)              Font shape `T1/pbk/l/n' tried instead on input line 94.
 LaTeX Font Info:    Font shape `T1/pbk/m/sc' in size <14.4> not available
-(Font)              Font shape `T1/pbk/l/sc' tried instead on input line 57.
+(Font)              Font shape `T1/pbk/l/sc' tried instead on input line 94.
 LaTeX Font Info:    Font shape `T1/GilliusADFNoTwo-LF/b/n' will be
-(Font)              scaled to size 9.0pt on input line 73.
+(Font)              scaled to size 9.0pt on input line 110.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 80.
+Package pdftex.def Info: img/paper.jpg  used on input line 117.
 (pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 80.
+Package pdftex.def Info: img/paper.jpg  used on input line 117.
 (pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 80.
+Package pdftex.def Info: img/paper.jpg  used on input line 117.
 (pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
 File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
-Package pdftex.def Info: img/footerscroll.pdf  used on input line 80.
+Package pdftex.def Info: img/footerscroll.pdf  used on input line 117.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
- [2
+ [3
 
 ]
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 86.
+Package pdftex.def Info: img/paper.jpg  used on input line 123.
 (pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 86.
+Package pdftex.def Info: img/paper.jpg  used on input line 123.
 (pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 86.
+Package pdftex.def Info: img/paper.jpg  used on input line 123.
 (pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
 File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
-Package pdftex.def Info: img/footerscroll.pdf  used on input line 86.
+Package pdftex.def Info: img/footerscroll.pdf  used on input line 123.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
- [3
+ [4
 
 
 ]
 LaTeX Font Info:    Font shape `T1/pbk/b/sc' in size <10> not available
-(Font)              Font shape `T1/pbk/db/sc' tried instead on input line 103.
+(Font)              Font shape `T1/pbk/db/sc' tried instead on input line 140.
 LaTeX Font Info:    Font shape `T1/pbk/b/sc' in size <17.28> not available
-(Font)              Font shape `T1/pbk/db/sc' tried instead on input line 103.
+(Font)              Font shape `T1/pbk/db/sc' tried instead on input line 140.
 LaTeX Font Info:    Font shape `T1/GilliusADFNoTwo-LF/m/it' will be
-(Font)              scaled to size 9.0pt on input line 105.
+(Font)              scaled to size 9.0pt on input line 142.
 LaTeX Font Info:    Font shape `T1/pbk/m/n' in size <9> not available
-(Font)              Font shape `T1/pbk/l/n' tried instead on input line 112.
+(Font)              Font shape `T1/pbk/l/n' tried instead on input line 149.
 LaTeX Font Info:    Font shape `T1/pbk/b/n' in size <9> not available
-(Font)              Font shape `T1/pbk/db/n' tried instead on input line 112.
+(Font)              Font shape `T1/pbk/db/n' tried instead on input line 149.
  (C:\Users\cus96\AppData\Roaming\MiKTeX\tex/latex/microtype\mt-cmr.cfg) (C:\Users\cus96\AppData\Roaming\MiKTeX\tex/latex/psnfss\ts1pbk.fd)
 LaTeX Font Info:    Font shape `T1/GilliusADFNoTwo-LF/m/sl' in size <9> not available
-(Font)              Font shape `T1/GilliusADFNoTwo-LF/m/it' tried instead on input line 132.
+(Font)              Font shape `T1/GilliusADFNoTwo-LF/m/it' tried instead on input line 169.
 LaTeX Font Info:    Font shape `T1/GilliusADFNoTwo-LF/m/it' will be
-(Font)              scaled to size 9.0pt on input line 132.
+(Font)              scaled to size 9.0pt on input line 169.
 LaTeX Font Info:    Font shape `T1/GilliusADFNoTwo-LF/b/sl' in size <9> not available
-(Font)              Font shape `T1/GilliusADFNoTwo-LF/b/it' tried instead on input line 132.
+(Font)              Font shape `T1/GilliusADFNoTwo-LF/b/it' tried instead on input line 169.
 LaTeX Font Info:    Font shape `T1/GilliusADFNoTwo-LF/b/it' will be
-(Font)              scaled to size 9.0pt on input line 132.
+(Font)              scaled to size 9.0pt on input line 169.
 Package microtype Info: Character `029' is missing
 (microtype)             in font `T1/jkpss/m/sc/9'.
 (microtype)             Ignoring protrusion settings for this character.
@@ -1087,35 +1112,35 @@ Right:544.14304pt/0.0pt
 Output:704.24863pt
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 238.
+Package pdftex.def Info: img/paper.jpg  used on input line 275.
 (pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 238.
+Package pdftex.def Info: img/paper.jpg  used on input line 275.
 (pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 238.
+Package pdftex.def Info: img/paper.jpg  used on input line 275.
 (pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
 File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
-Package pdftex.def Info: img/footerscroll.pdf  used on input line 238.
+Package pdftex.def Info: img/footerscroll.pdf  used on input line 275.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
- [4
+ [5
 
 ] (c:/Github\LaTeX-DnDMaterial\Moduli\01-Boh_Orchi\01.aux) ) 
 Here is how much of TeX's memory you used:
- 25978 strings out of 479799
- 514436 string characters out of 2879559
+ 25999 strings out of 479799
+ 514837 string characters out of 2879559
  1214895 words of memory out of 3000000
- 42247 multiletter control sequences out of 15000+200000
- 599189 words of font info for 128 fonts, out of 3000000 for 9000
+ 42269 multiletter control sequences out of 15000+200000
+ 602490 words of font info for 130 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 125i,17n,126p,538b,1112s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 125i,17n,126p,538b,1263s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/MiKTeX/fonts/enc/dvips/base/8r.enc}{C:/Users/cus96/AppData/Roaming/MiKTeX/fonts/enc/dvips/gillius/gls_4bsedw.enc}<C:/Users/cus96/AppData/Roaming/MiKTeX/fonts/type1/arkandis/gillius/GilliusADFNo2-Bold.pfb><C:/Users/cus96/AppData/Roaming/MiKTeX/fonts/type1/arkandis/gillius/GilliusADFNo2-BoldItalic.pfb><C:/Users/cus96/AppData/Roaming/MiKTeX/fonts/type1/arkandis/gillius/GilliusADFNo2-Italic.pfb><C:/Users/cus96/AppData/Roaming/MiKTeX/fonts/type1/arkandis/gillius/GilliusADFNo2-Regular.pfb><C:/Users/cus96/AppData/Roaming/MiKTeX/fonts/type1/public/kpfonts/jkpssbsc8a.pfb><C:/Users/cus96/AppData/Roaming/MiKTeX/fonts/type1/public/kpfonts/jkpssmsc8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/bookman/ubkd8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/bookman/ubkl8a.pfb>
-Output written on c:/Github\LaTeX-DnDMaterial\Moduli\01-Boh_Orchi\01.pdf (4 pages, 1726932 bytes).
+Output written on c:/Github\LaTeX-DnDMaterial\Moduli\01-Boh_Orchi\01.pdf (5 pages, 1734491 bytes).
 PDF statistics:
- 56 PDF objects out of 1000 (max. 8388607)
+ 59 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 28183 words of extra memory for PDF output out of 29859 (max. 10000000)
+ 29207 words of extra memory for PDF output out of 29859 (max. 10000000)
 
