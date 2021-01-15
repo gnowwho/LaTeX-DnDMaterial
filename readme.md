@@ -11,3 +11,7 @@ Chiunque può modificare, copiare e attingere al contenuto della repository purc
 # Contenuto
 
 Il contenuto della repository è estremamente disorganizzato e ha delle interruzioni anche brusche. Questo è dovuto al fatto che il progetto non è sempre stato fatto su una piattaforma unificata (e occasionalmente continua ad essere fatto su piattaforme di vario tipo), e non sempre mi curo di riorganizzare il materiale e farne proofreading. Anzi, può succedere che il materiale venga aggiunto alla repository con un semplice copia-incolla e resti non formattato per mesi prima che io abbia necessità o voglia di rimaneggiarlo per renderlo leggibile. Avventuratevici a vostro rischio e pericolo.
+
+## nota importante
+
+Non aprite la cartella "moduli" se non volete spoilerarvi roba in caso io sia il vostro master
