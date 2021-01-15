@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.11) (preloaded format=pdflatex 2020.11.7)  15 JAN 2021 17:51
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.11) (preloaded format=pdflatex 2020.11.7)  15 JAN 2021 21:04
 entering extended mode
 **c:/Github/LaTeX-DnDMaterial/Homebrew/Homebrew.tex
 (c:/Github/LaTeX-DnDMaterial/Homebrew/Homebrew.tex
@@ -1303,7 +1303,26 @@ File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
 Package pdftex.def Info: img/footerscroll.pdf  used on input line 91.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
- [10 <c:/Github/LaTeX-DnDMaterial/Homebrew/2-Razze/2.2-FeyCorgi/Risorse/Fey_Corgi3.png>]) (c:/Github\LaTeX-DnDMaterial\Homebrew\2-Razze/2.3-Nani/nani)
+ [10 <c:/Github/LaTeX-DnDMaterial/Homebrew/2-Razze/2.2-FeyCorgi/Risorse/Fey_Corgi3.png>]) (c:/Github\LaTeX-DnDMaterial\Homebrew\2-Razze/2.3-Nani/nani
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 56.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 56.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 56.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/footerscroll.pdf Graphic file (type pdf)
+<use img/footerscroll.pdf>
+Package pdftex.def Info: img/footerscroll.pdf  used on input line 56.
+(pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
+ [11
+
+])
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
 Package pdftex.def Info: img/paper.jpg  used on input line 40.
@@ -1320,7 +1339,7 @@ File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
 Package pdftex.def Info: img/footerscroll.pdf  used on input line 40.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
- [11
+ [12
 
 ]
 Capitolo 3.
@@ -1335,7 +1354,7 @@ Package microtype Info: Character `029' is missing
 (microtype)             in font `T1/jkpss/b/sc/12'.
 (microtype)             Ignoring protrusion settings for this character.
  (C:\Users\cus96\AppData\Roaming\MiKTeX\tex/latex/microtype\mt-cmr.cfg) (C:\Users\cus96\AppData\Roaming\MiKTeX\tex/latex/psnfss\ts1pbk.fd)
-<3-Classi/RisorseShoei/Shoei_Male.png, id=104, 512.91624pt x 770.88pt>
+<3-Classi/RisorseShoei/Shoei_Male.png, id=108, 512.91624pt x 770.88pt>
 File: 3-Classi/RisorseShoei/Shoei_Male.png Graphic file (type png)
 <use 3-Classi/RisorseShoei/Shoei_Male.png>
 Package pdftex.def Info: 3-Classi/RisorseShoei/Shoei_Male.png  used on input line 25.
@@ -1360,10 +1379,10 @@ File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
 Package pdftex.def Info: img/footerscroll.pdf  used on input line 55.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
- [12
+ [13
 
  <c:/Github/LaTeX-DnDMaterial/Homebrew/3-Classi/RisorseShoei/Shoei_Male.png>]
-<3-Classi/RisorseShoei/Shoei1.png, id=119, 876.0pt x 492.75pt>
+<3-Classi/RisorseShoei/Shoei1.png, id=124, 876.0pt x 492.75pt>
 File: 3-Classi/RisorseShoei/Shoei1.png Graphic file (type png)
 <use 3-Classi/RisorseShoei/Shoei1.png>
 Package pdftex.def Info: 3-Classi/RisorseShoei/Shoei1.png  used on input line 81.
@@ -1389,7 +1408,7 @@ File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
 Package pdftex.def Info: img/footerscroll.pdf  used on input line 84.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
- [13 <c:/Github/LaTeX-DnDMaterial/Homebrew/3-Classi/RisorseShoei/Shoei1.png>]) (c:/Github\LaTeX-DnDMaterial\Homebrew\3-classi/WarlockCO
+ [14 <c:/Github/LaTeX-DnDMaterial/Homebrew/3-Classi/RisorseShoei/Shoei1.png>]) (c:/Github\LaTeX-DnDMaterial\Homebrew\3-classi/WarlockCO
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
 Package pdftex.def Info: img/paper.jpg  used on input line 60.
@@ -1406,7 +1425,7 @@ File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
 Package pdftex.def Info: img/footerscroll.pdf  used on input line 60.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
- [14
+ [15
 
 ]
 File: img/paper.jpg Graphic file (type jpg)
@@ -1425,7 +1444,7 @@ File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
 Package pdftex.def Info: img/footerscroll.pdf  used on input line 92.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
- [15])
+ [16])
 Capitolo 4.
 contour: Using 32 copies for `Capitolo\ 4:' on input line 46.
 contour: Using 32 copies for `Capitolo' on input line 46.
@@ -1457,7 +1476,7 @@ File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
 Package pdftex.def Info: img/footerscroll.pdf  used on input line 30.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
- [16
+ [17
 
 
 ]
@@ -1477,7 +1496,7 @@ File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
 Package pdftex.def Info: img/footerscroll.pdf  used on input line 58.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
- [17]
+ [18]
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
 Package pdftex.def Info: img/paper.jpg  used on input line 94.
@@ -1494,7 +1513,7 @@ File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
 Package pdftex.def Info: img/footerscroll.pdf  used on input line 94.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
- [18]
+ [19]
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
 Package pdftex.def Info: img/paper.jpg  used on input line 116.
@@ -1511,7 +1530,7 @@ File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
 Package pdftex.def Info: img/footerscroll.pdf  used on input line 116.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
- [19]) (c:/Github\LaTeX-DnDMaterial\Homebrew\4-Territori/Oster/Chiesa)
+ [20]) (c:/Github\LaTeX-DnDMaterial\Homebrew\4-Territori/Oster/Chiesa)
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
 Package pdftex.def Info: img/paper.jpg  used on input line 9.
@@ -1528,26 +1547,45 @@ File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
 Package pdftex.def Info: img/footerscroll.pdf  used on input line 9.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
- [20
+ [21
 
-]) (c:/Github\LaTeX-DnDMaterial\Homebrew\4-Territori/Location_merger (c:/Github\LaTeX-DnDMaterial\Homebrew\4-Territori/Tolera)
+]) (c:/Github\LaTeX-DnDMaterial\Homebrew\4-Territori/Location_merger (c:/Github\LaTeX-DnDMaterial\Homebrew\4-Territori/Tolera) (c:/Github\LaTeX-DnDMaterial\Homebrew\4-Territori/Lonna
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 8.
+Package pdftex.def Info: img/paper.jpg  used on input line 9.
 (pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 8.
+Package pdftex.def Info: img/paper.jpg  used on input line 9.
 (pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 8.
+Package pdftex.def Info: img/paper.jpg  used on input line 9.
 (pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
 File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
-Package pdftex.def Info: img/footerscroll.pdf  used on input line 8.
+Package pdftex.def Info: img/footerscroll.pdf  used on input line 9.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
- [21
+ [22
+
+])
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 10.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 10.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 10.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/footerscroll.pdf Graphic file (type pdf)
+<use img/footerscroll.pdf>
+Package pdftex.def Info: img/footerscroll.pdf  used on input line 10.
+(pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
+ [23
 
 ])
 Capitolo 5.
@@ -1572,7 +1610,7 @@ File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
 Package pdftex.def Info: img/footerscroll.pdf  used on input line 53.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
- [22
+ [24
 
 
 
@@ -1604,22 +1642,22 @@ File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
 Package pdftex.def Info: img/footerscroll.pdf  used on input line 57.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
- [23
+ [25
 
 
 ] (c:/Github\LaTeX-DnDMaterial\Homebrew\Homebrew.aux) ) 
 Here is how much of TeX's memory you used:
- 29026 strings out of 479799
- 568257 string characters out of 2879559
+ 29056 strings out of 479799
+ 568875 string characters out of 2879559
  1249608 words of memory out of 3000000
- 45074 multiletter control sequences out of 15000+200000
+ 45099 multiletter control sequences out of 15000+200000
  596682 words of font info for 135 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  125i,18n,126p,1801b,1130s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/MiKTeX/fonts/enc/dvips/base/8r.enc}{C:/Users/cus96/AppData/Roaming/MiKTeX/fonts/enc/dvips/gillius/gls_4bsedw.enc}<C:/Users/cus96/AppData/Roaming/MiKTeX/fonts/type1/arkandis/gillius/GilliusADFNo2-Bold.pfb><C:/Users/cus96/AppData/Roaming/MiKTeX/fonts/type1/arkandis/gillius/GilliusADFNo2-Italic.pfb><C:/Users/cus96/AppData/Roaming/MiKTeX/fonts/type1/arkandis/gillius/GilliusADFNo2-Regular.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/cus96/AppData/Roaming/MiKTeX/fonts/type1/public/kpfonts/jkpssbsc8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/bookman/ubkd8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/bookman/ubkd8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/bookman/ubkdi8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/bookman/ubkl8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/bookman/ubkli8a.pfb>
-Output written on c:/Github\LaTeX-DnDMaterial\Homebrew\Homebrew.pdf (23 pages, 11614245 bytes).
+Output written on c:/Github\LaTeX-DnDMaterial\Homebrew\Homebrew.pdf (25 pages, 11620426 bytes).
 PDF statistics:
- 343 PDF objects out of 1000 (max. 8388607)
- 104 named destinations out of 1000 (max. 500000)
+ 352 PDF objects out of 1000 (max. 8388607)
+ 106 named destinations out of 1000 (max. 500000)
  22249 words of extra memory for PDF output out of 24883 (max. 10000000)
 
