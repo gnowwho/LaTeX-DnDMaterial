@@ -1,0 +1,45 @@
+%\documentclass[10pt,twoside,twocolumn,openany]{dndbook}
+
+%\usepackage[english, italian]{babel}
+%\usepackage[utf8]{inputenc}
+%\usepackage{lipsum}
+%\usepackage{listings}
+
+%\lstset{%
+%  basicstyle=\ttfamily,
+%  language=[LaTeX]{TeX},
+%}
+
+
+%\begin{document}
+\section{Lefirith}
+
+\begin{paperbox}[float=!b]{Circoli Druidici a Oster}
+  I druidi della penisola di Rhuba appartengono a due principali circoli druidici: il primo, esteso soprattutto nella porzione più meridionale è costituito da Elfi silvani, generalmente alla guida di piccole comunità della stessa razza; ed il secondo distribuito nel meridione ma anche oltre la penisola, più a sud, costituito principalmente da umani ed Elfi.
+\end{paperbox}
+
+\subsection{Un'orfana nella foresta}
+Lefirith venne trovata dal proprio padre adottivo in un boschetto votivo tra le colline del Deredon. Venne cresciuta ed educata alle arti druidiche, in relativo isolamento dal resto della comunità, se non per alcuni contatti con gli agricoltori della zona.
+
+Nè lei nè il padre adottivo conoscono il passato di Lefirith, nè la ragione del suo abbandono, ma il fatto che sia stata lasciata alle pendici dell'albero padre, coperta da due suoi ramoscelli caduti incrociati, mostra l'intenzione esplicita di consegnarla al circolo.
+
+\subsection{La guerra e la perdita}
+Durante la Guerra di Annessione Deredorniana l'esercito osteriano impiegò ampiamente i cavalieri della chiesa. Questo portò indirettamente a diversi episodi di devastazione delle sedi di culti ritenuti non ortodossi dalla chiesa, tra cui i boschi sacri dei druidi. Nonostante cose simili non fossero contemplate per la legge del Regno, la guerra fornì l'occasione perfetta, per i chierici più zelanti, di portare la grazia divina a Deredon.
+
+Tra i diversi episodi di violenza contro i civili che si verificarono a causa di ciò, vi fu la devastazione del bosco in cui Lefirith aveva passato la sua giovinezza ed era cresciuta. Nell'Aprile del 964 un manipolo di Cavalieri del Leone, guidati da un Chierico della Pace circondarono il bosco e lo diedero alle fiamme.
+
+Il giorno in cui i cavalieri entrarono nella foresta, il padre adottivo di Lefirith, conoscendo i potenziali rischi, la convinse ad allontanarsi, facendo leva sul suo senso del dovere, istruendola su come allontanare molti animali dal bosco prima del loro arrivo e di cosa fare in caso l'intento della chiesa fosse il peggiore presagibile: viaggiare nel nord e mettere in guardia il circolo locale nei confronti di possibili persecuzioni da parte della chiesa.
+
+Con grande dolore ma lealtà nei confronti del padre, Lefirith osservò da lontano il bosco che aveva chiamato casa bruciare, accanto a molti degli animali che lo abitavano, e che aveva evaquato.
+Dopo aver seppellito il padre sotto a terra e cenere, Lefirith partì verso nord, decisa ad esaudire le ultime richieste del padre.
+
+Tale richiesta impegnerà Lefirith per molto tempo, in parte a causa dell'isolamento dei druidi del nord, i quali molto raramente comunicavano tra loro, ed in parte per la refrattarietà all'azione di molti membri, i quali, pur riconoscendo la possibilità di un pericolo lo ritenevano oltre le proprie preoccupazioni.
+
+Infine le persecuzioni iniziarono, e Lefirith continuò la propria opera, al fine di far allontanare molti dei druidi, o almeno di fare in modo che preparassero difese opportune, molto spesso senza successo.
+Durante questo periodo ed il precedente, la mezz'elfa si presentò come veterinaria itinerante, guadagnandosi così qualcosa di cui vivere e la simpatia di molti abitanti dei villaggi in cui sostava. Fu sotto queste vesti che incontrò l'esule Bileygr, che si presentava come un anonimo viandante.
+
+Nel momento in cui si incontrarono, infatti, quest'ultimo aveva una ferita che stentava a guarire, e che, nonostante le cure che vi aveva prestato, aveva iniziato ad infettarsi. Lefirith si offrì di curarlo, mossa da semplice altruismo. Fu in gran parte per questo che i due entrarono presto in buoni rapporti ed iniziarono a viaggiare insieme.
+
+Fu durante questi viaggi che i due incontrarono Olorin, e in parte per il crescente senso di futilità per la propria missione di Lefirith, in parte per il desiderio di ritrovare un importante pendaglio che aveva perduto di Bileygr, a cui il mezz'elfo poteva essere collegato, che decisero, almeno temporaneamente di seguirlo.
+
+%\end{document}
