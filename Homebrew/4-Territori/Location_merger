@@ -1,10 +1,15 @@
-
-\section{Luoghi di Interesse}
-
 Questa sezione raccoglie una descrizione più o meno approfondita di diversi lughi specifici del mondo di gioco, come grandi città, foreste o luoghi in altro modo caratteristici.
+
+\input{4-Territori/Oster/Oster_merger}
 
 \input{4-Territori/Tolera}
 
+\input{4-Territori/Ratha/Ratha_main}
+
+\section{Territori minori}
+Sono qui raccolte descrizioni di territori meno estesi o meno importanti, approfonditi per qualunque motivo
+
 \input{4-Territori/Lonna}
+
 
 \clearpage
