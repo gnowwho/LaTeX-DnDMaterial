@@ -1,0 +1,424 @@
+\subsection{Maestro di Kinsect}
+Nelle profondità di Quaine alcuni guerrieri elfici hanno sviluppato tecniche di combattimento utili a muoversi tra i fitti e
+alti alberi del Mare Verde e colpire i propri nemici grazie ad una perfetta comunione con degli insetti psionici detti Kinsect.
+
+\subsubsection{Kinsects}
+Questi insetti psionici sono dei simbionti con molte delle forme di vita della foresta, dimostrandosi ottimi compagni di caccia
+e nutrendosi delle carcasse predate grazie all'aiuto di animali ben più grossi di loro. Esistono diverse tipologie di Kinsects
+ed uno stesso kinsect può cambiare nel corso della vita in base all'età, la nutrizione, ma, sorprendentemente, anche al compagno
+a cui si lega.
+
+\begin{DndMonster}{Kinsect Minore} %-----------------------------------------------------------
+    \begin{hangingpar}
+      \textit{Small Beast, Neutral}
+    \end{hangingpar}
+   % \DndMonsterLine%
+    \DndMonsterBasics[%
+    armorclass = 13,
+    hitpoints  = \DndDice{1d4-1},
+    speed      = {5 ft., fly 60 ft.},
+    ]
+   % \DndMonsterLine%
+    \DndMonsterAbilityScores[
+        str = 3, 
+        dex = 16,
+        con = 8,
+        int = 12,
+        wis = 8,
+        cha = 3,
+    ]
+    %\DndMonsterLine%
+    \DndMonsterDetails[
+      skills = {Animal Handling +1},
+      senses = {passive Perception 9},
+      challenge = {0},
+    ]
+    %\DndMonsterLine%
+  
+    % Traits
+
+    \begin{DndMonsterAction}{Magnetosensibilità}
+        Il kinsect percepisce gli esseri viventi come se avesse Blindsight 30ft.
+      \end{DndMonsterAction}
+
+    \begin{DndMonsterAction}{Flyby}
+      Il kinsect non causa attacchi di opportunità quando vola al di fuori dell'area di attacco di un nemico.
+    \end{DndMonsterAction}
+  
+    \begin{DndMonsterAction}{Lazy flyer}
+      Il Kinsect non può volare per più di pochi attimi: in battaglia Il kinsect non può terminare il proprio movimento in volo.
+      Se la velocità del Kinsect è ridotta a zero mentre è in volo, esso inizia a precipitare.
+    \end{DndMonsterAction}
+
+    \begin{DndMonsterAction}{Esoscheletro}
+      Il Kinsect non subisce danno da caduta.
+    \end{DndMonsterAction}
+
+    \begin{DndMonsterAction}{Kinship}
+        Il Kinsect può legarsi ad un altro animale se questo accetta il legame. Il Kinsect assume il proficency bonus dell'animale a
+        cui è legato se più alto del proprio (2). Finchè il Kinsect si trova sull'animale legato esso ignora tutti i danni che subirebbe
+        e non può essere rimosso se non vincendo un Grapple. Il Kinsect può usare le statistiche dell'animale legato per contrastare
+        questo grapple. Il Kinsect e l'animale a cui esso si lega condividono un legame telepatico, ed entro 60ft possono comunicare
+        e condividere i propri sensi. Il kinsect non conosce alcuna lingua, quindi può comunicare solo tramite concetti basilari.
+    \end{DndMonsterAction}    
+  
+    \DndMonsterSection{Actions}
+  
+    \DndMonsterMelee[
+      name=Morso,
+      mod=+5,
+      reach=5,
+      targets=one target,
+      dmg=\DndDice{1d1},
+      dmg-type = Piercing,
+    ]
+  
+  \end{DndMonster}%-------------------------------------------------------------------
+
+\begin{DndTable}[header=Features del Sōhei]{lX}
+    \textbf{Livello da Guerriero}   &  \textbf{Feature}         \\
+    lv 3                  &  Compagno Kinsect, Estrai Essenza   \\
+    lv 7                  &  Combattente Aereo                  \\
+    lv 10                 &  Kinsect Maggiore                   \\
+    lv 15                 &  Asso dei Cieli                     \\
+    lv 18                 &  Sovraccarico di essenze            \\
+\end{DndTable}
+
+\subsubsection{Compagno Kinsect}
+
+\begin{hangingpar}
+  \textit{Maestro di Kinsect feature di livello 3}
+\end{hangingpar}
+
+Quando raggiungi il livello 3 puoi spendere uno Short Rest per legarti psichicamente ad un \textbf{Kinsect Minore}. 
+Il Kinsect è vivo, ed è un tuo compagno. 
+Fintanto che siete legati il Kinsect non può essere ucciso immediatamente, e puoi sempre stabilizzarlo toccandolo e spendendo un'azione. 
+Se lo fai il kinsect non potrà combattere fino al tuo prossimo short rest, o finchè non riceve cure mediche qualunque, e 
+fallirà ogni tentativo di resistere ad un grapple. 
+Tu e il Kinsect condividete un legame telepatico: potete comunicare telepaticamente entro 60ft, e condividere i vostri sensi.
+Il kinsect non conosce alcuna lingua, quindi può comunicare solo tramite concetti basilari.
+Se il tuo kinsect muore puoi procurartene un altro, ma avrai comunque perso un compagno di viaggio. Puoi avere più di un kinsect, 
+ma non puoi legarti a più di uno di essi contemporaneamente.
+
+Diverse delle tue abilità necessitano un Kinsect in grado di combattere, questo sarà indicato ogni volta.
+
+Durante il combattimento, se sei coscente, il kinsect sta appeso al tuo corpo, non tira per iniziativa, non muove e non compie azioni 
+se non istruito. 
+
+Se perdi conoscienza il kinsect agirà autonomamente appena prima del tuo turno.
+
+\subsubsection{Estrai Essenza}
+  
+  \begin{hangingpar}
+    \textit{Maestro di Kinsect feature di livello 3, Richiede Kinsect}
+  \end{hangingpar}
+
+Una volta per turno puoi sostituire uno dei tuoi attacchi con l'ordinare al tuo kinsect di attaccare. 
+Il tuo Kinsect può compiere un singolo attacco contro un qualunque bersaglio che può raggiungere e da cui può tornare indietro usando la sua velocità di volo.
+
+Il kinsect attacca usando il proprio modificatore di destrezza ed il suo, o il tuo, proficency bonus, qualunque sia il maggiore.
+
+Quando il kinsect colpisce un nemico vivo, può estrarre una di tre essenze, a tua scelta, attivandola.
+
+Le essenze ti forniscono dei bonus fintanto che sono attive, e restano attive per 18 secondi (tre Round) dall'ultima volta che
+ne hai ottenuta una: questo significa che quando ottieni un nuovo estratto, anche gli estratti ottenuti in precedenza 
+scadranno 18 secondi da quel momento, a meno di ottenere altri estratti.
+
+Il numero di essenze massimo che puoi avere contemporaneamente è metà del tuo proficency bonus, arrotondato per difetto.
+Se tenti di estrarre una nuova essenza mentre la stessa è già attiva, o se il numero di essenze attive ha raggiunto il massimo,
+non accade nulla.
+
+\begin{itemize}
+    \item \textbf{Rossa:} Fintanto che questo estratto è attivo, quando fai un attacco in mischia, aggiungi 2 al roll sul danno.
+    \item \textbf{Bianca:} Fintanto che questo estratto è attivo la tua velocità di movimento aumenta di 10ft e puoi saltare 5ft aggiuntivi, con e senza rincorsa.
+    \item \textbf{Arancione:} Quando questo estratto diventa attivo, puoi guadagnare 1d8 punti ferita temporanei. Se lo fai, questi punti vita temporanei svaniranno quando questo estratto smette di essere attivo.
+\end{itemize}
+
+\subsection{Combattente Aereo}
+
+\begin{hangingpar}
+    \textit{Maestro di Kinsect feature di livello 7}
+  \end{hangingpar}
+
+Fintanto che indossi un'armatura leggera o nessuna armatura, quando salti puoi decidere di usare la tua Destrezza per determinare quanto in alto e in lungo puoi saltare.
+
+Nelle stesse condizioni, e quando usi un'arma ad asta quale: Quarterstaff, Spear, Glaive, Halberd, Pike, Trident, puoi usare la tua bonus action per 
+proiettarti in aria con essa. Quando lo fai puoi saltare da fermo come se avessi preso la rincorsa, e puoi saltare tanto 
+in alto quanto in lungo. Questa azione provoca attacchi di opportunità. Quando sei in volo puoi usare la Dash action per muoverti in linea retta, senza cambiare quota, 
+di una distanza pari o inferiore al tuo punteggio di destrezza.
+
+Se termini il tuo movimento aereo al di sopra di un nemico puoi attaccarlo normalmente con un'arma da mischia equipaggiata. 
+Quando colpisci con un attacco con arma da mischia un nemico che sta a terra mentre sei in volo, al termine dell'azione, 
+puoi decidere di atterrare in un qualunque spazio libero ad esso adiacente.
+
+Quando calcoli il danno da caduta, se indossi un'armatura leggera o nessun'armatura, ignora i primi 20ft.
+
+\subsection{Kinsect Maggiore}
+
+\begin{hangingpar}
+  \textit{Maestro di Kinsect feature di livello 10}
+\end{hangingpar}
+
+A livello 10 acquisisci l'abilità di creare un legame con i Kinsect Maggiori. Inoltre, durante un tuo long rest puoi concentrare le tue 
+energie vitali e spendere 200Gp per evolvere un Kinsect Minore in una forma maggiore a scelta. Ogni Kinsect maggiore garantisce 
+un'abilità unica che si può realizzare solo fintanto che si è legati a tale Kinsect ed esso è in grado di combattere.
+Il danno di un Kinsect Maggiore conta come magico allo scopo di determinare resistenze ed immunità ai danni, ed è indicato nel suo blocco 
+delle statistiche per l'attacco \textit{morso}, così come la sua velocità. I seguenti Kinsect Maggiori Modificano l'abilità \textit{estrai essenza} nel modo indicato:
+
+\begin{itemize}
+\item \textbf{Concadaman:} Quando questo kinsect colpisce un nemico puoi decidere di fargli produrre una nube di polvere neurotossica 
+che ricopre il bersaglio per un minuto. La prima volta che colpisci un nemico affetto dalla polvere, questo è paralizzato fino al tuo
+prossimo turno a meno di superare un tiro su Costituzione DC 14. Quando il bersagio supera il tiro salvezza non è più coperto dalla 
+polvere paralizzante. Puoi usare questa abilità solo un numero di volte pari a metà del tuo Proficency Bonus tra ogni Short Rest.
+\item \textbf{Monarc Alucanid:} Quando sei legato a questo Kinsect e usi Estrai Essanza, puoi decidere di farlo attaccare due volte 
+invece che una. Se lo fai scegli un estratto per ognuno dei due attacchi. 
+Puoi usare questa abilità solo un numero di volte pari a metà del tuo Proficency Bonus tra ogni Short Rest.
+\item \textbf{Whispervesp:} Per un numero di volte pari a metà del tuo Proficency Bonus tra ogni Short Rest, e non più di una volta per turno,
+puoi decidere di usare Estrai Essenza come bonus action invece che in sostituzione ad uno dei tuoi attacchi.
+\end{itemize}
+
+\begin{DndMonster}{Concadaman} %-----------------------------------------------------------
+    \begin{hangingpar}
+      \textit{Small Beast, Neutral}
+    \end{hangingpar}
+   % \DndMonsterLine%
+    \DndMonsterBasics[%
+    armorclass = 13,
+    hitpoints  = \DndDice{2d4-1},
+    speed      = {10 ft., fly 50 ft.},
+    ]
+   % \DndMonsterLine%
+    \DndMonsterAbilityScores[
+        str = 3, 
+        dex = 16,
+        con = 8,
+        int = 12,
+        wis = 15,
+        cha = 4,
+    ]
+    %\DndMonsterLine%
+    \DndMonsterDetails[
+      skills = {Animal Handling +4},
+      senses = {passive Perception 12},
+      challenge = {0},
+    ]
+    %\DndMonsterLine%
+  
+    % Traits
+
+    \begin{DndMonsterAction}{Magnetosensibilità}
+        Il kinsect percepisce gli esseri viventi come se avesse Blindsight 30ft.
+      \end{DndMonsterAction}
+
+    \begin{DndMonsterAction}{Flyby}
+      Il kinsect non causa attacchi di opportunità quando vola al di fuori dell'area di attacco di un nemico.
+    \end{DndMonsterAction}
+  
+    \begin{DndMonsterAction}{Lazy flyer}
+      Il Kinsect non può volare per più di pochi attimi: in battaglia Il kinsect non può terminare il proprio movimento in volo.
+      Se la velocità del Kinsect è ridotta a zero mentre è in volo, esso inizia a precipitare.
+    \end{DndMonsterAction}
+
+    \begin{DndMonsterAction}{Esoscheletro}
+      Il Kinsect non subisce danno da caduta.
+    \end{DndMonsterAction}
+
+    \begin{DndMonsterAction}{Kinship}
+        Il Kinsect può legarsi ad un altro animale se questo accetta il legame. Il Kinsect assume il proficency bonus dell'animale a
+        cui è legato se più alto del proprio (2). Finchè il Kinsect si trova sull'animale legato esso ignora tutti i danni che subirebbe
+        e non può essere rimosso se non vincendo un Grapple. Il Kinsect può usare le statistiche dell'animale legato per contrastare
+        questo grapple. Il Kinsect e l'animale a cui esso si lega condividono un legame telepatico, ed entro 60ft possono comunicare
+        e condividere i propri sensi. Il kinsect non conosce alcuna lingua, quindi può comunicare solo tramite concetti basilari.
+    \end{DndMonsterAction}    
+  
+    \DndMonsterSection{Actions}
+  
+    \DndMonsterMelee[
+      name=Morso,
+      mod=+5,
+      reach=5,
+      targets=one target,
+      dmg=\DndDice{1d1},
+      dmg-type = Piercing,
+    ]
+
+    \begin{DndMonsterAction}{Polvere Paralizzante}
+        Come Bonus Action il Kinsect può cospargere un bersaglio che ha colpito questo turno di polvere paralizzante. Quando l'animale 
+        a cui è legato colpisce tale bersagio, esso deve superare un tiro salvezza (DC 14) su Costituzione o rimanere paralizzato fino 
+        al prossimo turno dell'animale a cui il Concadaman è legato.
+    \end{DndMonsterAction}
+  
+\end{DndMonster}%-------------------------------------------------------------------
+
+\begin{DndMonster}{Monarc Alucanid} %-----------------------------------------------------------
+    \begin{hangingpar}
+      \textit{Small Beast, Neutral}
+    \end{hangingpar}
+   % \DndMonsterLine%
+    \DndMonsterBasics[%
+    armorclass = 14,
+    hitpoints  = \DndDice{2d4},
+    speed      = {5 ft., fly 60 ft.},
+    ]
+   % \DndMonsterLine%
+    \DndMonsterAbilityScores[
+        str = 5, 
+        dex = 16,
+        con = 10,
+        int = 12,
+        wis = 8,
+        cha = 4,
+    ]
+    %\DndMonsterLine%
+    \DndMonsterDetails[
+      skills = {Animal Handling +1},
+      senses = {passive Perception 9},
+      challenge = {0},
+    ]
+    %\DndMonsterLine%
+  
+    % Traits
+
+    \begin{DndMonsterAction}{Magnetosensibilità}
+        Il kinsect percepisce gli esseri viventi come se avesse Blindsight 30ft.
+      \end{DndMonsterAction}
+
+    \begin{DndMonsterAction}{Flyby}
+      Il kinsect non causa attacchi di opportunità quando vola al di fuori dell'area di attacco di un nemico.
+    \end{DndMonsterAction}
+  
+    \begin{DndMonsterAction}{Lazy flyer}
+      Il Kinsect non può volare per più di pochi attimi: in battaglia Il kinsect non può terminare il proprio movimento in volo.
+      Se la velocità del Kinsect è ridotta a zero mentre è in volo, esso inizia a precipitare.
+    \end{DndMonsterAction}
+
+    \begin{DndMonsterAction}{Esoscheletro}
+      Il Kinsect non subisce danno da caduta.
+    \end{DndMonsterAction}
+
+    \begin{DndMonsterAction}{Kinship}
+        Il Kinsect può legarsi ad un altro animale se questo accetta il legame. Il Kinsect assume il proficency bonus dell'animale a
+        cui è legato se più alto del proprio (2). Finchè il Kinsect si trova sull'animale legato esso ignora tutti i danni che subirebbe
+        e non può essere rimosso se non vincendo un Grapple. Il Kinsect può usare le statistiche dell'animale legato per contrastare
+        questo grapple. Il Kinsect e l'animale a cui esso si lega condividono un legame telepatico, ed entro 60ft possono comunicare
+        e condividere i propri sensi. Il kinsect non conosce alcuna lingua, quindi può comunicare solo tramite concetti basilari.
+    \end{DndMonsterAction}    
+  
+    \DndMonsterSection{Actions}
+  
+    \DndMonsterMelee[
+      name=Morso,
+      mod=+5,
+      reach=5,
+      targets=one target,
+      dmg=\DndDice{1d6},
+      dmg-type = Piercing,
+    ]
+
+    \begin{DndMonsterAction}{Doppio attacco}
+        Il Monarc Alucanid può compiere due attacchi quando usa l'azione di attacco.
+    \end{DndMonsterAction}
+  
+\end{DndMonster}%-------------------------------------------------------------------
+
+\begin{DndMonster}{Wispervesp} %-----------------------------------------------------------
+    \begin{hangingpar}
+      \textit{Small Beast, Neutral}
+    \end{hangingpar}
+   % \DndMonsterLine%
+    \DndMonsterBasics[%
+    armorclass = 15,
+    hitpoints  = \DndDice{2d4-2},
+    speed      = {5 ft., fly 80 ft.},
+    ]
+   % \DndMonsterLine%
+    \DndMonsterAbilityScores[
+        str = 3, 
+        dex = 17,
+        con = 6,
+        int = 12,
+        wis = 9,
+        cha = 8,
+    ]
+    %\DndMonsterLine%
+    \DndMonsterDetails[
+      skills = {Animal Handling +1},
+      senses = {passive Perception 9},
+      challenge = {0},
+    ]
+    %\DndMonsterLine%
+  
+    % Traits
+
+    \begin{DndMonsterAction}{Magnetosensibilità}
+        Il kinsect percepisce gli esseri viventi come se avesse Blindsight 30ft.
+      \end{DndMonsterAction}
+
+    \begin{DndMonsterAction}{Flyby}
+      Il kinsect non causa attacchi di opportunità quando vola al di fuori dell'area di attacco di un nemico.
+    \end{DndMonsterAction}
+  
+    \begin{DndMonsterAction}{Lazy flyer}
+      Il Kinsect non può volare per più di pochi attimi: in battaglia Il kinsect non può terminare il proprio movimento in volo.
+      Se la velocità del Kinsect è ridotta a zero mentre è in volo, esso inizia a precipitare.
+    \end{DndMonsterAction}
+
+    \begin{DndMonsterAction}{Esoscheletro}
+      Il Kinsect non subisce danno da caduta.
+    \end{DndMonsterAction}
+
+    \begin{DndMonsterAction}{Kinship}
+        Il Kinsect può legarsi ad un altro animale se questo accetta il legame. Il Kinsect assume il proficency bonus dell'animale a
+        cui è legato se più alto del proprio (2). Finchè il Kinsect si trova sull'animale legato esso ignora tutti i danni che subirebbe
+        e non può essere rimosso se non vincendo un Grapple. Il Kinsect può usare le statistiche dell'animale legato per contrastare
+        questo grapple. Il Kinsect e l'animale a cui esso si lega condividono un legame telepatico, ed entro 60ft possono comunicare
+        e condividere i propri sensi. Il kinsect non conosce alcuna lingua, quindi può comunicare solo tramite concetti basilari.
+    \end{DndMonsterAction}    
+  
+    \DndMonsterSection{Actions}
+  
+    \DndMonsterMelee[
+      name=Morso,
+      mod=+5,
+      reach=5,
+      targets=one target,
+      dmg=\DndDice{1d4},
+      dmg-type = Piercing,
+    ]
+  
+    \begin{DndMonsterAction}{Rapidità d'attacco}
+        Il Wispervesp può attaccare con la sua Bonus Action se non ha usato la sua azione per attaccare. Se lo fa non può compiere ulteriori attacchi questo turno.
+    \end{DndMonsterAction}
+
+\end{DndMonster}%-------------------------------------------------------------------
+
+\subsection{Asso dei cieli}
+
+\begin{hangingpar}
+    \textit{Maestro di Kinsect feature di livello 15}
+\end{hangingpar}
+
+Quando Esegui un azione di attacco su un nemico mentre sei in volo, dopo esserti mosso di almeno 10ft senza toccare terra, puoi aggiungere il tuo bonus di 
+destrezza al tiro per il danno del primo attacco che compi con quell'azione. Se almeno un attacco di tale azione va a segno ed il tuo kinsect è in grado di
+combattere puoi scegliere e attivare un estratto.
+
+\subsection{Sovraccarico di Essenze}
+
+\begin{hangingpar}
+    \textit{Maestro di Kinsect feature di livello 18}
+\end{hangingpar}
+
+Quando hai tre essenze diverse attive contemporaneamente puoi decidere di moltiplicare ampiamente i loro effetti. Per un minuto ottieni i seguenti bonus
+al posto dei normali bonus dati dagli estratti:
+
+\begin{itemize}
+    \item quando fai un attacco da mischia aggiungi 2 al tiro per il danno. Puoi compiere un attacco aggiuntivo con l'arma da mischia equipaggaita quando esegui un'azione di attacco.
+    \item la tua velocità di movimento aumenta di 15ft e puoi saltare 10ft aggiuntivi. Proiettarti in aria con un'arma ad asta non provoca attacchi d'opportunità.
+    \item hai +1AC e guadagni punti ferita temporanei pari al tuo livello come Fighter
+\end{itemize}
+
+Al termine di questo effetto non puoi recuperare essenze per 1 minuto.
+
+Dopo aver usato questa feature non potrai usarla nuovamente fino al tuo successivo Long Rest.
+
+\clearpage
