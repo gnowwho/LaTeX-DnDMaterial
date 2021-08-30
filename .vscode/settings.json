@@ -1,6 +1,6 @@
 {
-    "files.defaultLanguage": "latex",
-    "files.associations": {
+    "files.defaultLanguage": "latex", //this should associate the LaTeX text highlight to any new file but it doesn't work for some reason
+    "files.associations": { //this overrides the normal language association and see all text files as LaTeX besides .json
         "*": "latex",
         "*.json": "json"
     }
