@@ -1,0 +1,7 @@
+{
+    "files.defaultLanguage": "latex",
+    "files.associations": {
+        "*": "latex",
+        "*.json": "json"
+    }
+}
